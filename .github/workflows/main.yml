@@ -1,0 +1,26 @@
+name: Deploy Technology Radar
+
+on:
+  push:
+    branches:
+    - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: actions/setup-node@v2
+      with:
+        node-version: '12'
+    - run: yarn
+    - run: yarn aoe_technology_radar
+    - uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --acl public-read
+      env:
+        AWS_S3_BUCKET: 'techradar.aoe.com'
+        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.ACCESS_SECRET }}
+        AWS_REGION: 'eu-central-1'
+        SOURCE_DIR: 'build'
