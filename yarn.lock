@@ -1761,7 +1761,7 @@ anymatch@^3.0.3, anymatch@~3.1.1:
 
 "aoe_technology_radar@https://github.com/aoepeople/aoe_technology_radar.git":
   version "2.0.0"
-  resolved "https://github.com/aoepeople/aoe_technology_radar.git#70a5089000376ffa21de1c977689c62ecb18a7a9"
+  resolved "https://github.com/aoepeople/aoe_technology_radar.git#1541eaf52559df7d807d7ab61146cb7d7f73a5c5"
   dependencies:
     "@babel/core" "7.9.0"
     "@types/classnames" "^2.2.10"
