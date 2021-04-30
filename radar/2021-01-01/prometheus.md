@@ -9,6 +9,6 @@ quadrant:   platforms-and-aoe-services
 
 Prometheus integrates very well with Grafana which is our tool of choice for dashboard visualization. Through the [Prometheus Operator](https://github.com/prometheus-operator/prometheus-operator) project, the monitoring system can be configures through Kubernetes custom resource definitions. These can be shipped by development teams alongside with their application deployments and allow [sharing responsibility](https://www.aoe.com/techradar/methods-and-patterns/shared-responsibility.html) for monitoring tasks between operations and engineerings teams with a clear interface.
 
-With [Cortex](https://cortexmetrics.io/) and [Thanos](https://thanos.io/) the Prometheus-ecosystem knows two well setteled solutions for high-availibilty of the underlying time series database and with [Amazon Managed Services for Prometheus](https://aws.amazon.com/en/prometheus/) there's also we SaaS-Solution available.
+With [Cortex](https://cortexmetrics.io/) and [Thanos](https://thanos.io/) the Prometheus-ecosystem knows two well setteled solutions for high-availibilty of the underlying time series database and with [Amazon Managed Services for Prometheus](https://aws.amazon.com/en/prometheus/) there's also a SaaS-Solution available.
 
 We use Prometheus in nearly every project, it's an essential part of our underlying operations and also well understood by many development teams.
