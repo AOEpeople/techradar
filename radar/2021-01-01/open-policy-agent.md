@@ -9,4 +9,4 @@ quadrant:   tools
 
 The utility of OPA and Rego comes from the various integrations into other cloud-natives services and tools. It can be part of the Kubernetes Admission Control process, can be used for authorization decisions within a Service Mesh or could be part of infrastructure evaluation pipelines. 
 
-We use OPA in some of our infrastructure pipelines to ensure that changes don't have undesired impact or within Kubernetes to evaluate the overall conformity of our deployments with the gives policies.
+We use OPA in some of our infrastructure pipelines to ensure that changes don't have undesired impact or within Kubernetes to evaluate the overall conformity of our deployments with the given policies.
