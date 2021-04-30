@@ -5,7 +5,7 @@ quadrant:   platforms-and-aoe-services
 
 ---
 
-OCI-compatible Containers are currently the most-used solution for creating and managing container-based infrastructures and deployments.
+OCI-compatible containers are currently the most-used solution for creating and managing container-based infrastructures and deployments.
 
 Containers and their runtime are an easy way to run applications and serivces as an isolated process (using Linux kernel cgroups, network namespaces and custom mounts).
 
