@@ -10,7 +10,7 @@ This makes it an ideal candidate for infrastructure glue code and adapters.
 
 Shell scripts serve the same purpose. But they usually start simple and get more complex over time.
 This is the point where Python's features like testing capabilities, modularity, variable scoping and refactoring
-support come in strong. We found that Python scripts are easier maintained in the long run and pose
+support comes in strong. We found that Python scripts are easier maintained in the long run and pose
 a lower barrier for contributions by our development teams. And they run across platforms and shells
 without much trouble which is a big plus for developers running different operating systems.
 
