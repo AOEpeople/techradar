@@ -9,8 +9,8 @@ quadrant:   platforms-and-aoe-services
 Amazon EKS runs Kubernetes control plane instances across multiple Availability Zones to ensure high availability. 
 It also provides automated version upgrades and patching for them.
 
-Amazon EKS is fully supported by Terraform which brings the advantage that its configuration is written in code,
-which fulfils the infrastructure as code philosophy. Amazon has also implemented important (security) features to their service to ensure that Amazon EKS is well integrated into the broader AWS landscape. Kubernetes version upgrades and security patches are provided in a reliable schedule and with proper documentation. Alongside with the managed service, Amazons also provides it's own [EKS distribution](https://aws.amazon.com/de/blogs/opensource/introducing-amazon-eks-distro/) while closes the gap for on-premise installations.
+Amazon EKS is fully supported by [Terraform](https://www.aoe.com/techradar/platforms-and-aoe-services/terraform.html) which brings the advantage that its configuration is written in code,
+which fulfils the [infrastructure as code](https://www.aoe.com/techradar/platforms-and-aoe-services/infrastructure-as-code.html) philosophy. Amazon has also implemented important (security) features to their service to ensure that Amazon EKS is well integrated into the broader AWS landscape. Kubernetes version upgrades and security patches are provided in a reliable schedule and with proper documentation. Alongside with the managed service, Amazons also provides it's own [EKS distribution](https://aws.amazon.com/de/blogs/opensource/introducing-amazon-eks-distro/) which closes the gap for on-premise installations.
 
 Different Amazon EKS Clusters are in use on a variety of environments like development, integration, testing and production.
-We experienced that Kubernetes version updates are done without major efforts or impact to the running cluster. Along with that, using EKS avoids a lot of low-level optimization and component management which were required in manually configured clusters.
+We experienced that Kubernetes version updates are done without major efforts or impact to the running cluster. Along with that, using EKS avoids a lot of low-level optimization and component management which were required in manually configured clusters in the past.
