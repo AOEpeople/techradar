@@ -1,5 +1,5 @@
 ---
-title:      "BeyondCorp"
+title:      "ZeroTrust"
 ring:       adopt
 quadrant:   methods-and-patterns
 
