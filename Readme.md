@@ -1,6 +1,11 @@
 # AOE Techonology Radar
 
 ## Build radar
+Install dependencies with `yarn`  
+(Check node version compatibility)
+
+Then build the radar:
+
 ```
 yarn aoe_technology_radar
 ```
