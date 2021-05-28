@@ -9,4 +9,4 @@ We continue to use Akeneo with a variety of customers to store and process produ
 
 In the meantime, Akeneo has been continuously developed and offers many new features that further facilitate product data collection.
 
-Regarding the stack, there was a switch to Elasticsearch and updates to more current Symfony versions. Support for the recently released PHP 8 is upcoming.
+The recent switch to Elasticsearch and an update of Symfony improved runtime behaviour as well as scalability for future-prove use. Support for the latest release of PHP 8 is upcoming.
