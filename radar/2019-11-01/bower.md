@@ -1,3 +1,6 @@
 ---
-featured: false
+title:      "Bower"
+ring:       hold
+quadrant:   tools
+featured:   false
 ---

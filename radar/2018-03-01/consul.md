@@ -1,3 +1,6 @@
 ---
-featured: false
+title:      "Consul"
+ring:       assess
+quadrant:   tools
+featured:   false
 ---
