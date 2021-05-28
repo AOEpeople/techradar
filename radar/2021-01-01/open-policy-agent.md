@@ -5,9 +5,9 @@ quadrant:   tools
 
 ---
 
-[Open Policy Agent](https://www.openpolicyagent.org/) (OPA) is a framework which allows to model and evaluate policies access services. The underlying expression language *rego* is purpose-built for the policy evaluations and implements the **Policy As Code** patterns. 
+[Open Policy Agent](https://www.openpolicyagent.org/) (OPA) is a framework which allows to model and evaluate policy access services. The underlying expression language *Rego* is purpose-built for the policy evaluations and implements the **Policy As Code** pattern. 
 
-This allows to decouple policy from the service's code so you can release, and review policies seperatly for example.
+This allows to decouple policy from the service's code so you can release, and review policies seperatly.
 
 The benefits of using OPA and Rego comes from the various available integrations into other cloud-native services and tools. It can be used with the "Kubernetes Admission Controller", to authorize decisions within a Service Mesh or as part of infrastructure evaluation pipelines. 
 
