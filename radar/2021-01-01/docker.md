@@ -1,5 +1,8 @@
 ---
-featured: false
+title:      "Docker"
+ring:       assess
+quadrant:   platforms-and-aoe-services
+featured:   false
 ---
 
 Docker is best known for its capability to build and run containers. This is how we have used the term "Docker" in the Tech Radar recently. But "Docker" is also a complete production platform, where the capability to build and run Containers is only a small fraction of its capabilities. At the same time numerous alternate runtimes for containers – like containerd and podman – as well as image builders – like Kaniko and Buildah – have evolved during the last years. Thanks to the standards established by the Open Container Initiative these tools are mostly interchangeable for the purposes of building and running containers.
