@@ -1,3 +1,6 @@
 ---
-featured: false
+title:      "Pin external dependencies"
+ring:       adopt
+quadrant:   methods-and-patterns
+featured:   false
 ---

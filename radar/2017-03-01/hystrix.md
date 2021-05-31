@@ -1,5 +1,5 @@
 ---
-title:      "Hystrix "
+title:      "Hystrix"
 ring:       assess
 quadrant:   tools
 
