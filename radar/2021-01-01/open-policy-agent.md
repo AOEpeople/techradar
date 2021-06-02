@@ -13,4 +13,4 @@ The benefits of using OPA and Rego comes from the various available integrations
 
 We use OPA in some of our infrastructure pipelines to ensure that changes don't have undesired impact or within Kubernetes to evaluate the overall conformity of our deployments with the given policies.
 
-We have also evaluated OPA as part of a permission management concept in larger distributed architectures.
+We have also evaluated OPA as part of permission management in distributed architectures. The concept promisses to provide value especially for distributed enterprise architectures.
