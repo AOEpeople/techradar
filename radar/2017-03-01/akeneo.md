@@ -13,6 +13,6 @@ We use Akeneo with success in our projects and products (For example in OM3), wh
 -   Managing livecycles of products and managing product portfolios with their category structures
 -   Managing attributes and families and therefore acting as attribute master for the suite
 
-The system has a modern and friendly user interface and product managers find things such as completenesscheck, translation views and mass editing very helpful.
+The system has a modern and friendly user interface and product managers find things such as completenesscheck, translation views and mass editing very helpful.
 
-With delta export and import capabilities and the usage of Mongo DB as persitence backend, the performance is acceptable. We miss a richer API - but the system is extendable and based on PHP/Symfony 2.
+With delta export and import capabilities and the usage of Mongo DB as persitence backend, the performance is acceptable. We miss a richer API - but the system is extendable and based on PHP/Symfony 2.

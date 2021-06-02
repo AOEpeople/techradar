@@ -11,4 +11,4 @@ We expect at least the following benefits:
 -   Decreased bug density; possible bugs and issues are found early
 -   Safer code and higher code quality
 
-We think Phan can be used in the deployment pipeline or as commit hooks for PHP 7-based applications. For a full Feature list check [here](https://github.com/etsy/phan#features).
+We think Phan can be used in the deployment pipeline or as commit hooks for PHP 7-based applications. For a full Feature list check [here](https://github.com/etsy/phan#features).
