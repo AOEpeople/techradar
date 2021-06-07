@@ -1,6 +1,7 @@
 ---
 title:      "Tailwind CSS"
-ring:       trial quadrant:   languages-and-frameworks
+ring:       trial
+quadrant:   languages-and-frameworks
 
 ---
 Tailwind CSS is a utility first css framework which heavily utilizes css classes. What seems a very "different" approach
