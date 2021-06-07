@@ -1,7 +1,6 @@
 ---
 title:      "Tailwind CSS"
-ring:       trial
-quadrant:   languages-and-frameworks
+ring:       trial quadrant:   languages-and-frameworks
 
 ---
 Tailwind CSS is a utility first css framework which heavily utilizes css classes. What seems a very "different" approach
@@ -20,6 +19,6 @@ resource limited industry 4.0 projects. These projects have a huge demand on a v
 Tailwind helps us fast-forward to fulfil modern user expectations by reducing complexity of sophisticated industry
 processes in a multi device approach.
 
-This is what users can expect nowadays in industry processes as well because the evolution from e.g. a classic cellular
-phone towards a smartphone has proven, there is still a huge potential for improvements towards usability and adaptivity
-driven industry applications.
+This is unexpressed expected by nowadays operators even in industry processes because the evolution from e.g. a classic
+cellular phone towards a smartphone has proven, there is still a huge untapped potential for usability improvements and
+adaptivity driven processes, that reduce complexity especially the industry 4.0 field.
