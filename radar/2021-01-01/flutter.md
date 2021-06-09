@@ -15,4 +15,4 @@ The compilation into native platform code prevents from bottleneck-issues due co
 
 Comparing to a Javascript-based PWA, Flutter's approach promises a better performance and energy-efficiency.
 
-We gathered first positive experience with small applications, which used the  Alpha and Beta state of Flutter for Linux (x64) and Web by the time of development. We plan to continue to assess the cross-platform benefits for future projects.
+We gathered first positive experience with small applications, which used the Alpha and Beta state of Flutter for Linux (x64) and Web by the time of development.
