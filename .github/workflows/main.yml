@@ -14,8 +14,7 @@ jobs:
       with:
         node-version: '12'
     - run: yarn
-    - run: PUBLIC_URL=/techradar yarn aoe_technology_radar
-    - run: yarn aoe_technology_radar-static
+    - run: PUBLIC_URL=/techradar yarn build:static
     - uses: jakejarvis/s3-sync-action@master
       with:
         args: --acl public-read
