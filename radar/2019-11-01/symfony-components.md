@@ -1,3 +1,6 @@
 ---
-featured: false
+title:      "Symfony Components"
+ring:       trial
+quadrant:   languages-and-frameworks
+featured:   false
 ---
