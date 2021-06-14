@@ -1,5 +1,5 @@
 ---
-title:      "API-First Design Approach"
+title:      "Application Performance Management"
 ring:       adopt
 quadrant:   methods-and-patterns
 
