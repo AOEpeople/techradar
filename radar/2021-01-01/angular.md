@@ -7,8 +7,8 @@ quadrant:   languages-and-frameworks
 Actually in version 11 Angular has become an adult SPA framework with much faster build time and significant smaller
 production builds. Updating to newer versions has become mostly a "no-brainer" which helps us to integrate latest
 community bug-fix & improvements on a friday during a cup of coffee. Angular ships as a fully integrated development
-platform from scaffolding, code generation, routing, guarding, unit/e2e-testing, multi language builds (i18n) and stable
-dev/build processes and keeping it extensible at the same time. This "ganzheitlichkeit" makes Angular in the beginning
+platform from scaffolding, code generation, routing, guarding, unit/e2e-testing, multi-language builds (i18n) and stable
+dev/build processes and keeping it extensible at the same time. This holistic nature of Angular makes it in the beginning
 way more difficult to learn but once understood it's a great candidate to go very fast into "requirement implementation"
 aka early providing value rather than library wiring. Beside the existing telco-industry projects we've actually also
 chosen Angular for resource critical industry 4.0 / embedded projects. Here we've selected Angular beside the
