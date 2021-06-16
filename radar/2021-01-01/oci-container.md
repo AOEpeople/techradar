@@ -7,7 +7,7 @@ quadrant:   platforms-and-aoe-services
 
 OCI-compatible containers are currently the most-used solution for creating and managing container-based infrastructures and deployments.
 
-Containers and their runtime are an easy way to run applications and serivces as an isolated process (using Linux kernel cgroups, network namespaces and custom mounts).
+Containers and their runtime are an easy way to run applications and services as an isolated process (using Linux kernel cgroups, network namespaces and custom mounts).
 
 In a DevOps environment, this helps a lot as we can run the exact same software and runtime (such as NodeJS) on both production and locally while developing. This enables us to debug our software much easier. We can compose our project development setup out of small containers. Also, containers allow us to keep our development environment much simpler and independent of our developer's operating system or pre-installed software versions.
 
