@@ -2354,9 +2354,9 @@ anymatch@^3.0.0, anymatch@^3.0.3, anymatch@~3.1.2:
     normalize-path "^3.0.0"
     picomatch "^2.0.4"
 
-"aoe_technology_radar@https://github.com/AOEpeople/aoe_technology_radar.git#useCreateReactAppToSimplify":
+"aoe_technology_radar@https://github.com/aoepeople/aoe_technology_radar.git":
   version "2.0.0"
-  resolved "https://github.com/AOEpeople/aoe_technology_radar.git#f5d4b3021c8c8c9d8ee1d10cb89b0f2ec7109774"
+  resolved "https://github.com/aoepeople/aoe_technology_radar.git#33e36674f700b84e6b9750591ee2dd841b571613"
   dependencies:
     "@types/fs-extra" "^9.0.11"
     "@types/marked" "^2.0.3"
