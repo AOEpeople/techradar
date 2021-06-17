@@ -12,5 +12,5 @@ split of the overall complexity into multiple services, new employees or team me
 
 In order to get microservices right and to benefit from the advantages, there is a lot more required.
 The following "pyramid of need" for microservices shows this:
-![microservices pyramid of need](/assets/images/microservices-pyramid.png)
+![microservices pyramid of need](/images/microservices-pyramid.png)
 
