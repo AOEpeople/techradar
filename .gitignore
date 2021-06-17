@@ -6,5 +6,6 @@ npm-debug.log
 yarn-error.log
 aoe_technology_radar.iml
 build
+techradar
 # bin
 src/rd.json
