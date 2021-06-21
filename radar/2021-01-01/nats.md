@@ -1,7 +1,7 @@
 ---
 title: "NATS"
 ring: assess
-quadrant: languages-and-frameworks
+quadrant: tools
 featured: true
 ---
 
