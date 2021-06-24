@@ -42,3 +42,5 @@ Disadvantages of CSS-in-JS
 - Can add an extra layer of complexity
 
 In the meantime CSS-in-JS has evolved even more. The are some libraries which leverages nearly zero-runtime costs such as [Stitches](https://stitches.dev/) or [Vanilla Extract](https://vanilla-extract.style/) while still providing an excellent developer experience with TypeScript.
+
+We at AOE think that CSS-in-JS is the future of writing good, performant and maintainable CSS, therefore we already use different CSS-in-JS solutions throughout multiple applications.
