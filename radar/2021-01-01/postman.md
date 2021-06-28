@@ -6,5 +6,5 @@ featured:   false
 ---
 
 
-Postman is now the tool of choice for API testing and widely is our projects. We therefore moved it to the
+Postman is now the tool of choice for API testing and widely in our projects. We therefore moved it to the
 **Adopt** level. 
