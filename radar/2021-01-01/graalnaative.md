@@ -4,7 +4,6 @@ ring:       trial
 quadrant:   tools
 
 ---
-Graal Native Image
 
 Native Image is a technology to ahead-of-time compile Java code to a standalone executable, called a native image. In the process 
 of building a native image all library dependencies, including those from the JDK will be packed in the native image.
