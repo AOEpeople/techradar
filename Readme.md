@@ -1,4 +1,8 @@
-# AOE Technology Radar
+# AOE Technology Radar - Content
+
+This is the location of AOE techradar content - published under: https://www.aoe.com/techradar/index.html
+
+
 
 ## Development
 ### Host the application under a sub path
@@ -8,7 +12,8 @@ To host the application under a sub path, set the environment variable `PUBLIC_U
 
 ### Build the radar
 ```
-yarn start
+yarn
+export PUBLIC_URL="/build" && yarn start
 ```
 
 Then open here: http://localhost:8080/build
