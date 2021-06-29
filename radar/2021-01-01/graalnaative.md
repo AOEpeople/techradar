@@ -10,4 +10,4 @@ of building a native image all library dependencies, including those from the JD
 The application created as a native image can be run without a JDK. The natively compiled applications require generally
 less memory and have shorter start up times.
 
-We at AOE have already running microservices written in Scala with Graal Native Image
+We at AOE have already running microservices written in Scala with Graal Native Image.
