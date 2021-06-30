@@ -15,7 +15,7 @@ model and too far away from reality.
 
 By focusing on the domain processes first, one can visualize all aspects of a process over time.
 Having the process visualized, allows to see potential pitfalls or forgotten aspects.
-With a temporal model at hand, it is easy to create a object-oriented or structural model that perfectly
+With a temporal model at hand, it is easy to create an object-oriented or structural model that perfectly
 represents all required information.
 
 We tried this method when tackling big or complex domains. 

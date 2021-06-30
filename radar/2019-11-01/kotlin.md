@@ -12,5 +12,5 @@ From the beginning it was designed with practical thought in mind. So the IDE Su
 
 The Spring Framework Developer put a lot of effort that Springs play well together with Kotlin. 
 
-With it's concise syntax, null safety, 
+With its concise syntax, null safety, 
 Due to its explicit type system, this language is also great replacement for Groovy usage with Gradle.

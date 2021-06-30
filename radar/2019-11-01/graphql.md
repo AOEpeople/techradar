@@ -12,8 +12,8 @@ The main challenge it solves is to improve communication between browser and ser
 
 The advantages are:
 * schema and schema validation together with a useful type system
-* the client (browser) controls what data should be send (data reduction)
-* whith one request you can fetch "all" required data
+* the client (browser) controls what data should be sent (data reduction)
+* with one request you can fetch "all" required data
 
 We are using it together with [Apollo Client](/tools/apollo-client.html) in our [React.js](/languages-and-frameworks/react.html) based frontend.
 This way the React components have their relevant GraphQL snippet, defining what data they request or mutate from the "backend for frontend", directly coupled. 
