@@ -9,4 +9,4 @@ The [Kubernetes Operators](https://kubernetes.io/docs/concepts/extend-kubernetes
 
 Kubernetes Operators are widely available for many community projects. These can be shared and found on [operatorhub.io](https://operatorhub.io/). Implementing custom operators is greatly simplified through the [Operators SDK](https://sdk.operatorframework.io/) which is used as base for many [existing implementations](https://github.com/operator-framework/awesome-operators).
 
-We use operators in most projects and prefer them to custom management code. We encourage teams to try the existing community operators for e.g. oberservability and operations tasks.
+We use operators in most projects and prefer them to custom management code. We encourage teams to try the existing community operators for e.g. observability and operations tasks.
