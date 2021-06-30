@@ -5,7 +5,7 @@ quadrant:   platforms-and-aoe-services
 ---
 
 [Pulumi](https://www.pulumi.com/) is a tool in the infrastructure-as-code space 
-that is quite similiar to [Terraform](https://www.terraform.io/) in that it also 
+that is quite similar to [Terraform](https://www.terraform.io/) in that it also 
 provide a declarative way to provision cloud infrastructure and services. 
 What makes it interesting is that all configuration is done in one of currently
 4 supported general-purpose languages/runtimes: 
@@ -14,7 +14,7 @@ What makes it interesting is that all configuration is done in one of currently
 * .NET Core
 * Go
 
-This differs from the Terraform approach which is using it's own domain specific 
+This differs from the Terraform approach which is using its own domain specific 
 'Terraform Configuration Language'. While Terraform kept this language 
 intentionally small and limited in functionality in order to make it purely
 declarative sometimes there is the need to abstract over configuration
