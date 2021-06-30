@@ -4,7 +4,7 @@ ring: trial
 quadrant: methods-and-patterns
 ---
 
-CSS-in-JS is a method where JavaScript is used to style components. The first libraries which implemented these technique where [Styled-Components](https://styled-components.com/), [Emotion](https://emotion.sh/) & [JSS](https://cssinjs.org/).
+CSS-in-JS is a method where JavaScript is used to style components. The first libraries which implemented this technique were [Styled-Components](https://styled-components.com/), [Emotion](https://emotion.sh/) & [JSS](https://cssinjs.org/).
 
 ### Example:
 
@@ -29,10 +29,10 @@ return <Button primary>Click me</Button>;
 
 Advantages of CSS-in-JS
 
-- Local Scoping instad of global namespace
+- Local Scoping instead of global namespace
 - No classname to element mapping
 - Use the full power of JavaScript to enhance CSS (loops, variables & more)
-- Dynamic syling & Theming (Access to state or props)
+- Dynamic styling & Theming (Access to state or props)
 - TypeScript Support
 
 Disadvantages of CSS-in-JS
