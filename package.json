@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
+    "pregenerateJson": "yarn",
     "generateJson": "aoe_technology_radar-generateJson",
     "prebuild": "yarn generateJson",
     "build": "aoe_technology_radar-buildRadar",
