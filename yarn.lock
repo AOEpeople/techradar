@@ -2355,7 +2355,7 @@ anymatch@^3.0.0, anymatch@^3.0.3, anymatch@~3.1.2:
 
 "aoe_technology_radar@https://github.com/aoepeople/aoe_technology_radar.git":
   version "2.0.0"
-  resolved "https://github.com/aoepeople/aoe_technology_radar.git#466227641cad8c52c8a78812671cac7a671d6007"
+  resolved "https://github.com/aoepeople/aoe_technology_radar.git#e2d2cd6e86547d6c4a493b350b1cb1322d499233"
   dependencies:
     "@types/fs-extra" "^9.0.11"
     "@types/marked" "^2.0.3"
