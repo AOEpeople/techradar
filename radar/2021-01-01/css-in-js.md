@@ -29,11 +29,11 @@ return <Button primary>Click me</Button>;
 
 Advantages of CSS-in-JS
 
-- Local Scoping instead of global namespace
+- Local scoping instead of global namespace
 - No classname to element mapping
 - Use the full power of JavaScript to enhance CSS (loops, variables & more)
-- Dynamic styling & Theming (Access to state or props)
-- TypeScript Support
+- Dynamic styling & theming (access to state or props)
+- TypeScript support
 
 Disadvantages of CSS-in-JS
 
