@@ -1,7 +1,7 @@
 ---
 title:      "DGS Framework"
-ring:       tools
-quadrant:   assess
+ring:       assess
+quadrant:   tools
 ---
 
 The [DGS Framework](https://netflix.github.io/dgs/) is a [GraphQL](https://graphql.org/) server framework based on [Spring Boot](https://spring.io/projects/spring-boot/). It extends [GraphQL Java](https://www.graphql-java.com/) with additional features such as:
