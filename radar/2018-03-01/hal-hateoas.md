@@ -2,8 +2,8 @@
 title:      "HAL / HATEOAS"
 ring:       trial
 quadrant:   methods-and-patterns
-
 ---
+
 We still recommend the usage of HAL and HATEOAS.
  
 But, depending on the resource structure, there are some pitfalls to be aware of:

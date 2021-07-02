@@ -5,7 +5,7 @@ quadrant:   methods-and-patterns
 
 ---
 
-Ports and Adapters is an architecture or layering approach for software design. As with other layering approaches, it seperates different concerns in different layers, where dependencies are only allowed from the outside to the inside.
+Ports and Adapters is an architecture or layering approach for software design. As with other layering approaches, it separates different concerns in different layers, where dependencies are only allowed from the outside to the inside.
 
 We use "ports and adapters" with success for (larger) applications, which contain certain business logic and/or provide several ways to access the services.
 We often use the approach hand-in-hand with Domain Driven Design. In comparison with other layering patterns (e.g. layered architecture) it allows you to have a true technology-free core (domain) model. Why? Because, with the concept of "secondary ports" (=interfaces), it inverts the control and allows outer layers to provide adapters (=implementations of the defined interface).

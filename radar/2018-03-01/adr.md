@@ -2,8 +2,8 @@
 title:      "ADR"
 ring:       assess
 quadrant:   methods-and-patterns
-
 ---
+
 Architecture Decision Records
 
 ADR is a lightweight documentation of important architecture decisions taken by the team.
