@@ -4,7 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "prebuild": "yarn",
     "build": "aoe_technology_radar-buildRadar",
     "postbuild": "yarn generateJson",
     "prebuild:static": "yarn build",
