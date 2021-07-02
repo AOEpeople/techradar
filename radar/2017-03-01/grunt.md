@@ -4,7 +4,6 @@ ring:       hold
 quadrant:   tools
 ---
 
-
 Grunt is a JavaScript task runner that automates repetitive tasks. While Grunt served us well for a good amount of projects,
 other alternatives such as [Gulp](http://gulpjs.com/) emerged in the meantime and proved to be a better pick for the
 majority of our teams.
@@ -19,7 +18,4 @@ always stores the result of one task as files on the disk.
 On large projects where a lot of automation is required, it can get very tedious to maintain complex and parallel running tasks.
 The grunt configuration files sometimes simply don´t gave us the flexibility that we needed.
 
-Currently our preferred way to go is either simply use [NPM scripts](https://docs.npmjs.com/misc/scripts) or rely on [Webpack loaders](https://webpack.js.org/concepts/loaders/) for file preprocessing. For non-webpack projects we also utilize Gulp.
-
-
-
+Currently, our preferred way to go is either simply use [NPM scripts](https://docs.npmjs.com/misc/scripts) or rely on [Webpack loaders](https://webpack.js.org/concepts/loaders/) for file preprocessing. For non-webpack projects we also utilize Gulp.

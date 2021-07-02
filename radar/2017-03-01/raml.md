@@ -2,7 +2,6 @@
 title:      "RAML"
 ring:       adopt
 quadrant:   tools
-
 ---
 
 [RAML](http://raml.org/) (the RESTful API Modelling Language) is a YAML-based API specification language. It's now available in [version 1.0](https://github.com/raml-org/raml-spec/blob/master/versions/raml-10/raml-10.md#defining-types). The philosophy behind it is to [specify the API before implementation](/methods-and-patterns/api-first-design-approach.html).

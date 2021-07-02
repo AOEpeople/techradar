@@ -2,7 +2,6 @@
 title:      "Galen"
 ring:       assess
 quadrant:   tools
-
 ---
 
 With [Galen Framework](http://galenframework.com/), layout testing can be automated to save you a lot of manual work. With its own specification language (Galen Spec), you can write tests to verify the correct look of the web page as well as the location and alignment of specific elements on a page.

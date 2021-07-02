@@ -2,7 +2,6 @@
 title:      "Infrastructure as Code"
 ring:       adopt
 quadrant:   methods-and-patterns
-
 ---
 
 Infrastructure as Code (IaC) describes the process of managing all infrastructure resources via code. Treating infrastructure code the same way we treat application code, we can benefit from the same advantages of having a history in our version control system, doing code reviews and rolling out updates via a Continuous Delivery pipeline in a way that closely approaches how we handle application deployments.

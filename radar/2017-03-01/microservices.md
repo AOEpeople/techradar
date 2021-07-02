@@ -2,9 +2,7 @@
 title:      "Microservices"
 ring:       trial
 quadrant:   methods-and-patterns
-
 ---
-
 
 Microservices as an architecture style is getting very popular recently. At AOE, more and more teams are adding microservices to their existing application architecture or designing applications with microservices.
 
@@ -13,7 +11,7 @@ We also like the term "self-contained systems" instead of microservices.
 The benefits we see are:
 
 *  better handling of complexity compared to adding features in a monolithic approach
-*  beeing able to use the languages and framework that best fit the purpose of the service
+*  being able to use the languages and framework that best fit the purpose of the service
 *  enabling better parallel work in big teams or multi-team projects
 *  flexibility in deploying changes to production - by just deploying the changed service
 

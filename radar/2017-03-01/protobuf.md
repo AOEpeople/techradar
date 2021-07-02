@@ -2,7 +2,6 @@
 title:      "Protobuf"
 ring:       assess
 quadrant:   languages-and-frameworks
-
 ---
 
 In an increasingly microservice-oriented environment, it is crucial that all parties agree on a common language and wire format for data exchange.

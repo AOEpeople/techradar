@@ -2,7 +2,6 @@
 title:      "Vue.js"
 ring:       assess
 quadrant:   languages-and-frameworks
-
 ---
 
 Vue is a progressive, incrementally adoptable framework for building user interfaces maintained by Evan You. Unlike [other monolithic frameworks](http://vuejs.org/v2/guide/comparison.html), the core library is focused on the view layer only and is very easy to pick up and integrate with other libraries or existing projects. Vue is also perfectly capable of powering sophisticated single-page applications when used in combination with modern tooling and supporting libraries such as [vuex](https://vuex.vuejs.org/en/) and [vue-router](http://router.vuejs.org/en/).
