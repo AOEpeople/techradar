@@ -2,7 +2,6 @@
 title:      "Typescript"
 ring:       assess
 quadrant:   languages-and-frameworks
-
 ---
 
 [TypeScript](https://www.typescriptlang.org/) is a language that gets transpiled to native JavaScript code.

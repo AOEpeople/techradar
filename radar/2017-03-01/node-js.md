@@ -2,7 +2,6 @@
 title:      "node.js"
 ring:       trial
 quadrant:   languages-and-frameworks
-
 ---
 
 Node.js is a no- browser JavaScript execution runtime. Its basis is Google's V8 engine. [Node](https://nodejs.org/en/) is event-driven and follows a non-blocking I/O model.

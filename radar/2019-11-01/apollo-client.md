@@ -2,7 +2,6 @@
 title:      "Apollo Client"
 ring:       trial
 quadrant:   tools
-
 ---
 
 The [Apollo Client](https://github.com/apollographql/apollo-client) is a tool to efficiently work together with an GraphQL server. 

@@ -1,8 +1,7 @@
 ---
-title:      "Hystrix "
+title:      "Hystrix"
 ring:       assess
 quadrant:   tools
-
 ---
 
 Hystrix is a very powerful library for handling failures, fallbacks and latency management within complex distributed environments. Netflix developed it and after years of experience, they are using it in almost each of their microservices. It evolved to a great library for handling resilience in complex architectures and covers solutions for the most common resilience patterns like:

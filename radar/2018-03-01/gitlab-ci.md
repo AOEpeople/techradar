@@ -1,12 +1,12 @@
 ---
-title:      "Gitlab CI"
+title:      "GitLab CI"
 ring:       assess
 quadrant:   tools
 ---
 
-Until now, we have been using [Jenkins](https://jenkins.io/) for almost every single task that we have automated. With [Gitlab CI](https://about.gitlab.com/features/gitlab-ci-cd/) on the market, we have a number of new possibilities.
+Until now, we have been using [Jenkins](https://jenkins.io/) for almost every single task that we have automated. With [GitLab CI](https://about.gitlab.com/features/gitlab-ci-cd/) on the market, we have a number of new possibilities.
 
-Some of the highlights are:
+Some highlights are:
 
 * Multi-platform – you can execute builds on Unix, Windows, OSX, and any other platform that supports Go.
 * Multi-language – build scripts are command-line driven and work with Java, PHP, Ruby, C and any other language.

@@ -35,5 +35,5 @@ We suggest the following:
   [artifactory as composer and npm cache](/platforms-and-aoe-services/artifactory.html))
 
 For updating of dependencies define a process in the team. This can either be
-done on the dev-system or in a seperate automated CI job - both resulting in
+done on the dev-system or in a separate automated CI job - both resulting in
 updated dependency definitions in the applications VCS.

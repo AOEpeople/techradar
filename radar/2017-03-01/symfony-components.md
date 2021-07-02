@@ -2,7 +2,6 @@
 title:      "Symfony Components"
 ring:       trial
 quadrant:   languages-and-frameworks
-
 ---
 
 Symfony Components are part of the [Symfony Framework](https://symfony.com/) and they are designed as decoupled and reusable PHP components.

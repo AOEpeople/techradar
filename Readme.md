@@ -1,19 +1,35 @@
-# AOE Techonology Radar
+# AOE Technology Radar - Content
 
-## Build radar
-Install dependencies with `yarn`  
-(Check node version compatibility)
+This is the location of AOE techradar content - published under: https://www.aoe.com/techradar/index.html
 
-Then build the radar:
+## Development
+### Requirements
+Install the [yarn package manager](https://yarnpkg.com/getting-started/install).
 
+### Host the application under a sub path
+To host the application under a sub path, set the environment variable `PUBLIC_URL`, e.g. "/techradar".
+The default is `/build`.
+
+> For local development I recommend using `/build` and use this for the following steps. 
+
+### Build the radar
 ```
-yarn aoe_technology_radar
+yarn start
 ```
 
-## Serve
+Then open here: http://localhost:8080/build
 
+### Build the radar with static files
 ```
-cd build
-python3 -m http.server 8080
+yarn start:static
 ```
-Then open here: http://localhost:8080
+
+Then open here: http://localhost:8080/build
+
+### Regenerate the json file based on your changes on md files
+```
+yarn generateJson
+```
+
+You can do this while the server is running.
+You can find the newly created rd.json in "/build/rd.json". 

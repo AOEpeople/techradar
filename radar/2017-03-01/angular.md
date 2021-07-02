@@ -2,7 +2,6 @@
 title:      "Angular"
 ring:       assess
 quadrant:   languages-and-frameworks
-
 ---
 
 The latest version of the Angular Framework, which is used for large single-page applications.
