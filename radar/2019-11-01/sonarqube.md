@@ -2,7 +2,6 @@
 title:      "SonarQube"
 ring:       trial
 quadrant:   tools
-
 ---
 
 At AOE, we are using SonarQube to get a historical overview of the code quality in our Projects. With SonarQube, you can get a quick insight into the condition of your code. It analyzes many languages and provides numerous static analysis rules.

@@ -2,7 +2,6 @@
 title:      "Vault"
 ring:       trial
 quadrant:   tools
-
 ---
 
 [Hashicorp Vault](https://www.vaultproject.io/) is a Go application with a Rest/Cli interface that you can use to securely access secrets.

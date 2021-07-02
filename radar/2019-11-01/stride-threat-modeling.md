@@ -2,7 +2,6 @@
 title:      "STRIDE Threat Modeling"
 ring:       trial
 quadrant:   methods-and-patterns
-
 ---
 
 STRIDE is a model of threat groups that helps to identify security threats to any application, component or infrastructure.

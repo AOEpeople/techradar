@@ -2,8 +2,8 @@
 title:      "Terraform"
 ring:       adopt
 quadrant:   platforms-and-aoe-services
-
 ---
+
 [Terraform](https://www.terraform.io/) is a tool for building, changing and versioning infrastructure using the infrastructure as code pattern.
 Terraform supports popular service providers like AWS, Google Cloud Platform, Azure and many more.
 

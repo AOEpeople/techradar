@@ -2,7 +2,6 @@
 title:      "Temporal Modeling"
 ring:       assess
 quadrant:   methods-and-patterns
-
 ---
 
 Temporal Modeling is way of modeling software systems and components by putting events first.
@@ -18,4 +17,4 @@ Having the process visualized, allows to see potential pitfalls or forgotten asp
 With a temporal model at hand, it is easy to create an object-oriented or structural model that perfectly
 represents all required information.
 
-We tried this method when tackling big or complex domains. 
+We tried this method when tackling big or complex domains.
