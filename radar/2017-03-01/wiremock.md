@@ -1,5 +1,5 @@
 ---
-title:      "Wiremock"
+title:      "WireMock"
 ring:       trial
 quadrant:   tools
 
