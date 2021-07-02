@@ -15,7 +15,7 @@ jobs:
         node-version: '16'
     - run: yarn cache clean --force
     - run: rm -rf node_modules/
-    - run: yarn --frozen-lockfile --network-timeout 100000
+    - run: yarn --frozen-lockfile --network-timeout 100000 --network-concurrency 1
     - run: PUBLIC_URL=/techradar yarn build:static
     - uses: jakejarvis/s3-sync-action@master
       with:
