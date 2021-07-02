@@ -7,7 +7,8 @@ This is the location of AOE techradar content - published under: https://www.aoe
 Install the [yarn package manager](https://yarnpkg.com/getting-started/install).
 
 ### Host the application under a sub path
-To host the application under a sub path, set the environment variable `PUBLIC_URL`, e.g. "/techradar". The default is `/build`.
+To host the application under a sub path, set the environment variable `PUBLIC_URL`, e.g. "/techradar".
+The default is `/build`.
 
 > For local development I recommend using `/build` and use this for the following steps. 
 
@@ -30,4 +31,5 @@ Then open here: http://localhost:8080/build
 yarn generateJson
 ```
 
-You can do this while the server is running. You can find the newly created rd.json in "/build/rd.json". 
+You can do this while the server is running.
+You can find the newly created rd.json in "/build/rd.json". 

@@ -2,8 +2,8 @@
 title:      "Tailwind CSS"
 ring:       trial
 quadrant:   languages-and-frameworks
-
 ---
+
 Tailwind CSS is a framework that heavily utilizes CSS classes.
 What seems to be a very different approach in the beginning, turns into a big "ah-ha-moment" during development and even more during the build step.
 CSS classes are entirely generated based on a configuration file that outlines the entire design system including states, nuances, etc.
@@ -18,6 +18,5 @@ These projects have a huge demand on a variety of interaction forms.
 
 Tailwind helps us to fulfil modern user expectations by reducing the complexity of sophisticated industrial processes with a multi-device approach.
 
-This is an unspoken expectation of today's operators of industrial processes. The evolution from classic
-cellular phones towards smartphones showed, there is still a huge untapped potential for usability improvements and
-adaptive processes, that reduce complexity especially the industry 4.0 field.
+This is an unspoken expectation of today's operators of industrial processes.
+The evolution from classic cellular phones towards smartphones showed, there is still a huge untapped potential for usability improvements and adaptive processes, that reduce complexity especially the industry 4.0 field.

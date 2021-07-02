@@ -28,6 +28,6 @@ An understanding of how communication systems are working - and what conditions 
 
 That includes the awareness that we can always learn from each other! 
 
-That is the reason we see systemic perspectives with proper system theoretical background emerging in the space of organisational development. We believe that proper learning of this perspectives and the awareness of complexity management capabilities can help organisations to form functional collaboration. This learning helps to reflect systems and oneself more conscious - and that can be a healthy condition for more impact and learning. It may also help that an organisation does not blindly follow the next model, agile "hype" or consultant promises.
+That is the reason we see systemic perspectives with proper system theoretical background emerging in the space of organisational development. We believe that proper learning of these perspectives and the awareness of complexity management capabilities can help organisations to form functional collaboration. This learning helps to reflect systems and oneself more conscious - and that can be a healthy condition for more impact and learning. It may also help that an organisation does not blindly follow the next model, agile "hype" or consultant promises.
 
 More on that topic: [Systemic Communication](https://www.carl-auer.de/magazin/systemzeit/communication-reorganization-of-undetermined)
