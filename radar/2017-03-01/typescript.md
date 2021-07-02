@@ -1,5 +1,5 @@
 ---
-title:      "Typescript"
+title:      "TypeScript"
 ring:       assess
 quadrant:   languages-and-frameworks
 ---
