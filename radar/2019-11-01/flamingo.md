@@ -2,7 +2,6 @@
 title:      "Flamingo"
 ring:       adopt
 quadrant:   languages-and-frameworks
-
 ---
 
 Flamingo is a high productivity go based framework for rapidly building fast and pluggable web projects.
@@ -25,7 +24,7 @@ Flamingo has a clean architecture with clear dependencies in mind and offers a t
 * Authentication concepts and security middleware
 * Flexible routing with support for prefix routes and reverse routing
 * Web Controller Support with: Request / Response / Form Handling etc
-* Operational Readyness: Logging, (distributed) Tracing, Metrics and Healthchecks with separate endpoint
+* Operational Readiness: Logging, (distributed) Tracing, Metrics and Healthchecks with separate endpoint
 * Localisation
 * Commands
 * Session Handling and Management
@@ -34,6 +33,6 @@ Flamingo has a clean architecture with clear dependencies in mind and offers a t
 
 Flamingo itself does not contain ORM Mapper or libraries - instead it emphasizes ["ports and adapters"](/methods-and-patterns/ports-and-adapters.html)  architecture - so that you have a technology free (domain) model and any possible (and replaceable) persistence behind it.
 That makes Flamingo useful to build microservices and applications - especially to build "frontends" or portals that require interaction with other (micro) services in a distributed architecture. 
-When sticking to the architectural recommendation you can build modular applications with replaceable adapters that gives you independent testability.
+When sticking to the architectural recommendation, you can build modular applications with replaceable adapters that gives you independent testability.
 
 With **"Flamingo Commerce"** there is an additional active projects that offer rich and flexible features to build modern e-commerce applications.

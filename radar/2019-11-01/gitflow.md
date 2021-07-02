@@ -2,8 +2,8 @@
 title:      "GitFlow"
 ring:       hold
 quadrant:   methods-and-patterns
-
 ---
+
 Ever since there are recurring discussions about the version control strategy that a team should use.
 
 We have also made the experience when new teams start off with using blocking or long-lived feature branches (merge late once all review comments are done) it has a negative impact on team performance.

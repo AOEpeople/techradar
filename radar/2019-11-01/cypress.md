@@ -2,9 +2,9 @@
 title:      "Cypress"
 ring:       assess
 quadrant:   tools
-
 ---
-[Cypress](https://www.cypress.io/) is a new front-end testing tool (E2E). It comes as a simple node package and is therefore easy to use and maintain for front-end developers and testers. Cypress has a different approach than Selenium. It runs in the browser and in the same loop as the device under test.
+
+[Cypress](https://www.cypress.io/) is a front-end testing tool (E2E). It comes as a simple node package and is therefore easy to use and maintain for front-end developers and testers. Cypress has a different approach than Selenium. It runs in the browser and in the same loop as the device under test.
 
 Good:
 

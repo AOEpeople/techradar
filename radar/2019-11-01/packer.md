@@ -2,7 +2,6 @@
 title:      "Packer"
 ring:       adopt
 quadrant:   platforms-and-aoe-services
-
 ---
 
 [Hashicorp Packer](https://www.packer.io/intro/getting-started/build-image.html) is a lightweight tool which automates the creation of any type of machine images (Machine Image As A Code) for multiple platforms. 
@@ -13,5 +12,5 @@ Packer only builds images. But once you have them you can deploy your infrastruc
 Another benefit is, that machine images can be tested to verify if they are working correctly.
 Packer supports multiple cloud providers like AWS, GCP, Digital Ocean etc.
 
-Machine images are important for modern deployment pipelines and fast ramp of of new infrastructure. 
-We are using Packer to build so called "Golden images" that are used in our [Infrastructure as Code](/methods-and-patterns/infrastructure-as-code.html) based provisionings.
+Machine images are important for modern deployment pipelines and fast ramp of new infrastructure. 
+We are using Packer to build so-called "Golden images" that are used in our [Infrastructure as Code](/methods-and-patterns/infrastructure-as-code.html) based provisionings.

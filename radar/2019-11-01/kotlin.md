@@ -2,7 +2,6 @@
 title:      "Kotlin"
 ring:       adopt
 quadrant:   languages-and-frameworks
-
 ---
 
 Kotlin is used successfully in production by multiple teams.

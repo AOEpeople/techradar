@@ -2,7 +2,6 @@
 title:      "Open API"
 ring:       adopt
 quadrant:   tools
-
 ---
 
 The OpenAPI Specification is becoming a broadly adopted industry standard for describing modern REST APIs. Other initiatives like RAML have [joined](https://blogs.mulesoft.com/dev/api-dev/open-api-raml-better-together/) the OpenAPI Initiative.
