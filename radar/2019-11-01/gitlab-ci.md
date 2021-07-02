@@ -1,5 +1,5 @@
 ---
-title:      "Gitlab CI"
+title:      "GitLab CI"
 ring:       adopt
 quadrant:   tools
 ---
