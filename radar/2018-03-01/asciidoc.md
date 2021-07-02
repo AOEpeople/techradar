@@ -2,7 +2,6 @@
 title:      "AsciiDoc"
 ring:       assess
 quadrant:   tools
-
 ---
 
 AsciiDoc is a [lightweight markup language](https://en.wikipedia.org/wiki/Lightweight_markup_language) such as Markdown. 

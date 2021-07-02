@@ -2,7 +2,6 @@
 title:      "Go / Golang"
 ring:       trial
 quadrant:   languages-and-frameworks
-
 ---
 
 We have moved Go to Trial because multiple teams have used Go with success for different services and tools.
