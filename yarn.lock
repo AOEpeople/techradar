@@ -2354,8 +2354,8 @@ anymatch@^3.0.0, anymatch@^3.0.3, anymatch@~3.1.2:
     picomatch "^2.0.4"
 
 "aoe_technology_radar@https://github.com/aoepeople/aoe_technology_radar.git":
-  version "2.0.0"
-  resolved "https://github.com/aoepeople/aoe_technology_radar.git#20cbc5ef06aacec08257ee5b909d50b7d1c78115"
+  version "3.0.0"
+  resolved "https://github.com/aoepeople/aoe_technology_radar.git#7d49be0c0a508f628e2031e1f24ed5faafcfb40b"
   dependencies:
     "@types/fs-extra" "^9.0.11"
     "@types/marked" "^2.0.3"
