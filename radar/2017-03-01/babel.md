@@ -2,7 +2,6 @@
 title:      "Babel"
 ring:       trial
 quadrant:   languages-and-frameworks
-
 ---
 
 [Babel](https://babeljs.io/) gives you the possibility to use the latest features from JavaScript ([ECMAScript](https://en.wikipedia.org/wiki/ECMAScript)) in the browser of your choice.

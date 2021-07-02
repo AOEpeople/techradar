@@ -46,7 +46,7 @@ gulp.task('sass', function(){
 
 ```
 
-you can now run this task simply by executing the following command in your terminal:
+You can now run this task simply by executing the following command in your terminal:
 
 ```javascript
 gulp sass

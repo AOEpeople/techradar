@@ -12,6 +12,6 @@ challenges. Integrating different Frontends on the client- or server-side can be
 User Experience consistent.
 
 Despite the challenges, Micro Frontends help us to develop large applications across multiple teams. Developers can
-work more independently without having too much trouble maintaining a large codebase. Being able to update oder 
+work more independently without having too much trouble maintaining a large codebase. Being able to update or 
 replace Frontend libraries in some parts of the application is yet another benefit in the fast-moving world of 
 frontend development.

@@ -1,8 +1,21 @@
 {
   "name": "aoe",
-  "version": "1.0.0",
+  "version": "4.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "prebuild": "yarn",
+    "build": "aoe_technology_radar-buildRadar",
+    "postbuild": "yarn generateJson",
+    "prebuild:static": "yarn build",
+    "build:static": "aoe_technology_radar-createStaticFiles",
+    "generateJson": "aoe_technology_radar-generateJson",
+    "prestart": "yarn build:static",
+    "start": "yarn start:server",
+    "prestart:static": "yarn build:static",
+    "start:static": "yarn start:server",
+    "start:server": "python3 -m http.server 8080"
+  },
   "dependencies": {
     "aoe_technology_radar": "https://github.com/aoepeople/aoe_technology_radar.git"
   },

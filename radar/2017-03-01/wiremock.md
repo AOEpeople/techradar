@@ -1,9 +1,9 @@
 ---
-title:      "Wiremock"
+title:      "WireMock"
 ring:       trial
 quadrant:   tools
-
 ---
+
 **[WireMock](http://wiremock.org/docs/)** is an HTTP mock server - it can be used to mock APIs for testing.
 
 At its core, it is a web server that can be prepared to serve canned responses to particular requests (stubbing), and that captures incoming requests so that they can be checked later (verification). It also has an assortment of other useful features including record/playback of interactions with other APIs, injection of faults and delays, simulation of stateful behavior.

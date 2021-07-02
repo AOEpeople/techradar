@@ -12,6 +12,6 @@ Blameless Post Mortems provide a concept of dealing with failures that inevitabl
 
 Based on trust, and under the assumption that every person involved had good intentions to do the best-possible job given the information at hand, Blameless Post Mortems provide an opportunity to continuously improve the quality of software and infrastructure and the processes to deal with critical situations.
 
-The post mortem documentation usually consists of both a timeline of the events leading to an incident and the steps taken to its remediation, as well as future actions and learnings for increasing reslience and stability of our services.
+The post mortem documentation usually consists of both a timeline of the events leading to an incident and the steps taken to its remediation, as well as future actions and learnings for increasing resilience and stability of our services.
 
 At AOE, we strive to conduct a Blameless Post Mortem meeting after every user-visible incident.

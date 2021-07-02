@@ -2,8 +2,8 @@
 title:      "Evil User Stories"
 ring:       assess
 quadrant:   methods-and-patterns
-
 ---
+
 With Evil User Stories, we aim to raise the project teams' (PO, Dev-Team, QA) and clients' awareness for security topics and introduce a security-by-design principle.
 
 The first step is to identify business use cases of potential vulnerabilities in our software product. The next step is to write an Evil User Story for this use case, from the perspective of an evil persona, e.g. "John Badboy who wants to hack our software". The idea behind this is to take a look at specific parts (business logic) of the software from a perspective that would otherwise not be considered when working on standard user stories.

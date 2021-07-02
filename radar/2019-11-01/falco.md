@@ -2,7 +2,6 @@
 title:      "Falco"
 ring:       assess
 quadrant:   tools
-
 ---
 
 Falco is an open source project for intrusion and abnormality detection for Cloud Native platforms such as Kubernetes. 
