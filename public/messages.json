@@ -44,7 +44,7 @@
     ],
     "quadrants": [
       {
-        "name": "Languages and Frameworks",
+        "name": "Languages & Frameworks",
         "description": "We've placed development languages (such as Scala or Golang) here, as well as more low-level development frameworks (such as Play or Symfony), which are useful for implementing custom software of all kinds."
       },
       {
@@ -52,11 +52,11 @@
         "description": "Here we put different software tools - from small helpers to bigger software projects"
       },
       {
-        "name": "Methods and Patterns",
+        "name": "Methods & Patterns",
         "description": "Patterns are so important, and a lot of them are valid for a long time (compared to some tools or frameworks). So, this is the category where we put information on methods and patterns concerning development, continuous x, testing, organization, architecture, etc."
       },
       {
-        "name": "Platforms and Operations",
+        "name": "Platforms & Operations",
         "description": "(including AOE internal Services): Here we include infrastructure platforms and services. We also use this category to communicate news about AOE services that we want all AOE teams to be aware of."
       }
     ],
