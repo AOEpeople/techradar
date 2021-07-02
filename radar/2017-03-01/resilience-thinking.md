@@ -1,5 +1,5 @@
 ---
-title:      "Resilience thinking"
+title:      "Resilience Thinking"
 ring:       trial
 quadrant:   methods-and-patterns
 ---
