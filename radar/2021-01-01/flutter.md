@@ -2,7 +2,6 @@
 title:      "Flutter"
 ring:       assess
 quadrant:   languages-and-frameworks
-
 ---
 
 [Flutter](https://flutter.io) allows writing native applications for different platforms with a single code base in [Dart](https://dart.dev).

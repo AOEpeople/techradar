@@ -12,4 +12,4 @@ The abbreviation "[ELK](https://www.elastic.co/products) Stack" stands for the T
 
 Logstash is used to process and forward different data (or logfile) formats. <u>E</u>lasticsearch is used as a search index and together with the Kibana plugin you can configure highly individual dashboards. Recently, there are also the Beats Tools joining this toolstack to ship data to Elasticsearch.
 
-We have been using the ELK Stack for several years now in several projects and different infrastructure setups - we use it to visualize traffic, certain KPIs  or just to analyze and search in application logs. We encourage all teams to use such a solution and take care to write useful logs in your applications.
+We have been using the ELK Stack for several years now in several projects and different infrastructure setups - we use it to visualize traffic, certain KPIs or just to analyze and search in application logs. We encourage all teams to use such a solution and take care to write useful logs in your applications.

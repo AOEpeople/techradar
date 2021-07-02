@@ -5,11 +5,9 @@ quadrant: "languages-and-frameworks"
 featured: true
 ---
 
-[Scala 3](https://docs.scala-lang.org/scala3/) is the successor of the Scala 2.x 
-series programming language.
+[Scala 3](https://docs.scala-lang.org/scala3/) is the successor of the Scala 2.x series programming language.
 
-It's not just a small iteration on Scala 2 but a complete overhaul of the 
-language trying to improve in several areas like:
+It's not just a small iteration on Scala 2 but a complete overhaul of the language trying to improve in several areas like:
 * Syntax
   * "quiet" syntax for control structures like `if`, `while` and `for`
   * optional `new` operator
@@ -30,8 +28,6 @@ language trying to improve in several areas like:
 * Improvements for object oriented design
 * Completely new metaprogramming facilities while Scala 2 macros were removed
 
-Even with these big changes Scala 3 provides a great compatibility story supporting 
-Scala >2.13.5 libraries in Scala 3 projects and vice versa.
+Even with these big changes Scala 3 provides a great compatibility story supporting Scala >2.13.5 libraries in Scala 3 projects and vice versa.
 
-Although slowly we will update our existing Scala 2 codebase to Scala 3 over the 
-next months and years to take advantage of the improvements made.
+Although slowly we will update our existing Scala 2 codebase to Scala 3 over the next months and years to take advantage of the improvements made.
