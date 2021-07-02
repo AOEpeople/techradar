@@ -1,5 +1,5 @@
 ---
-title:      "Client-side error logging"
+title:      "Client-Side Error Logging"
 ring:       trial
 quadrant:   methods-and-patterns
 ---
