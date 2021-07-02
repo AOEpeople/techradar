@@ -2,7 +2,6 @@
 title:      "Play Framework"
 ring:       adopt
 quadrant:   languages-and-frameworks
-
 ---
 
 The Play Framework is a lightweight (web)application framework for Java and [Scala](/languages-and-frameworks/scala-lang.html) programmers.
@@ -13,4 +12,4 @@ Regarding the architecture, Play is stateless and built on Akka. As a consequenc
 
 With the use of "[Futures](http://docs.scala-lang.org/overviews/core/futures.html)" in your code you can turn synchronous tasks (such as IO or API call to another service) into asynchronous and you can build non-blocking applications. It is recommended to understand the principles Play uses to achieve performance and scalability.
 
-Play can act as backend service delivering JSON, for esample. For building web applications. the [Twirl](https://www.playframework.com/documentation/2.5.x/ScalaTemplates) template engine enables server-side rendering of html pages. These html pages can include css and java script parts of your own choice.
+Play can act as backend service delivering JSON, for example. For building web applications. The [Twirl](https://www.playframework.com/documentation/2.5.x/ScalaTemplates) template engine enables server-side rendering of HTML pages. These HTML pages can include CSS and JavaScript parts of your own choice.

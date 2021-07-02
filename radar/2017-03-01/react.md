@@ -16,4 +16,4 @@ our components became smaller, more reusable and better testable.
 
 After some 1.5 years of experience with React and the steady growth of the
 community and ecosystem around it, we can confidently say that we still see
-great protential to build upcoming projects with React.
+great potential to build upcoming projects with React.

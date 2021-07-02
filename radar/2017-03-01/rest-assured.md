@@ -2,7 +2,6 @@
 title:      "Rest Assured (Testing)"
 ring:       assess
 quadrant:   tools
-
 ---
 
 **[REST-assured](https://github.com/rest-assured/rest-assured)** is a Java DSL for simplifying testing of REST-based services built on top of HTTP Builder. It supports the most important http request methods and can be used to validate and verify the response of these requests.

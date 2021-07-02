@@ -2,7 +2,6 @@
 title:      "Flow"
 ring:       hold
 quadrant:   languages-and-frameworks
-
 ---
 
 [Flow](https://flow.neos.io/) is a PHP web application framework developed for the [Neos](https://www.neos.io/) project.

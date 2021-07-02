@@ -2,8 +2,8 @@
 title:      "RxJs"
 ring:       trial
 quadrant:   languages-and-frameworks
-
 ---
+
 RX/JS aka reactive streams
 
 RxJS is an implementation for the reactive programming paradigm which implements mostly the observer and iterator

@@ -2,8 +2,8 @@
 title:      "Styleguide Driven Development"
 ring:       trial
 quadrant:   methods-and-patterns
-
 ---
+
 The goal of Styleguide Driven Development is to develop your application user Interface independently and reusable in a Pattern Library.\
 In the old days, the frontend was developed based on page-centric Photoshop files which made it hard to change things afterwards. With styleguide driven development you build smaller elements, which are reusable in all of your frontends.
 

@@ -2,8 +2,8 @@
 title:      "Jest "
 ring:       assess
 quadrant:   tools
-
 ---
+
 [Jest](https://facebook.github.io/jest/) is a javascript testing framework by facebook to test javascript code **and** react applications / components.
 
 We started using Jest (and [watchmen](https://github.com/facebook/watchman)) instead of Karma because it:

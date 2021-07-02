@@ -2,7 +2,6 @@
 title:      "Redux"
 ring:       trial
 quadrant:   languages-and-frameworks
-
 ---
 
 [Redux](http://redux.js.org/) helps us to maintain state in our frontend applications in a more predictable and clearer way. It is extendable though middleware, it has a great documentation and some awesome [devtools](https://github.com/gaearon/redux-devtools) that are especially helpful when you are new to Redux.

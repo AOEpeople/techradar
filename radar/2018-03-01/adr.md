@@ -8,8 +8,8 @@ Architecture Decision Records
 
 ADR is a lightweight documentation of important architecture decisions taken by the team.
 Without documentation of the architecture and the architecture decisions, new team members can only do two things:
-* either (blindy) accept what they find and see or
-* (blindy) change things
+* either (blindly) accept what they find and see or
+* (blindly) change things
 
 It goes without saying that both options aren't right.
 
