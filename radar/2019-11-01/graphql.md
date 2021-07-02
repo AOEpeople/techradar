@@ -4,7 +4,8 @@ ring:       adopt
 quadrant:   methods-and-patterns
 ---
 
-GraphQL is a query language for your API, and a server-side runtime for executing queries by using a type system you define for your data. GraphQL isn't tied to any specific database or storage engine and is instead backed by your existing code and data.
+GraphQL is a query language for your API, and a server-side runtime for executing queries by using a type system you define for your data.
+GraphQL isn't tied to any specific database or storage engine and is instead backed by your existing code and data.
 
 GraphQL was developed by Facebook around 2010 and releases 2015. 
 The main challenge it solves is to improve communication between browser and server on high dynamic web apps.
