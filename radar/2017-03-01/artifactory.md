@@ -8,7 +8,7 @@ JFrog [Artifactory](https://www.jfrog.com/open-source/)is a software tool, which
 In addition to storage, it provides a managing interface, which also allows to store build information, properties as well as dependencies per artifact which are organized within repositories.
 A fine grained security system enables easy management of which artifacts are available to whom.
 The artifacts are exposed via an HTTP(S)-Url Artifactory, which can generate package-manager compatible manifests for the repositories.
-AOE utilizes Artifactory to serve Maven, Apt, Npm, Composer and Docker Repositories.
+AOE utilizes Artifactory to serve Maven, Apt, npm, Composer and Docker Repositories.
 
 In addition to storing own assets, Artifactory is able to proxy remote Repository for and cache resolved artifacts locally. 
 This results in an increased build performance and decouples builds from external service dependencies and ensures builds still work even if they utilize outdated dependencies that might not be publicly available anymore.

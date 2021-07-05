@@ -1,14 +1,14 @@
 ---
-title:      "NPM"
+title:      "npm"
 ring:       adopt
 quadrant:   tools
 ---
 
-[NPM](https://www.npmjs.com/) is one of, if not the most, popular package manager for JavaScript. Because of the big community, you can find nearly every dependency in npm.
+[npm](https://www.npmjs.com/) is one of, if not the most, popular package manager for JavaScript. Because of the big community, you can find nearly every dependency in npm.
 
 Instead of other package managers such as [bower](/tools/bower.html), you have to write your packages as [modules](https://en.wikipedia.org/wiki/CommonJS). This unifies the way you have to use, test and, of course, understand dependencies.
 
-NPM creates a tree for your dependencies and their nesting dependencies. Because of this, you don't need to handle version conflicts, since every dependency uses there own version of e.g. [webpack](/tools/webpack.html).
+npm creates a tree for your dependencies and their nesting dependencies. Because of this, you don't need to handle version conflicts, since every dependency uses there own version of e.g. [webpack](/tools/webpack.html).
 
 With [shrinkwrap](https://docs.npmjs.com/cli/shrinkwrap) you have a robust tool to lock down and manage the versions of your dependencies - following the [Pin (external) dependencies](/methods-and-patterns/pin-external-dependencies.html) approach.
 
