@@ -4,9 +4,10 @@ ring:       adopt
 quadrant:   tools
 ---
 
-Gulp is a javascript task runner much like Grunt. The tasks are written in javascript code.
+Gulp is a JavaScript task runner much like Grunt. The tasks are written in JavaScript code.
 
-It is a tool that helps you automate numerous tasks surrounding web development. A typical use is to configure preprocessors for Sass, to compile CSS or to optimize CSS, Javascript and Images.
+It is a tool that helps you automate numerous tasks surrounding web development.
+A typical use is to configure preprocessors for Sass, to compile CSS or to optimize CSS, JavaScript and Images.
 
 With Gulp and its many plugins you can also do stuff such as start a web server and reload the browser if changes happen.
 
@@ -16,7 +17,6 @@ To get started you need to install Gulp on your machine via npm.
 npm install gulp -g
 
 ```
-
 
 You also need it locally in your project, so you have to install it as a dependency in your project .
 

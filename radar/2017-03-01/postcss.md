@@ -13,4 +13,4 @@ Sure, not all of them are useful, but the sheer number of plugins shows how easy
 In fact, it´s just a matter of writing a single JS function.
 
 Finally, PostCSS is very fast and easy to setup because it runs 100% in JavaScript.
-Compared to [SASS](/languages-and-frameworks/sass.html) as a preprocessor, it feels much more powerful but at the same time less bloated with superfluous functionality because everything comes in its own little plugin
+Compared to [Sass](/languages-and-frameworks/sass.html) as a preprocessor, it feels much more powerful but at the same time less bloated with superfluous functionality because everything comes in its own little plugin

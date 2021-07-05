@@ -15,10 +15,10 @@ therefore resolves the complete transient dependencies on the fly.
 Most of these package- or dependency management solutions support two artefacts:
 
 * a semantic dependency definition. This defines the compatible versions of the
-  required dependencies. (Composer: composer.json / NPM: package.json)
+  required dependencies. (Composer: composer.json / npm: package.json)
 * a lock file defining the exact revisions of the dependencies and the transient
   dependencies (dependencies of dependencies). This is created after running the
-  tool. (Composer: composer.lock / NPM: npm-shrinkwrap.json / yarn: yarn.lock).
+  tool. (Composer: composer.lock / npm: npm-shrinkwrap.json / yarn: yarn.lock).
 
 We suggest the following:
 
