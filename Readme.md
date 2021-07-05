@@ -14,6 +14,7 @@ The default is `/build`.
 
 ### Build the radar
 ```
+yarn
 yarn start
 ```
 
@@ -21,6 +22,7 @@ Then open here: http://localhost:8080/build
 
 ### Build the radar with static files
 ```
+yarn
 yarn start:static
 ```
 
