@@ -28,7 +28,7 @@
       {
         "headline": "How it is created",
         "values": [
-          "The items in the technology radar are raised by the different teams and therefore a lot of the items are related to the work and challenges the teams face in the different projects. In fact, we don't include anything on the radar, which we haven't already tried ourselves at least once.",
+          "The items in the technology radar are raised by the different teams and therefore a lot of the items are related to the work and challenges the teams face in the different projects. In fact, we don't include anything on the radar that we haven't tried ourselves at least once.",
           "There have been a lot of valuable discussions in different expert groups about the classification and details of each of technologies and innovations. And the result of all this can be found in the latest technology radar."
         ]
       },
@@ -36,7 +36,7 @@
         "headline": "How should it be used",
         "values": [
           "The radar acts as an overview of technologies that we think everyone in the teams should currently know about.",
-          "Its goal is to act as a guide and inspiration for the daily work in the teams. Its purpose is also to provide helpful information and a bird's-eye perspective - so that decisions can be taken with a much deeper understanding of the subject matter. This results in more-informed and better-aligned decisions.",
+          "Its goal is to act as a guide and inspiration for the daily work in the teams. Its purpose is also to provide helpful information and a bird's-eye perspective - so that decisions can be taken with a much deeper understanding of the subject matter. This results in more informed and coordinated decisions.",
           "We also hope that developers outside of AOE find the information in our technology overview inspirational.",
           "We group or categorize the items in 4 quadrants - (sometimes, when it's not 100% clear where a item belongs, we choose the best fit)."
         ]
@@ -81,7 +81,7 @@
     "sourcecodeLink": {
       "href": "https://github.com/AOEpeople/aoe_technology_radar",
       "name": "AOE Tech Radar on GitHub",
-      "description": "Contributions and source code of the AOE Tech Radar are on github:"
+      "description": "Contributions and source code of the AOE Tech Radar are on GitHub:"
     }
   },
   "legalInformationLink": "https://www.aoe.com/en/imprint.html"
