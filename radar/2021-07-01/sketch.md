@@ -1,5 +1,5 @@
 ---
-title: "Figma"
+title: "Sketch"
 ring: adopt
 quadrant: tools
 featured: true
