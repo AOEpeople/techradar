@@ -7,7 +7,7 @@ featured: true
 
 A monorepo is a single repository containing multiple projects and shared libraries with their relationships.
 
-At AOE, we are use a monorepo that is home to both our React and Next.js based frontends and 
+At AOE, we are using a monorepo that is home to both our React and Next.js based frontends and 
 our [Go](/languages-and-frameworks/go-lang.html) / [Flamingo](/languages-and-frameworks/flamingo.html) based backends, 
 as well as shared libraries we use in all of our projects.
 
