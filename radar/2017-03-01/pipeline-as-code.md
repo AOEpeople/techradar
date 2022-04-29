@@ -1,4 +1,8 @@
-con
+---
+title:      "Pipeline as Code"
+ring:       assess
+quadrant:   methods-and-patterns
+---
 
 Continuous Integration and Delivery is a critical part of our development and deployment process at AOE. Using Jenkins for many years the "instructions" how to build, test and deploy applications were scattered between many custom scripts and the pipeline was often maintained by manual maintenance of Jenkins jobs. Soon, we realized that we need a more native way to express the full CI/CD pipeline process in code and manage it in version control.
 
