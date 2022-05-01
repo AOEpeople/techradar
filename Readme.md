@@ -2,6 +2,8 @@
 
 This is the location of AOE techradar content - published under: https://www.aoe.com/techradar/index.html
 
+If you want to build your own techradar you may want to have a look at https://github.com/AOEpeople/aoe_technology_radar instead.
+
 ## Development
 ### Requirements
 Install the [yarn package manager](https://yarnpkg.com/getting-started/install).
