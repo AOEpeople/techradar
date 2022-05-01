@@ -8,12 +8,11 @@ featured: true
 No-code or low-code refers to tools that allow application software to be created via graphical user interfaces and configuration - instead of (classic) text-based programming.
 Low-code platforms additionally supports certain scripting possibilities.
 
-No-Code and Low-Code platforms have raised a lot of funding and the ecosystem grows fast. There are more then 400 platforms listed on software selection websites like g2.
 No-code and low-code platforms have raised a lot of funding and the ecosystem is growing fast. There are more than 400 platforms listed on software selection websites like g2.
-The promise of this ecosystem sounds logical: there is a growing demand for digital products and solutions in all sectors - and well-trained teams of developers are scarce. 
+The promise of this ecosystem sounds logical: there is a growing demand for digital products and solutions in all sectors - and skilled teams of developers are scarce. 
 That's why platforms like bubble.io, airtable, appsheet, bryter, ninox and co promise to build digital products faster and better.
 
-And the tools are emerging and AI technics are also being used to improve the creation process. Modern low-code platforms also come with built-in release and operational support. We have used some low-code platforms for internal tools, for example to help organise events or onboarding activities.
+And the platforms have developed and the ecosystem is emerging. AI technics are being used to improve the creation process and modern low-code platforms also come with built-in release and operations support. We have used some low-code platforms for internal tools, for example to help organise events or onboarding activities.
 
 
 Here are our thoughts on this:
