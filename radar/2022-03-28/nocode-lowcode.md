@@ -6,7 +6,7 @@ featured: true
 ---
 
 No-code or low-code refers to tools that allow application software to be created via graphical user interfaces and configuration - instead of (classic) text-based programming.
-Low-code platforms additionally supports certain scripting functions.
+Low-code platforms additionally supports certain scripting possibilities.
 
 No-Code and Low-Code platforms have raised a lot of funding and the ecosystem grows fast. There are more then 400 platforms listed on software selection websites like g2.
 No-code and low-code platforms have raised a lot of funding and the ecosystem is growing fast. There are more than 400 platforms listed on software selection websites like g2.
