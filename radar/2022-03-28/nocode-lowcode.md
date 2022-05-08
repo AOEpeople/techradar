@@ -10,7 +10,7 @@ Low-code platforms additionally supports certain scripting possibilities.
 
 No-code and low-code platforms have raised a lot of funding and the ecosystem is growing fast. There are more than 400 platforms listed on software selection websites like g2.
 The promise of this ecosystem sounds logical: there is a growing demand for digital products and solutions in all sectors - and skilled teams of developers are scarce. 
-That's why platforms like bubble.io, airtable, appsheet, bryter, ninox and co promise to build digital products faster and better.
+That's why platforms like [bubble.io](https://bubble.io/), [airtable](https://www.airtable.com/), [appsheet](https://about.appsheet.com/home/), [bryter](https://bryter.com/), [ninox](https://ninox.com/de) and co promise to build digital products faster and better.
 
 And the platforms have developed and the ecosystem is emerging. AI technics are being used to improve the creation process and modern low-code platforms also come with built-in release and operations support. We have used some low-code platforms for internal tools, for example to help organise events or onboarding activities.
 
