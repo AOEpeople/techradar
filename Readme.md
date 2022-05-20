@@ -5,8 +5,6 @@ This is the location of AOE techradar content - published under: https://www.aoe
 If you want to build your own techradar you may want to have a look at https://github.com/AOEpeople/aoe_technology_radar instead.
 
 ## Development
-### Requirements
-Install the [yarn package manager](https://yarnpkg.com/getting-started/install).
 
 ### Host the application under a sub path
 To host the application under a sub path, set the environment variable `PUBLIC_URL`, e.g. "/techradar".
@@ -16,23 +14,23 @@ The default is `/build`.
 
 ### Build the radar
 ```
-yarn
-yarn start
+npm i
+npm run start
 ```
 
 Then open here: http://localhost:8080/build
 
 ### Build the radar with static files
 ```
-yarn
-yarn start:static
+npm i
+npm run start:static
 ```
 
 Then open here: http://localhost:8080/build
 
 ### Regenerate the json file based on your changes on md files
 ```
-yarn generateJson
+npm run generateJson
 ```
 
 You can do this while the server is running.
