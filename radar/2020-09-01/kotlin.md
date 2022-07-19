@@ -5,7 +5,7 @@ quadrant: languages-and-frameworks
 featured: true
 ---
 
-We see Kotlin as a logical evolution of Java bringing increased agility to development teams while requiring a minimal learning curve when coming from Java. 
+We see Kotlin as a logical evolution of <a href='java.html'>Java</a> bringing increased agility to development teams while requiring a minimal learning curve when coming from Java. 
 When using Kotlin Prefer Ktor over Spring Boot for new Kotlin projects.
 
 We prefer Kotlin when:
