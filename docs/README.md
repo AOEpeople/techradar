@@ -1,0 +1,1 @@
+Placeholder for the folder that we use to publish the generated site on GitHub Pages.

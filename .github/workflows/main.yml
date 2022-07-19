@@ -22,7 +22,7 @@ jobs:
       - name: Install and build
         run: |
           npm ci
-          PUBLIC_URL=/build REACT_APP_RADAR_NAME='INFO Technology Radar' npm run build:static
+          REACT_APP_RADAR_NAME='INFO Technology Radar' npm run build:static
           if [ -n "$(git status --porcelain)" ]; then echo 'workspace is dirty after rebuilding' ; git status ; git diff ; exit 1 ; fi
 
       - name: Upload build folder
@@ -44,9 +44,9 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           name: site
-          path: build
+          path: docs
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: build
+          folder: docs
