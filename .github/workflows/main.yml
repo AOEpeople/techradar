@@ -13,8 +13,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Install and build
+      - name: Setup
         uses: actions/setup-node@v3
+      
+      - name: Install and build
         with:
           node-version: "lts/*"
         run: | 
