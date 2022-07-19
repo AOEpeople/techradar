@@ -1,8 +1,6 @@
-# AOE Technology Radar - Content
+# INFO Technology Radar - Content
 
-This is the location of AOE techradar content - published under: https://www.aoe.com/techradar/index.html
-
-If you want to build your own techradar you may want to have a look at https://github.com/AOEpeople/aoe_technology_radar instead.
+The INFO Technology Radar static site generator based on the [AOE tech radar implementation](https://github.com/AOEpeople/techradar).
 
 ## Development
 
@@ -23,7 +21,7 @@ Then open here: http://localhost:8080/build
 ### Build the radar with static files
 ```
 npm i
-npm run start:static
+export PUBLIC_URL=/build && export REACT_APP_RADAR_NAME='INFO Technology Radar' &&  npm run start:static
 ```
 
 Then open here: http://localhost:8080/build
