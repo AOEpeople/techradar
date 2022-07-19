@@ -22,7 +22,7 @@ jobs:
       - name: Install and build
         run: |
           npm ci
-          REACT_APP_RADAR_NAME='INFO Technology Radar' npm run build:static
+          PUBLIC_URL=/info-techradar REACT_APP_RADAR_NAME='INFO Technology Radar' npm run build:static
           if [ -n "$(git status --porcelain)" ]; then echo 'workspace is dirty after rebuilding' ; git status ; git diff ; exit 1 ; fi
 
       - name: Upload build folder
