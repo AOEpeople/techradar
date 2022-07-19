@@ -10,62 +10,29 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
-      - uses: actions/setup-node@v3
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup node
+        uses: actions/setup-node@v3
         with:
           node-version: "lts/*"
-      - run: npm ci
-      - run: PUBLIC_URL=/techradar npm run build:static
-      - run: if [ -n "$(git status --porcelain)" ]; then echo 'workspace is dirty after rebuilding' ; git status ; git diff ; exit 1 ; fi
-      - name: Upload Artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: build
-          path: build
+          cache: npm
+
+      - name: Install and build
+        run: | 
+          npm ci
+          PUBLIC_URL=/build REACT_APP_RADAR_NAME='INFO Technology Radar' npm run build:static
+          if [ -n "$(git status --porcelain)" ]; then echo 'workspace is dirty after rebuilding' ; git status ; git diff ; exit 1 ; fi
+
   deploy:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main'
     needs: build
-    environment:
-      name: techradar
-      url: https://www.aoe.com/techradar/index.html
     steps:
-      - name: Download Artifact
-        uses: actions/download-artifact@v3
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          name: build
-          path: build
-      - uses: jakejarvis/s3-sync-action@master
-        with:
-          args: --acl public-read
-        env:
-          AWS_S3_BUCKET: "techradar.aoe.com"
-          AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.ACCESS_SECRET }}
-          AWS_REGION: "eu-central-1"
-          SOURCE_DIR: "build"
-          DEST_DIR: "techradar"
-  deploy-dev:
-    runs-on: ubuntu-20.04
-    if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
-    needs: build
-    environment:
-      name: techradar-next
-      url: http://techradar-next.aoe.com.s3.eu-central-1.amazonaws.com/techradar/index.html
-    steps:
-      - run: echo "WARNING! THIS DEPLOYS A STAGING ENV, RERUN THIS JOB TO GET YOUR CHANGES DEPLOYED TO STAGING"
-      - name: Download Artifact
-        uses: actions/download-artifact@v3
-        with:
-          name: build
-          path: build
-      - uses: jakejarvis/s3-sync-action@master
-        with:
-          args: --acl public-read
-        env:
-          AWS_S3_BUCKET: "techradar-next.aoe.com"
-          AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.ACCESS_SECRET }}
-          AWS_REGION: "eu-central-1"
-          SOURCE_DIR: "build"
-          DEST_DIR: "techradar"
+          folder: build
+
+
