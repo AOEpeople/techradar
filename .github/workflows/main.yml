@@ -10,12 +10,25 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
+      - name: Checkout
+      - uses: actions/checkout@v3
+
+      - name: Install and build
       - uses: actions/setup-node@v3
         with:
           node-version: "lts/*"
       - run: npm ci
       - run: PUBLIC_URL=/build REACT_APP_RADAR_NAME='INFO Technology Radar' npm run build:static
       - run: if [ -n "$(git status --porcelain)" ]; then echo 'workspace is dirty after rebuilding' ; git status ; git diff ; exit 1 ; fi
+
+  deploy:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    needs: build
+    steps:
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: build
 
 
