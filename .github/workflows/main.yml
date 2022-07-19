@@ -20,19 +20,29 @@ jobs:
           cache: npm
 
       - name: Install and build
-        run: | 
+        run: |
           npm ci
           PUBLIC_URL=/build REACT_APP_RADAR_NAME='INFO Technology Radar' npm run build:static
           if [ -n "$(git status --porcelain)" ]; then echo 'workspace is dirty after rebuilding' ; git status ; git diff ; exit 1 ; fi
+
+      - name: Upload build folder
+        uses: actions/upload-artifact@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          name: build-folder
+          path: build/
 
   deploy:
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main'
     needs: build
     steps:
+      - name: Download build folder
+        uses: actions/download-artifact@v3
+        with:
+          path: build/
+
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: build
-
-
