@@ -1,6 +1,6 @@
 ---
 title: "Progressive Web Applications"
-ring: adopt
+ring: assess
 quadrant: techniques
 featured: true
 ---
