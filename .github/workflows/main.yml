@@ -13,12 +13,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Setup
+      - name: Setup node
         uses: actions/setup-node@v3
-      
-      - name: Install and build
         with:
           node-version: "lts/*"
+          cache: npm
+
+      - name: Install and build
         run: | 
           npm ci
           PUBLIC_URL=/build REACT_APP_RADAR_NAME='INFO Technology Radar' npm run build:static
