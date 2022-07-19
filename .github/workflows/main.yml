@@ -11,15 +11,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-      - uses: actions/checkout@v3
+        uses: actions/checkout@v3
 
       - name: Install and build
-      - uses: actions/setup-node@v3
+        uses: actions/setup-node@v3
         with:
           node-version: "lts/*"
-      - run: npm ci
-      - run: PUBLIC_URL=/build REACT_APP_RADAR_NAME='INFO Technology Radar' npm run build:static
-      - run: if [ -n "$(git status --porcelain)" ]; then echo 'workspace is dirty after rebuilding' ; git status ; git diff ; exit 1 ; fi
+        run: | 
+          npm ci
+          PUBLIC_URL=/build REACT_APP_RADAR_NAME='INFO Technology Radar' npm run build:static
+          if [ -n "$(git status --porcelain)" ]; then echo 'workspace is dirty after rebuilding' ; git status ; git diff ; exit 1 ; fi
 
   deploy:
     runs-on: ubuntu-latest
