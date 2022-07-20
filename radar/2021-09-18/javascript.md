@@ -5,4 +5,4 @@ quadrant: languages-and-frameworks
 featured: true
 ---
           
-We now prefer TypeScript over JavaScript.
+We now prefer <a href='typescript.html'>TypeScript</a> over JavaScript.
