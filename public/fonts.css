@@ -1,11 +1,13 @@
 @font-face {
-    font-family: "Bodoni 72";
+    /** Only the DIN font can be used at the moment. See: https://github.com/AOEpeople/aoe_technology_radar */
+    font-family: "DIN";
     src: url("fonts/bodoni-7275.otf");
     font-weight: bold;
 }
 
 @font-face {
-    font-family: "Helvetica Neue";
+    /** Only the DIN font can be used at the moment. See: https://github.com/AOEpeople/aoe_technology_radar */
+    font-family: "DIN";
     src: url("fonts/helvetica-neue-thin.ttf");
     font-weight: 300;
 }
