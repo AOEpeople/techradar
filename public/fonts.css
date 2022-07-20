@@ -1,11 +1,11 @@
 @font-face {
-    font-family: "DIN";
+    font-family: "Bodoni 72";
     src: url("fonts/bodoni-7275.otf");
     font-weight: bold;
 }
 
 @font-face {
-    font-family: "DIN";
+    font-family: "Helvetica Neue";
     src: url("fonts/helvetica-neue-thin.ttf");
     font-weight: 300;
 }
