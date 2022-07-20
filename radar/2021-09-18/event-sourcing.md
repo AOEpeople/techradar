@@ -5,6 +5,8 @@ quadrant: techniques
 featured: true
 ---
 
+When using <a href="event-driven-architecture.html">Even-Driven Architectures</a> we urge you to consider using Event Sourcing.
+
 Event sourcing is an approach to thinking about persistent data where the primary record is a log of
 all events that make updates. A traditional representation of the database state can be entirely
 recreated by reprocessing this event log. Event sourcing’s benefits include strong auditing,
