@@ -1,5 +1,5 @@
 ---
-title: "AI and Data Science"
+title: "Data Science and Machine Learning"
 ring: trial
 quadrant: techniques
 featured: true
