@@ -5,4 +5,4 @@ quadrant: languages-and-frameworks
 featured: true
 ---
 
-We prefer Kotlin over Java.
+We now prefer <a href='kotlin.html'>Kotlin</a> over Java.
