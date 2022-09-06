@@ -12,7 +12,7 @@ There are a lot of different resilience patterns and it is also a matter of the 
 *   Detect errors explicitly: Check the response message format and configure proper timeouts for external communication
 *   Handle errors in a smart way: Show a nice error message to your customer or, even better, graceful degrade features - e.g. by showing some fallback text
 *   Use message-based communication where useful ([Decoupling Infrastructure via Messaging](/methods-and-patterns/decoupling-infrastructure-via-messaging.html))
-*   Use Circuit Breaker to isolate errors and allow systems to recover
+*   Use circuit breakers to isolate errors and allow systems to recover
 *   Use short activation paths in your strategic architecture - so that there is only a minimal set of communications between your services required for certain features or business requests
 
 "Embrace Errors" should be the mindset - because it is not a question if errors appear - it's just a question of when.
