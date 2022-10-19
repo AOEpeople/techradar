@@ -1,6 +1,6 @@
 ---
 title:      "Semanticore"
-ring:       trial
+ring:       adopt
 quadrant:   tools
 ---
 
