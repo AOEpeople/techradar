@@ -2,6 +2,7 @@
 title:      "Dependency Update Scan"
 ring:       trial
 quadrant:   methods-and-patterns
+tags: [security, CI/CD]
 ---
 
 Tools for automated dependency updates continue to offer a big productivity gain when integrated well into the build workflow.

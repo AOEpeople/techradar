@@ -2,6 +2,7 @@
 title:      "Diagrams as Code"
 ring:       adopt
 quadrant:   methods-and-patterns
+tags: [architecture, quality assurance, documentation]
 ---
 
 Documenting concepts and software architecture as diagrams using code offers great benefit over heavier solutions.

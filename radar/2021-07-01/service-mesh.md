@@ -2,6 +2,7 @@
 title:      "Service Mesh"
 ring:       assess
 quadrant:   platforms-and-aoe-services
+tags: [architecture, devops, security]
 
 ---
 **Service Mesh** is a solution which makes service to service communication more comfortable and more secure in large microservice architectures.

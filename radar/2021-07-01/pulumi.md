@@ -2,6 +2,7 @@
 title:      "Pulumi"
 ring:       assess
 quadrant:   platforms-and-aoe-services
+tags: [devops]
 ---
 
 [Pulumi](https://www.pulumi.com/) is a tool in the infrastructure-as-code space that is quite similar to [Terraform](https://www.terraform.io/) in that it also provide a declarative way to provision cloud infrastructure and services.

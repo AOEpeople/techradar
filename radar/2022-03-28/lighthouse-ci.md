@@ -2,6 +2,7 @@
 title:      "Lighthouse CI"
 ring:       assess
 quadrant:   tools
+tags: [CI/CD, frontend]
 ---
 At AOE, we want to keep a permanent eye on the metrics of the [Web Vitals](https://web.dev/learn-web-vitals/) for our projects.
 

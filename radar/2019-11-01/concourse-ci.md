@@ -2,6 +2,7 @@
 title:      "Concourse"
 ring:       trial
 quadrant:   tools
+tags: [CI/CD]
 ---
 
 [Concourse](https://concourse-ci.org/) is an open-source continuous "thing-doer".

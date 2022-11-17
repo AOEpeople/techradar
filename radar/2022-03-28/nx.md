@@ -3,6 +3,7 @@ title: "NX"
 ring: adopt
 quadrant: tools
 featured: true
+tags: [coding, CI/CD]
 ---
 
 [Nx](https://nx.dev/) is now a daily used tool in our Monorepo setup. It takes care of everything from app creation to 

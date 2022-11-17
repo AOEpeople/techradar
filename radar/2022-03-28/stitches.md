@@ -2,6 +2,7 @@
 title: "Stitches"
 ring: trial
 quadrant: languages-and-frameworks
+tags: [coding, frontend]
 ---
 
 Stitches is a lightweight & performant CSS-in-JS styling library with a focus on component architecture and developer experience.

@@ -2,6 +2,7 @@
 title:    "Strapi"
 ring:     trial
 quadrant: tools
+tags: [frontend]
 ---
 
 Strapi is a headless CMS built with Javascript on Node.js.

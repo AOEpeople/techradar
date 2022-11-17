@@ -2,6 +2,7 @@
 title:      "Keycloak"
 ring:       adopt
 quadrant:   tools
+tags: [security]
 ---
 
 Most distributed systems still face a growing demand for user management, authentication, authorization and Single sign-on. In light of a growing security demand and specialization, the Open Source project JBoss Keycloak is a perfect match. 

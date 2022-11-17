@@ -3,6 +3,7 @@ title: "Loki"
 ring: trial
 quadrant: tools
 featured: true
+tags: [devops]
 ---
 
 Archiving indexed log data with a system like Elasticsearch can be expensive and archiving it as simple text files makes it hard to query them.

@@ -2,6 +2,7 @@
 title:      "React.js"
 ring:       adopt
 quadrant:   languages-and-frameworks
+tags: [coding, frontend]
 ---
 
 The past months have shown that React is still a great fit for us for frontend-heavy applications. 

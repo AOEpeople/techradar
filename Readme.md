@@ -4,6 +4,27 @@ This is the location of AOE techradar content - published under: https://www.aoe
 
 If you want to build your own techradar you may want to have a look at https://github.com/AOEpeople/aoe_technology_radar instead.
 
+## Content Guidelines
+
+New blips should be tagged. The following tags are currently established:
+
+* architecture
+* security
+* devops
+* frontend
+* agile
+* coding
+* quality assurance
+* CI/CD
+* UX/UI
+* documentation
+
+e.g. use like this:
+
+```md
+tags: [devops, security]
+```
+
 ## Development
 
 ### Host the application under a sub path

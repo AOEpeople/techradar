@@ -2,6 +2,7 @@
 title:      "MLOps"
 ring:       assess
 quadrant:   methods-and-patterns
+tags: [devops]
 ---
 
 After spending some time diving into the world of data science and machine learning we're realizing our existing DevOps best practices aren't a perfect fit for the specific workflows we're seeing here.

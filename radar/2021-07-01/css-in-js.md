@@ -2,6 +2,7 @@
 title: "CSS-in-JS"
 ring: trial
 quadrant: methods-and-patterns
+tags: [frontend]
 ---
 
 CSS-in-JS is a method where JavaScript is used to style components. The first libraries which implemented this technique were [Styled-Components](https://styled-components.com/), [Emotion](https://emotion.sh/) & [JSS](https://cssinjs.org/).
