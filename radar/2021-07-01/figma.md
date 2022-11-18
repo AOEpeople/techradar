@@ -3,7 +3,7 @@ title: "Figma"
 ring: adopt
 quadrant: tools
 featured: true
-tags: [frontend, UX/UI, agile]
+tags: [frontend, ux/ui, agile]
 ---
 
 Figma became our go-to tool for the next generation collaborative design. It allowed UX/UI designers, engineers, stakeholders,  product managers, and other roles to view, inspect and comment on designs and wireframes, create high- and low-fidelity prototypes, and much more. 

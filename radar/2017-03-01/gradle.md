@@ -2,7 +2,7 @@
 title:      "Gradle"
 ring:       adopt
 quadrant:   tools
-tags: [CI/CD, coding]
+tags: [ci/cd, coding]
 ---
 
 Gradle is a build automation tool originating in the Java space, providing declarative dependency management (like Maven) and support for custom functionality (like Ant). It has superb multi-project support and is extremely extensible via third-party plugins and also via self-written extensions and plugins that make it outstanding in its area.

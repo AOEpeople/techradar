@@ -2,7 +2,7 @@
 title:      "Storybook"
 ring:       adopt
 quadrant:   tools
-tags: [frontend, UX/UI]
+tags: [frontend, ux/ui]
 ---
 
 In recent years, Storybook has become the de facto standard for creating UI components in isolation.

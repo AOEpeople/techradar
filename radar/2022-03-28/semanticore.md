@@ -2,7 +2,7 @@
 title:      "Semanticore"
 ring:       trial
 quadrant:   tools
-tags: [CI/CD, documentation, quality assurance]
+tags: [ci/cd, documentation, quality assurance]
 ---
 
 [Semanticore](https://github.com/AOEpeople/semanticore) is an open source tool fulfilling our needs for managing changelogs and semantic releases.

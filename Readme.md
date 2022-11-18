@@ -15,8 +15,8 @@ New blips should be tagged. The following tags are currently established:
 * agile
 * coding
 * quality assurance
-* CI/CD
-* UX/UI
+* ci/cd
+* ux/ui
 * documentation
 
 e.g. use like this:

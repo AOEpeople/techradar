@@ -2,7 +2,7 @@
 title:      "Pipeline as Code"
 ring:       adopt
 quadrant:   methods-and-patterns
-tags: [CI/CD]
+tags: [ci/cd]
 ---
 
 We moved this pattern to **adopt**, because it is used by nearly every team and project now and is an important part of our automation.

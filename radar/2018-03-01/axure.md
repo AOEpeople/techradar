@@ -2,7 +2,7 @@
 title:      "Axure"
 ring:       trial
 quadrant:   tools
-tags: [UX/UI]
+tags: [ux/ui]
 ---
 
 [Axure](https://www.axure.com/) is a tool that enables the creation of flowcharts, wireframes, mockups, user journeys and more.

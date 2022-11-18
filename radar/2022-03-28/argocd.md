@@ -2,7 +2,7 @@
 title:      "Argo CD"
 ring:       trial
 quadrant:   tools
-tags: [CI/CD]
+tags: [ci/cd]
 ---
 
 We've been managing the state of application deployments in YAML files via Git repositories in the past. But we still wouldn't call this GitOps. A lot of custom glue code and tools were involved. While [helmfile](https://github.com/roboll/helmfile) replaces some of our custom tooling in a nice way we've also been trying a new approach with [Argo CD](https://argoproj.github.io/cd/). 
