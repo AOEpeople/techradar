@@ -2,6 +2,7 @@
 title: "SpecFlow"
 ring: assess
 quadrant: "languages-and-frameworks"
+tags: [coding, quality assurance]
 ---
 
 SpecFlow is a free and open source BDD-framework for .NET
