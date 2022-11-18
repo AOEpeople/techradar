@@ -2,6 +2,7 @@
 title:      "Ansible"
 ring:       trial
 quadrant:   platforms-and-aoe-services
+tags: [devops]
 ---
 
 [Ansible](https://www.ansible.com/) is a tool used to describe infrastructure and applications and their configuration as code. It covers both the configuration and provisioning aspects of infrastructure and applications.
