@@ -2,6 +2,7 @@
 title:      "API-First Design Approach"
 ring:       adopt
 quadrant:   methods-and-patterns
+tags: [architecture]
 ---
 
 The API of any software we develop shapes in which way developers, teams, customers and users interact with our software.

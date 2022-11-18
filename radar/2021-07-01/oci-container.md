@@ -2,6 +2,7 @@
 title:      "OCI Container"
 ring:       adopt
 quadrant:   platforms-and-aoe-services
+tags: [devops]
 ---
 
 OCI-compatible containers are currently the most-used solution for creating and managing container-based infrastructures and deployments.

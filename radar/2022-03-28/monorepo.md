@@ -3,6 +3,7 @@ title: "Monorepo"
 ring: trial
 quadrant: methods-and-patterns
 featured: true
+tags: [coding]
 ---
 
 A monorepo is a single repository containing multiple projects and shared libraries with their relationships.

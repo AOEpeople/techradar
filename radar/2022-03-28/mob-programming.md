@@ -2,6 +2,7 @@
 title:      "Mob Programming"
 ring:       assess
 quadrant:   methods-and-patterns
+tags: [agile, coding]
 ---
 
 While practising pair programming for several years now at AOE, we have started using

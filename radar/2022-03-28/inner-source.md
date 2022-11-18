@@ -2,6 +2,7 @@
 title:      "Inner Source"
 ring:       assess
 quadrant:   methods-and-patterns
+tags: [agile]
 ---
 
 Inner Source is a strategy to frictionless cross-team collaboration in software development inside an organization. 

@@ -2,6 +2,7 @@
 title:      "Open Policy Agent"
 ring:       assess
 quadrant:   tools
+tags: [security, architecture]
 ---
 
 [Open Policy Agent](https://www.openpolicyagent.org/) (OPA) is a framework which allows modelling and evaluating policy access services.

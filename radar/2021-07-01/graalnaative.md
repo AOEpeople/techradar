@@ -2,6 +2,7 @@
 title:      "Graal Native Image"
 ring:       trial
 quadrant:   tools
+tags: [coding]
 ---
 
 Native Image is a technology to ahead-of-time compile Java code to a standalone executable, called a native image.

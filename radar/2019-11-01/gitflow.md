@@ -2,6 +2,7 @@
 title:      "GitFlow"
 ring:       hold
 quadrant:   methods-and-patterns
+tags: [devops, agile]
 ---
 
 Ever since there are recurring discussions about the version control strategy that a team should use.

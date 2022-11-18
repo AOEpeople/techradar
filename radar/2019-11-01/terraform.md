@@ -2,6 +2,7 @@
 title:      "Terraform"
 ring:       adopt
 quadrant:   platforms-and-aoe-services
+tags: [devops]
 ---
 
 [Terraform](https://www.terraform.io/) is a tool for building, changing and versioning infrastructure using the infrastructure as code pattern.

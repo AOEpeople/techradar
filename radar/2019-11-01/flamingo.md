@@ -2,6 +2,7 @@
 title:      "Flamingo"
 ring:       adopt
 quadrant:   languages-and-frameworks
+tags: [coding]
 ---
 
 Flamingo is a high productivity go based framework for rapidly building fast and pluggable web projects.

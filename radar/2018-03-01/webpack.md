@@ -2,6 +2,7 @@
 title:      "Webpack"
 ring:       adopt
 quadrant:   tools
+tags: [frontend, coding]
 ---
 
 In the last few years, Webpack has grown to become the de-facto standard for Web bundling in the JavaScript-Ecosystem. 

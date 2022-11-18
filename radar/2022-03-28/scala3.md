@@ -3,6 +3,7 @@ title: "Scala 3"
 ring: "adopt"
 quadrant: "languages-and-frameworks"
 featured: true
+tags: [coding]
 ---
 
 Following up on the previous 'trial' we will move our existing Scala codebase to

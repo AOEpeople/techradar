@@ -2,6 +2,7 @@
 title:      "Shared Responsibility Model"
 ring:       trial
 quadrant:   methods-and-patterns
+tags: [devops]
 ---
 
 Since introducing "Platform Engineering Team" who build, maintain and operate our Kubernetes clusters and other related platform services, the question occurs who is in charge of the various tasks like keeping things up and running, applying critical security fixes, update software in general, keeping an eye on the bill and many more topics.

@@ -2,6 +2,7 @@
 title:      "Strategic Domain Driven Design"
 ring:       adopt
 quadrant:   methods-and-patterns
+tags: [architecture]
 ---
 
 Design of distributed applications need to be done wisely. Strategic Domain Driven Design is an approach for modelling large-scale applications and systems and is introduced in the last part of Eric Evans' book _**Domain Driven Design**_.

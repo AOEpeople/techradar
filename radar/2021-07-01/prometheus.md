@@ -2,6 +2,7 @@
 title:      "Prometheus"
 ring:       adopt
 quadrant:   platforms-and-aoe-services
+tags: [devops]
 ---
 
 [Prometheus](https://prometheus.io) is an open-source monitoring and alerting system.

@@ -2,6 +2,7 @@
 title:      "SonarQube"
 ring:       adopt
 quadrant:   tools
+tags: [ci/cd, quality assurance]
 ---
 
 To track code quality of our projects and check for security issues (Static Application Security Testing), we recommend 

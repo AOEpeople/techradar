@@ -2,6 +2,7 @@
 title:      "Team Start Page"
 ring:       adopt
 quadrant:   methods-and-patterns
+tags: [quality assurance, documentation]
 ---
 
 A team start page helps (new) members to orientate themselves. 

@@ -2,6 +2,7 @@
 title:      "Kubernetes"
 ring:       adopt
 quadrant:   platforms-and-aoe-services
+tags: [devops]
 ---
 
 Kubernetes has developed into the quasi-standard for container orchestration: Nearly every cloud provider provides managed Kubernetes, and even Docker Enterprise uses Kubernetes.
