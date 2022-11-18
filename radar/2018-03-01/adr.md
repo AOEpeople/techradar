@@ -2,6 +2,7 @@
 title:      "ADR"
 ring:       assess
 quadrant:   methods-and-patterns
+tags: [architecture, documentation]
 ---
 
 Architecture Decision Records

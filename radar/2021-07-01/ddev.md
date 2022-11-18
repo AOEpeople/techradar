@@ -3,6 +3,7 @@ title: "DDEV"
 ring: adopt
 quadrant: tools
 featured: true
+tags: [coding, ci/cd]
 ---
 
 [DDEV](https://www.ddev.com/ddev-local/) is an open source tool that makes it dead simple to get local PHP development environments up and running within minutes.

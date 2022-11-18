@@ -2,6 +2,7 @@
 title:      "Python for Infrastructure Glue Code"
 ring:       assess
 quadrant:   platforms-and-aoe-services
+tags: [devops, coding]
 ---
 
 [Python](https://www.python.org) is an easy to learn programming language that is pre-installed on most Linux distributions and CI runners.

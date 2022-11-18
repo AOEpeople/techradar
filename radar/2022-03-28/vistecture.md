@@ -2,6 +2,7 @@
 title:      "Vistecture"
 ring:       assess
 quadrant:   tools
+tags: [documentation, architecture]
 ---
 
 [Vistecture](https://vistecture.me/) is a tool for the visualization and analysis of  distributed

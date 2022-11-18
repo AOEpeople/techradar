@@ -2,6 +2,7 @@
 title:      "Event Storming"
 ring:       assess
 quadrant:   methods-and-patterns
+tags: [architecture]
 ---
 
 Event Storming is a method of modeling business processes using domain events.

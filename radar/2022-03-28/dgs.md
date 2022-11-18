@@ -2,6 +2,7 @@
 title:      "DGS Framework"
 ring:       trial
 quadrant:   tools
+tags: [frontend, architecture]
 ---
 
 DGS has proven to simplify the development of GraphQL server applications.

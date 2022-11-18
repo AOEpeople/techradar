@@ -2,6 +2,7 @@
 title:      "Microservices"
 ring:       adopt
 quadrant:   methods-and-patterns
+tags: [architecture]
 ---
 
 We continue to belief in the microservices concept and its related patterns and best practices. However, it's worth mentioning that we had to learn some lessons when it came to resilient thinking and deployment-related dependencies between microservices.

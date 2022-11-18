@@ -2,6 +2,7 @@
 title:      "Devops practices"
 ring:       adopt
 quadrant:   methods-and-patterns
+tags: [devops]
 ---
 
 DevOps is a term that has been around for some years now.

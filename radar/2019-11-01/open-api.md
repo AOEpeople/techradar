@@ -2,6 +2,7 @@
 title:      "Open API"
 ring:       adopt
 quadrant:   tools
+tags: [architecture]
 ---
 
 The OpenAPI Specification is becoming a broadly adopted industry standard for describing modern REST APIs.

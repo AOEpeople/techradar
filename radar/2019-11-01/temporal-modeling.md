@@ -2,6 +2,7 @@
 title:      "Temporal Modeling"
 ring:       assess
 quadrant:   methods-and-patterns
+tags: [architecture]
 ---
 
 Temporal Modeling is way of modeling software systems and components by putting events first.

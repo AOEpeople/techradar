@@ -2,6 +2,7 @@
 title: "Remix"
 ring: trial
 quadrant: languages-and-frameworks
+tags: [coding, frontend]
 ---
 
 Remix is a full stack web framework that lets us focus on the user interface and work with web standards.

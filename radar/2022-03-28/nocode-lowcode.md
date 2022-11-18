@@ -3,6 +3,7 @@ title: "No-Code / Low-Code"
 ring: assess
 quadrant: methods-and-patterns
 featured: true
+tags: [coding]
 ---
 
 No-code or low-code refers to tools that allow application software to be created via graphical user interfaces and configuration - instead of (classic) text-based programming.

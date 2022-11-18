@@ -2,6 +2,7 @@
 title:      "Spock + Geb"
 ring:       hold
 quadrant:   languages-and-frameworks
+tags: [coding, quality assurance]
 ---
 
 [spockframework.org](http://www.spockframework.org) - Spock is a testing and specification framework for Java and Groovy applications.

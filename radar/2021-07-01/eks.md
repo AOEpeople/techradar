@@ -2,6 +2,7 @@
 title:      "Amazon EKS"
 ring:       adopt
 quadrant:   platforms-and-aoe-services
+tags: [devops]
 ---
 
 [Amazon Elastic Kubernetes Service](https://aws.amazon.com/de/eks/) (Amazon EKS) is a managed service that makes it easy for you to run Kubernetes on AWS without needing to stand up or maintain your own Kubernetes control plane or workloads.

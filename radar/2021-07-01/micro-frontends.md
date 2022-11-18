@@ -2,6 +2,7 @@
 title:      "Micro Frontends"
 ring:       adopt
 quadrant:   methods-and-patterns
+tags: [architecture]
 ---
 
 The Micro Frontends approach continues to prove to be a valuable pattern for large-scale systems developed by several teams.

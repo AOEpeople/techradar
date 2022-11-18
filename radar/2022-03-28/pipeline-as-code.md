@@ -2,6 +2,7 @@
 title:      "Pipeline as Code"
 ring:       adopt
 quadrant:   methods-and-patterns
+tags: [devops]
 ---
 
 In the past years many tools have evolved and especially [Gitlab CI](https://docs.gitlab.com/ee/ci/), [Github Actions](https://github.com/features/actions) and [AWS CodeDeploy](https://aws.amazon.com/de/codedeploy/) matured or became available and widely used across many teams.

@@ -2,6 +2,7 @@
 title: "Next.js"
 ring: adopt
 quadrant: languages-and-frameworks
+tags: [coding, frontend]
 ---
 
 [Next.js](https://nextjs.org/) claims itself as **the** React framework for production.

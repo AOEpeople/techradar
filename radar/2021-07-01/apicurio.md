@@ -2,6 +2,7 @@
 title:      "Apicurio Studio"
 ring:       trial
 quadrant:   tools
+tags: [architecture]
 ---
 
 [Apicurio Studio](https://www.apicur.io/studio/) is a browser-based, open-source API design studio. It can be used to create or modify APIs using the [OpenAPI specification](https://swagger.io/specification/). The visual editor supports collaborative development and allows to easily define example responses matching incoming requests.
