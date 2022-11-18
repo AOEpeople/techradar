@@ -2,6 +2,7 @@
 title:      "Harbor"
 ring:       trial
 quadrant:   platforms-and-aoe-services
+tags: [devops]
 ---
 
 [Harbor](https://goharbor.io) is a CNCF-graduated open-source container registry. We use it to host custom built container images

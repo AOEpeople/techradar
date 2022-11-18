@@ -2,6 +2,7 @@
 title: "Playwright"
 ring: trial
 quadrant: "languages-and-frameworks"
+tags: [coding, frontend, quality assurance]
 ---
 
 Playwright is a cross browser/platform/language tool to write reliable end-to-end tests. It's easy to get started with and offers a broad variety of functionalities out of the box. Playwright supports Windows, MacOs and Linux and works with the most popular testing frameworks such as Jest, Mocha and Jasmine.
