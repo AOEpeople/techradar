@@ -1,8 +1,9 @@
 ---
-title: "C#"
-ring: adopt
-quadrant: "languages-and-frameworks"
-featured: true
+title:      "C#"
+ring:       adopt
+quadrant:   "languages-and-frameworks"
+featured:   true
+tags:       [coding]
 ---
 
 C# is a statically, strongly typed and object-oriented language. 
