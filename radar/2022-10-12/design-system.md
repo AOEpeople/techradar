@@ -1,7 +1,7 @@
 ---
 title: "Design System"
 ring: trial
-quadrant: "methods"
+quadrant: "methods-and-patterns"
 featured: true
 tags: [ux/ui, frontend, coding, architecture, documentation]
 ---
