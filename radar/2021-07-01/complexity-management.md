@@ -2,6 +2,7 @@
 title:      "Complexity Management"
 ring:       trial
 quadrant:   methods-and-patterns
+tags:       [agile,architecture]
 ---
 
 Our world is increasingly complex - our society and the economic system is developing fast - we constantly have to deal with surprises and uncertainty. This is especially the case in IT organisations that collaboratively and cross-functional work on innovations, "digitalization strategies" or "transformation projects".
