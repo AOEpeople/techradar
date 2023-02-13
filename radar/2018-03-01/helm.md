@@ -1,6 +1,6 @@
 ---
 title:      "Helm"
-ring:       trial
+ring:       assess
 quadrant:   tools
 ---
 
