@@ -1,7 +1,7 @@
 ---
-title: "DDEV"
-ring: adopt
-quadrant: tools
-featured: false
-tags: [coding, ci/cd]
+title:      "DDEV"
+ring:       adopt
+quadrant:   tools
+tags:       [coding, ci/cd]
+featured:   false
 ---
