@@ -24,7 +24,7 @@ including Alibaba, Tencent and BMW adopted Flutter to develop their apps. This i
 a [blog post by Stackoverflow](https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/)
 where  it shows the increase in popularity in comparison to React Native
 
-Based on these facts, we decided to get a deeper look on FLutter. We were able to prove that Flutter is more performant
+Based on these facts, we decided to get a deeper look on Flutter. We were able to prove that Flutter is more performant
 than, React Native by building an identical Prototype application with both Frameworks.
 
 In addition to the Framework itself, Flutter does a lot to improve the developer experience (DX) due to its hot reload
