@@ -1,7 +1,7 @@
 ---
-title: "Concourse"
-featured: false
-ring: trial
-quadrant: tools
-tags: [ci/cd]
+title:      "Concourse"
+ring:       trial
+quadrant:   tools
+tags:       [ci/cd]
+featured:   false
 ---
