@@ -2,8 +2,7 @@
 title:      "Hot Chocolate"
 ring:       assess
 quadrant:   "languages-and-frameworks"
-featured:   true
-tags: [coding]
+tags:       [coding]
 ---
 
 [Hot Chocolate](https://chillicream.com/docs/hotchocolate/v12) is an open-source GraphQL server for .NET. 
