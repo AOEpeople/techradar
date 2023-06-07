@@ -59,6 +59,7 @@ jobs:
         with:
           name: build
           path: build
+      - run: 'echo "# https://www.robotstxt.org/robotstxt.html\nUser-agent: *\nDisallow: /\n" > build/robots.txt'
       - uses: jakejarvis/s3-sync-action@master
         with:
           args: --acl public-read
