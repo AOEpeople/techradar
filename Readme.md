@@ -29,14 +29,14 @@ tags: [devops, security]
 
 ### Host the application under a sub path
 To host the application under a sub path, set the environment variable `PUBLIC_URL`, e.g. "/techradar".
-The default is `/build`.
+The default is `/`.
 
 > For local development I recommend using `/build` and use this for the following steps. 
 
 ### Build the radar
 ```
 npm i
-npm run start
+PUBLIC_URL=/build npm run start
 ```
 
 Then open here: http://localhost:8080/build
@@ -44,7 +44,7 @@ Then open here: http://localhost:8080/build
 ### Build the radar with static files
 ```
 npm i
-npm run start:static
+PUBLIC_URL=/build npm run start:static
 ```
 
 Then open here: http://localhost:8080/build
