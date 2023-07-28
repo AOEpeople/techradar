@@ -2,6 +2,7 @@
 title:      "Sigstore"
 ring:       trial
 quadrant:   platforms-and-aoe-services
+tags:       [devops, security]
 ---
 
 [Sigstore](https://www.sigstore.dev) is a project by The Linux Foundation® aimed at developing a standard
