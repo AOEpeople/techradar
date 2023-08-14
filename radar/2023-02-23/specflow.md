@@ -2,6 +2,7 @@
 title:      "SpecFlow"
 ring:       assess
 quadrant:   "languages-and-frameworks"
+featured:   false
 tags:       [coding, quality assurance]
 ---
 
