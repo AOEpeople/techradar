@@ -1,11 +1,9 @@
 @font-face {
-    font-family: "DIN";
-    src: url("fonts/clanot-news.otf");
+    font-family: "Courier New";
     font-weight: normal;
 }
 
 @font-face {
-    font-family: "DIN";
-    src: url("fonts/clanot-thin.otf");
+    font-family: "Courier New";
     font-weight: 300;
 }

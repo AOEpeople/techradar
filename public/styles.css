@@ -1,0 +1,19 @@
+/*
+ * Define your custom CSS Styles here.
+ */
+.badge--first {
+    background: var(--color-orange);
+    border-color: var(--color-orange);
+}
+
+body {
+    background: #475157;
+    background: var(--color-blue);
+    box-sizing: border-box;
+    font-family: "Courier New";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0
+}
