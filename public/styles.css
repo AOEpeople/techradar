@@ -10,7 +10,7 @@ body {
     background: #475157;
     background: var(--color-blue);
     box-sizing: border-box;
-    font-family: "Courier New";
+    font-family: "Courier New", monospace;
     font-size: 14px;
     font-weight: 400;
     line-height: 1.5;
