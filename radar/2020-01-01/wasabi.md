@@ -2,7 +2,7 @@
 title:      "Wasabi"
 ring:       adopt
 quadrant:   "platforms-and-aoe-services"
-tags:       [cloud, file]
+tags:       [cloud, file, "File Storage"]
 ---
 
 Wasabi's core product is its cloud storage platform, which is designed to provide secure and cost-effective object storage for businesses and individuals. 

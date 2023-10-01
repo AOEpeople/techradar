@@ -1,19 +1,10 @@
 /*
  * Define your custom CSS Styles here.
  */
-.badge--first {
-    background: var(--color-orange);
-    border-color: var(--color-orange);
-}
 
-body {
-    background: #475157;
-    background: var(--color-blue);
-    box-sizing: border-box;
-    font-family: "Courier New", monospace;
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 1.5;
-    margin: 0;
-    padding: 0
+
+.logo-link__img, .logo-link__text {
+    transition: all .4s cubic-bezier(.54,0,.28,1); !important
+    width: 250px; !important
+    height: 150px; !important
 }
