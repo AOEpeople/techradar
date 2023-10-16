@@ -1,20 +1,12 @@
 ---
-title: "Next.js"
-ring: adopt
-quadrant: languages-and-frameworks
-tags: [coding, frontend]
+title:      "Next.js"
+ring:       adopt
+quadrant:   languages-and-frameworks
+tags:       [coding, frontend]
 ---
-We are still convinced that NextJS is one of the goto frameworks for React and are excited about the features that version
-13 brought with it. On the NextJS Conf 2022 the team announced some pretty cool adaptions in this release but the most
-interesting is the new "app" router. In collaboration with the React team, the new routing architecture brings some of the
-newest and promising features of React 18 to life.
 
-When using the app router every component by default is a [React Server Component](/methods-and-patterns/react-server-components.html)
-which is one of the first real integrations of this pattern in a framework. The goal is to build complex interfaces while
-keeping the amount of JavaScript that's shipped to the client as low as possible. Another exciting feature is Streaming
-that allows to incrementally transfer parts of the UI to the client when they are ready. For example immediately showing
-some fallback UI until an asynchronous action is completed and then streaming the final UI to the client. With the app
-router it is also possible to easily create shared layouts that preserve state on navigation and remain interactive.
+We are convinced that Next.js is one of the go-to frameworks for React, and we're excited about the features that version 13 has brought with it. During the Next.js Conf 2022, the team announced some exciting adaptations in this release, but the most interesting one is the new "app" router. In collaboration with the React team, this new routing architecture brings some of the newest and most promising features of React 18 to life.
 
-The good thing is, that this new architecture can exist besides the old page router. That gives us the possibility to
-incrementally adapt to the new features in existing projects. 
+When using the app router, every component, by default, becomes a [React Server Component](/methods-and-patterns/react-server-components.html), making it one of the first real integrations of this pattern in a framework. The goal is to build complex interfaces while minimizing the amount of JavaScript shipped to the client. Another exciting feature is Streaming, which allows incremental transfer of parts of the UI to the client as they become ready. For example, immediately showing some fallback UI until an asynchronous action is completed, and then streaming the final UI to the client. With the app router, it's also possible to easily create shared layouts that preserve state during navigation and remain interactive.
+
+The good thing is that this new architecture can coexist alongside the old page router, giving us the flexibility to incrementally adapt to the new features in existing projects.

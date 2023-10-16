@@ -14,7 +14,7 @@ While Micro Frontends have gained significant attention as a software architectu
 
 ### Cons:
 - **Complexity:** Managing multiple codebases, handling cross-cutting concerns such as authentication, routing, and state management, and ensuring a consistent user experience throughout the application can introduce a level of complexity that may not be justified for all projects.
-- **Performance Overhead:** Increased JavaScript bundle sizes and additional HTTP requests as each module may be loaded separately can impact page load times, especially in low-bandwidth environments. Careful optimization and caching strategies are required to mitigate this issue.
+- **Performance Overhead:** Increased JavaScript bundle sizes and additional HTTP requests, as each module may be loaded separately, can impact page load times, especially in low-bandwidth environments. Careful optimization and caching strategies are required to mitigate this issue.
 - **Versioning and Compatibility:** Maintaining compatibility between evolving technologies and frameworks is a substantial challenge. Compatibility issues may arise, requiring additional development and testing efforts.
 
 Ultimately, the decision of whether to choose Micro Frontends or other architectural approaches should align with the project's goals, team expertise, and scalability requirements. Individual teams working on well-defined, independently deployable features of a large application may benefit from using Micro Frontends. However, for smaller applications or teams with limited resources, a traditional monolithic approach might be more efficient.
