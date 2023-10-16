@@ -6,4 +6,4 @@ tags:       [ci/cd, quality assurance]
 featured:   false
 ---
 
-SonarQube is still a good choice for checking your code quality. When using GitLab pipelines, it can be replaced with the built-in functionality of [GitLab](https://docs.gitlab.com/ee/ci/testing/code_quality.html).
+SonarQube remains a good choice for checking your code quality. However, when using GitLab pipelines, it can be replaced with the built-in functionality provided by [GitLab](https://docs.gitlab.com/ee/ci/testing/code_quality.html).

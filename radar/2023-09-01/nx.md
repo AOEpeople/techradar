@@ -1,7 +1,7 @@
 ---
-title: "NX"
-ring: adopt
-quadrant: tools
-featured: false
-tags: [coding, ci/cd]
+title:      "NX"
+ring:       adopt
+quadrant:   tools
+tags:       [coding, ci/cd]
+featured:   false
 ---

@@ -2,9 +2,7 @@
 title:      "Service Mesh"
 ring:       trial
 quadrant:   platforms-and-aoe-services
-tags: [architecture, devops, security]
-
+tags:       [architecture, devops, security]
 ---
 
-We are using Service Meshes now in multiple projects.
-Especially mTLS is a great feature that we feel almost all projects will benefit from.
+We have implemented Service Meshes in multiple projects. In particular, mTLS is a valuable feature that we believe almost all projects can benefit from.
