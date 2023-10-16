@@ -6,4 +6,4 @@ tags:       [frontend, coding]
 featured:   false
 ---
 
-Webpack still is one of, if not even the most used bundler by now. The team behind is continuously fixing bugs and adding new features that are released in major version updates. Even if there were new bundlers coming up in recent years, we still can recommend using Webpack.
+Webpack remains one of the, if not the most, widely used bundlers. The team behind it is continually fixing bugs and adding new features, which are released in major version updates. Despite the emergence of new bundlers in recent years, we still recommend using Webpack.

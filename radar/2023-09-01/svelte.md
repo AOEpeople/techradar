@@ -5,8 +5,8 @@ quadrant:   "languages-and-frameworks"
 tags:       [coding, frontend]
 ---
 
-We have some smaller Svelte projects at AOE. There are some features we would like to use and explore further, like
+We have some smaller [Svelte](https://svelte.dev/) projects at AOE, and there are some features we would like to further explore, such as:
 
-- can be used together with other libraries or frameworks
-- server-side rendering by default
-- super fast
+- Compatibility with other libraries or frameworks
+- Server-side rendering by default
+- Exceptional performance

@@ -2,9 +2,8 @@
 title:      "Kubernetes Operators"
 ring:       trial
 quadrant:   methods-and-patterns
-tags: [devops]
+tags:       [devops]
 featured:   false
 ---
 
-We faded out Kubernetes Operators as a stand-alone recommendation, because they
-are such a central part of Kubernetes, that their use seems self-evident.
+We've faded out Kubernetes Operators as a standalone recommendation because they are such a central part of [Kubernetes](../platforms-and-aoe-services/kubernetes.html) that their use appears self-evident.
