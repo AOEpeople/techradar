@@ -1,7 +1,7 @@
 ---
-title: "NATS"
-ring: assess
-quadrant: tools
-featured: false
-tags: [architecture, devops]
+title:      "NATS"
+ring:       assess
+quadrant:   tools
+tags:       [architecture, devops]
+featured:   false
 ---

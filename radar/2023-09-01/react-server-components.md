@@ -5,26 +5,12 @@ quadrant:   methods-and-patterns
 tags:       [frontend, coding]
 ---
 
-Shortly after releasing React 17 in October 2020, the team announced React Server Components (RSC) in December 2020 as a working draft.
-RSCs are described as a new kind of application architecture in React, to reduce the amount of JavaScript that's shipped to the client.
-The overall goal is to achieve better performance, user experience and maintainability.
+Shortly after releasing React 17 in October 2020, the team introduced React Server Components (RSC) as a working draft in December 2020. RSCs represent a new application architecture paradigm within React designed to reduce the amount of JavaScript sent to the client. The ultimate goal is to enhance performance, user experience, and maintainability.
 
-The new feature allows to create components that are running on the server exclusively. That means there will be zero
-effect on the bundle size that is downloaded by the client. For example libraries that are used in server components are
-not shipped to the client. RSCs have the ability to access server-side resources (e.g. database, file system) directly.
+This new feature enables the creation of components that exclusively run on the server. As a result, there is no impact on the bundle size downloaded by the client. For instance, libraries used in server components are not shipped to the client. RSCs also have the capability to access server-side resources, such as databases and the file system, directly.
 
-Besides server components there are client components that actually are the classic components everyone's known until yet.
-The only difference is, client components need to be explicitly declared by a directive. To decide which component needs
-to be client or server might become one of the more challenging parts, especially when migrating existing applications is
-the goal.
+In addition to server components, there are client components, which are essentially the classic components everyone is familiar with. The only distinction is that client components need to be explicitly declared using a directive. Determining which components should be client or server can be one of the more challenging aspects, especially when the goal is to migrate existing applications.
 
-It looks like RSCs are most effectively used with Server Side Rendering, even tho it is possible to use them without it.
-RSCs and Server Side Rendering complement each other pretty good, because server components are only rendered once on the server and
-don't need to get shipped to the client. Client components are still rendered on the server and get hydrated afterward.
-But with a smart application structure where the amount of client side code is reduced to a minimum and in combination
-with React 18's [Suspense and Selective Hydration](https://github.com/reactwg/react-18/discussions/37) features there is an expected increase in performance. To prove this assumption the React team
-decided to collaborate with Vercel (maintainer of [NextJS](/languages-and-frameworks/next-js.html)) to integrate early into a fitting environment.
+RSCs appear to be most effective when used with Server Side Rendering, although it is possible to use them without it. RSCs and Server Side Rendering complement each other well, as server components are only rendered once on the server and do not need to be sent to the client. Client components are still rendered on the server and then hydrated on the client side. However, with a well-structured application that minimizes client-side code and in combination with React 18's [Suspense and Selective Hydration](https://github.com/reactwg/react-18/discussions/37) features, a performance boost is expected. To test this hypothesis, the React team has collaborated with Vercel, the maintainer of [NextJS](/languages-and-frameworks/next-js.html), to integrate RSCs into a suitable environment early.
 
-Overall we see the potential of this new approach, even tho there are still several steps to go, especially for the meta
-frameworks to achieve production readiness. But it seems only a matter of time that adoption of React Server Components
-will spread. That's why we put it to the assess ring, to keep an eye on this topic.
+Overall, we recognize the potential of this new approach, even though there are several steps to take, particularly for meta-frameworks to achieve production readiness. It appears to be only a matter of time before adoption of React Server Components becomes widespread. This is why we have placed it in the assess ring, keeping a watchful eye on this evolving technology.

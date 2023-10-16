@@ -5,4 +5,4 @@ quadrant:   "methods-and-patterns"
 tags:       [ux/ui, frontend, coding, architecture, documentation]
 ---
 
-By implementing design systems, we have been able to demonstrate that this approach adheres to many of the mentioned benefits and recommend that it be used in future projects.
+Through the implementation of design systems, we have demonstrated that this approach aligns with many of the mentioned benefits and recommend its use in future projects.
