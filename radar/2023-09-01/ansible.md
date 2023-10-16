@@ -6,6 +6,4 @@ tags:       [devops]
 featured:   false
 ---
 
-We saw a decrease in our usage of Ansible recently. We focus more on immutable
-infrastructure using cloud providers. Ansible has still great benefits for mutable infrastructure
-that needs to be fostered and is a great tool to achieve [Infrastructure as code](../platforms-and-aoe-services/infrastructure-as-code.html) in those cases.
+We have observed a decrease in our usage of Ansible recently. Our current focus lies more on immutable infrastructure using cloud providers. Nonetheless, Ansible still offers great benefits for mutable infrastructure that require support and is an excellent tool for achieving [Infrastructure as Code](../platforms-and-aoe-services/infrastructure-as-code.html) in such cases.
