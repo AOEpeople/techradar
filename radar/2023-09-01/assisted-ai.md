@@ -1,5 +1,5 @@
 ---
-title:      "AI assisted programming"
+title:      "AI Assisted Programming"
 ring:       assess
 quadrant:   "methods-and-patterns"
 tags:       [coding, architecture]
@@ -13,10 +13,10 @@ Assisted AI combines human and machine intelligence to enhance productivity. It 
 
 Developers should consider using generative artificial intelligence (AI) for a multitude of reasons:
 
-- **Code Enhancement**: Assisted AI offers intelligent code suggestions, optimizing and refactoring. It helps saving time and boosting quality and developer satisfaction.
+- **Code Enhancement**: Assisted AI offers intelligent code suggestions, optimizing and refactoring. It helps save time and boost quality and developer satisfaction.
 - **Automated Testing**: It accelerates testing, identifies bugs, and generates test cases for more robust, reliable software.
 - **NLP-powered Documentation**: Assisted AI assists in writing precise, comprehensive documentation.
-- **Security**: Assisted AI can help identifying vulnerabilities.
+- **Security**: Assisted AI can help identify vulnerabilities.
 
 ### Providers and Solutions
 
@@ -26,11 +26,11 @@ Developers should consider using generative artificial intelligence (AI) for a m
   - Can also interpret and generate visual content, providing a multifaceted interaction experience.
 - [GitHub Copilot](https://copilot.github.com/)
   - Transforms natural language prompts into relevant code suggestions.
-  - Offers seamless integration with numerous IDEs for enhanced developer experience.
+  - Offers seamless integration with numerous IDEs for an enhanced developer experience.
   - Empowered by training on billions of lines of code.
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
   - Completely free to use for individual developers.
-  - Advanced feature to trace the origin of code snippets.
+  - Advanced features to trace the origin of code snippets.
   - Integrated with AWS, providing robust and scalable solutions.
 - [FauxPilot](https://github.com/fauxpilot/fauxpilot)
   - A credible open-source counterpart to GitHub Copilot server.
@@ -39,15 +39,14 @@ Developers should consider using generative artificial intelligence (AI) for a m
 
 ### Challenges and Considerations
 
-Ethical, privacy, and bias concerns need careful attention. 
-Especially data protection concerns while working with cloud based solutions are important to consider.
+Ethical, privacy, and bias concerns need careful attention, especially data protection concerns while working with cloud-based solutions, which are important to consider.
 
 ### Future Outlook
 
-Assisted AI is a pivotal development. Embracing this shift promises improved efficiency and better products. 
+Assisted AI is a pivotal development. Embracing this shift promises improved efficiency and better products.
 
 We are currently establishing the following aspects:
 
-* maintain a risk assessment and regular work on mitigations
-* Setup usage guidelines and provide trainings
-* setup a regular "learning group" as exchange between teams - to share best practices and learnings
+- Maintaining a risk assessment and working on mitigations regularly.
+- Setting up usage guidelines and providing training.
+- Establishing a regular "learning group" as an exchange between teams to share best practices and learnings.
