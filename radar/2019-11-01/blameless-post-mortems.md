@@ -1,6 +1,6 @@
 ---
 title:      "Blameless Post Mortems"
-ring:       trial
+ring:       assess
 quadrant:   methods-and-patterns
 featured:   false
 ---
