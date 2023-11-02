@@ -23,7 +23,7 @@ jobs:
           name: build
           path: build
   deploy:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     if: github.ref == 'refs/heads/main'
     needs: build
     environment:
@@ -46,7 +46,7 @@ jobs:
           SOURCE_DIR: "build"
           DEST_DIR: "techradar"
   deploy-dev:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
     needs: build
     environment:
