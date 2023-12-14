@@ -31,7 +31,7 @@ jobs:
       url: https://www.aoe.com/techradar/index.html
     steps:
       - name: Download Artifact
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: build
           path: build
@@ -55,7 +55,7 @@ jobs:
     steps:
       - run: echo "WARNING! THIS DEPLOYS A STAGING ENV, RERUN THIS JOB TO GET YOUR CHANGES DEPLOYED TO STAGING"
       - name: Download Artifact
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: build
           path: build
