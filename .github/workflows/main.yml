@@ -1,7 +1,7 @@
 name: Build Technology Radar
 
 on:
-  workflow_dispatch: # allows triggering the workflow manually
+  # workflow_dispatch: # allows triggering the workflow manually
   pull_request:
   push:
     branches:
