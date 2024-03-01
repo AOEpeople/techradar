@@ -26,6 +26,7 @@ jobs:
 
   deploy-test:
     uses: ./.github/workflows/s3_sync.yml
+    if: github.ref == 'refs/heads/main'
     with:
       bucket: techradar-test-aoe
 
