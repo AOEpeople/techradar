@@ -45,7 +45,7 @@ jobs:
         with:
           name: build
           path: build
-      - run: 'aws s3 sync --delete s3://techradar-test-aoe/techradar/'
+      - run: 'aws s3 sync --delete build/ s3://techradar-test-aoe/techradar/'
 
 #  deploy:
 #    runs-on: ubuntu-20.04
