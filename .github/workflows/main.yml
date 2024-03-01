@@ -28,6 +28,9 @@ jobs:
   deploy-test:
     uses: ./.github/workflows/s3_sync.yml
     needs: build
+    permissions:
+      id-token: write
+      contents: read
     if: github.ref == 'refs/heads/main'
     with:
       bucket: techradar-test-aoe
