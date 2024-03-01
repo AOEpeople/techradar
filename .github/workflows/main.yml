@@ -27,6 +27,8 @@ jobs:
   deploy-test:
     runs-on: ubuntu-latest
     needs: build
+    if: github.ref == 'refs/heads/main'
+    # if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
     environment:
       name: techradar
       url: http://techradar-test-aoe.s3-website.eu-central-1.amazonaws.com/techradar/index.html
