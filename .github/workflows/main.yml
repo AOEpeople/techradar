@@ -34,17 +34,17 @@ jobs:
       id-token: write
       contents: read
     steps:
-      - name: Download Artifact
-        uses: actions/download-artifact@v3
-        with:
-          name: build
-          path: build
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@master
         with:
           aws-region: eu-central-1
           role-to-assume: arn:aws:iam::511165248623:role/github_techradar
           role-session-name: GitHubActions
+      - name: Download Artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: build
+          path: build
       - run: 'aws s3 sync --delete s3://techradar-test-aoe/techradar/'
 
 #  deploy:
