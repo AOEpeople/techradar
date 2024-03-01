@@ -1,0 +1,34 @@
+name: Reusable S3 Sync
+
+on:
+  workflow_call:
+    inputs:
+      bucket:
+        required: true
+        type: string
+
+jobs:
+  s3-sync:
+    runs-on: ubuntu-latest
+    needs: build
+    if: github.ref == 'refs/heads/main'
+    # if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
+    environment:
+      name: techradar
+      url: http://${{ inputs.bucket }}.s3-website.eu-central-1.amazonaws.com/techradar/index.html
+    permissions:
+      id-token: write
+      contents: read
+    steps:
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@master
+        with:
+          aws-region: eu-central-1
+          role-to-assume: arn:aws:iam::511165248623:role/github_techradar
+          role-session-name: GitHubActions
+      - name: Download Artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: build
+          path: build
+      - run: 'aws s3 sync --delete build/ s3://${{ inputs.bucket }}/techradar/'
