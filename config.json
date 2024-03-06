@@ -1,0 +1,141 @@
+{
+  "basePath": "/techradar",
+  "editUrl": "https://github.dev/AOEpeople/techradar/blob/main/radar/{release}/{id}.md",
+  "colors": {
+    "foreground": "#fff",
+    "background": "#173d7a",
+    "highlight": "#029df7",
+    "content": "#fff",
+    "text": "#575757",
+    "link": "#029df7",
+    "border": "rgba(255, 255, 255, 0.1)",
+    "tag": "rgba(255, 255, 255, 0.1)"
+  },
+  "quadrants": [
+    {
+      "id": "languages-and-frameworks",
+      "title": "Languages & Frameworks",
+      "description": "We've placed development languages (such as Scala or Golang) here, as well as more low-level development frameworks (such as Play or Symfony), which are useful for implementing custom software of all kinds.",
+      "color": "#84BFA4"
+    },
+    {
+      "id": "methods-and-patterns",
+      "title": "Methods & Patterns",
+      "description": "Here we put information on methods and patterns concerning development, continuous x, testing, organization, architecture, etc.",
+      "color": "#248EA6"
+    },
+    {
+      "id": "platforms-and-aoe-services",
+      "title": "Platforms & Operations",
+      "description": "This quadrant clusters technologies around the operation of software and infrastructure related platforms, tools and services.",
+      "color": "#F25244"
+    },
+    {
+      "id": "tools",
+      "title": "Tools",
+      "description": "Here we put different software tools - from small helpers to bigger software projects.",
+      "color": "#F2A25C"
+    }
+  ],
+  "rings": [
+    {
+      "id": "adopt",
+      "title": "Adopt",
+      "description": "We can clearly recommend this technology. We have used it for longer period of time in many teams and it has proven to be stable and useful.",
+      "color": "#5cb449",
+      "radius": 0.5,
+      "strokeWidth": 5
+    },
+    {
+      "id": "trial",
+      "title": "Trial",
+      "description": "We have used it with success and recommend to have a closer look at the technology in this ring. The goal of items here is to look at them more closely, with the goal to bring them to the adopt level.",
+      "color": "#faa03d",
+      "radius": 0.69,
+      "strokeWidth": 3
+    },
+    {
+      "id": "assess",
+      "title": "Assess",
+      "description": "We have tried it out and we find it promising. We recommend having a look at these items when you face a specific need for the technology in your project.",
+      "color": "#029df7",
+      "radius": 0.85,
+      "strokeWidth": 2
+    },
+    {
+      "id": "hold",
+      "title": "Hold",
+      "description": "This category is a bit special. Unlike the others, we recommend to stop doing or using something. That does not mean that they are bad and it often might be ok to use them in existing projects. But we move things here if we think we shouldn't do them anymore - because we see better options or alternatives now.",
+      "color": "#688190",
+      "radius": 1,
+      "strokeWidth": 0.75
+    }
+  ],
+  "flags": {
+    "new": {
+      "color": "#f1235a",
+      "title": "New",
+      "titleShort": "N",
+      "description": "New in this version"
+    },
+    "changed": {
+      "color": "#40a7d1",
+      "title": "Changed",
+      "titleShort": "C",
+      "description": "Recently changed"
+    },
+    "default": {
+      "description": "Unchanged"
+    }
+  },
+  "chart": {
+    "size": 800,
+    "blipSize": 12
+  },
+  "social": [
+    {
+      "href": "https://www.facebook.com/aoepeople",
+      "icon": "facebook"
+    },
+    {
+      "href": "https://twitter.com/aoepeople",
+      "icon": "x"
+    },
+    {
+      "href": "https://www.linkedin.com/company/aoe",
+      "icon": "linkedIn"
+    },
+    {
+      "href": "https://www.xing.com/company/aoe",
+      "icon": "xing"
+    },
+    {
+      "href": "https://www.instagram.com/aoepeople",
+      "icon": "instagram"
+    },
+    {
+      "href": "https://www.youtube.com/user/aoepeople",
+      "icon": "youtube"
+    },
+    {
+      "href": "https://github.com/aoepeople",
+      "icon": "github"
+    }
+  ],
+  "imprint": "https://www.aoe.com/en/imprint.html",
+  "labels": {
+    "title": "AOE Technology Radar",
+    "imprint": "Legal Information",
+    "quadrant": "Quadrant",
+    "quadrantOverview": "Quadrant Overview",
+    "zoomIn": "Zoom in",
+    "filterByTag": "Filter by Tag",
+    "footer": "AOE is a leading global provider of services for digital transformation and digital business models. AOE relies exclusively on established Enterprise Open Source technologies. This leads to innovative solutions, digital products and portals in agile software projects, and helps build long-lasting, strategic partnerships with our customers.",
+    "notUpdated": "This item was not updated in last three versions of the Radar. Should it have appeared in one of the more recent editions, there is a good chance it remains pertinent. However, if the item dates back further, its relevance may have diminished and our current evaluation could vary. Regrettably, our capacity to consistently revisit items from past Radar editions is limited.",
+    "notFound": "404 - Page not found",
+    "pageAbout": "How to use AOE Technology Radar?",
+    "pageOverview": "Technologies Overview",
+    "pageSearch": "Search",
+    "searchPlaceholder": "What are you looking for?"
+  }
+}
