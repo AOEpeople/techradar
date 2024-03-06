@@ -16,8 +16,14 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "lts/*"
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.npm
+            .techradar
+          key: ${{ runner.os }}-techradar-${{ hashFiles('**/package-lock.json') }}
       - run: npm ci
-      - run: PUBLIC_URL=/techradar npm run build:static
+      - run: npm run build
       - run: if [ -n "$(git status --porcelain)" ]; then echo 'workspace is dirty after rebuilding' ; git status ; git diff ; exit 1 ; fi
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
@@ -32,7 +38,7 @@ jobs:
     # if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
     environment:
       name: techradar-test-aoe
-      url: http://techradar-test-aoe.s3-website.eu-central-1.amazonaws.com/techradar/index.html
+      url: http://techradar-test-aoe.s3-website.eu-central-1.amazonaws.com/techradar/
     permissions:
       id-token: write
       contents: read

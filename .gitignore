@@ -1,5 +1,6 @@
 .idea
 .DS_Store
+.techradar
 dist
 node_modules
 npm-debug.log
