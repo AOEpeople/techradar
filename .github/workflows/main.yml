@@ -1,7 +1,7 @@
 name: Build Technology Radar
 
 on:
-  # workflow_dispatch: # allows triggering the workflow manually
+  workflow_dispatch: # allows triggering the workflow manually
   pull_request:
   push:
     branches:
@@ -13,21 +13,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4
         with:
           node-version: "lts/*"
       - run: npm ci
       - run: PUBLIC_URL=/techradar npm run build:static
       - run: if [ -n "$(git status --porcelain)" ]; then echo 'workspace is dirty after rebuilding' ; git status ; git diff ; exit 1 ; fi
       - name: Upload Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: build
           path: build
 
   deploy-test:
     needs: build
-    if: github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/main' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     # if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
     environment:
@@ -44,7 +44,7 @@ jobs:
           role-to-assume: arn:aws:iam::511165248623:role/github_techradar
           role-session-name: GitHubActions
       - name: Download Artifact
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: build
           path: build
