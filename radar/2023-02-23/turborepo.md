@@ -2,7 +2,7 @@
 title:      "Turborepo"
 ring:       trial
 quadrant:   "tools"
-tags:       [build, frontend]
+tags:       [frontend]
 ---
 
 [Turborepo](https://turbo.build/repo) is a build system for JavaScript and TypeScript project,
