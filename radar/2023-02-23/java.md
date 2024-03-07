@@ -2,7 +2,7 @@
 title:      "Java"
 ring:       adopt
 quadrant:   languages-and-frameworks
-tags:       [coding, backend]
+tags:       [coding]
 ---
 
 [Java](https://www.java.com) is a versatile and widely-used programming language.
