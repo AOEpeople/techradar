@@ -19,7 +19,7 @@
     "aoe_technology_radar": "github:AOEpeople/aoe_technology_radar#aoe-blue"
   },
   "overrides": {
-    "@svgr/webpack": "6.5.1"
+    "@svgr/webpack": "8.1.0"
   },
   "browserslist": {
     "production": [
