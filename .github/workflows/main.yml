@@ -33,9 +33,8 @@ jobs:
 
   deploy-test:
     needs: build
-    if: github.ref == 'refs/heads/main' || github.event_name == 'workflow_dispatch'
+    if: github.event_name == 'workflow_dispatch' || github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
     runs-on: ubuntu-latest
-    # if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
     environment:
       name: techradar-test-aoe
       url: http://techradar-test-aoe.s3-website.eu-central-1.amazonaws.com/techradar/
@@ -55,6 +54,30 @@ jobs:
           name: build
           path: build
       - run: 'aws s3 sync --delete build/ s3://techradar-test-aoe/techradar/'
+
+  deploy:
+    needs: build
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    environment:
+      name: techradar
+      url: https://www.aoe.com/techradar/
+    permissions:
+      id-token: write
+      contents: read
+    steps:
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@master
+        with:
+          aws-region: eu-central-1
+          role-to-assume: arn:aws:iam::511165248623:role/github_techradar
+          role-session-name: GitHubActions
+      - name: Download Artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: build
+          path: build
+      - run: 'aws s3 sync --delete build/ s3://techradar-prod-aoe/techradar/'
 
 #  deploy:
 #    runs-on: ubuntu-20.04
