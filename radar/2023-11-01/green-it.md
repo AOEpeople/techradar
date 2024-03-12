@@ -10,7 +10,7 @@ In an age of ever-increasing digitalization, the energy consumption of data cent
 ### Sustainable Software Development Practices
 Well-architected software plays a pivotal role in reducing the environmental impact of digital systems. Sustainability in software development involves the consideration of various factors throughout the entire lifecycle:
 - **Agile and Modular Development**: Develop software iteratively, focusing on essential functionality and creating modular, reusable components.
-- **Programming Language Choice**: Opt for compiled languages such as [Rust](/languages-and-frameworks/rust.html) or [Go](/languages-and-frameworks/go-lang.html) that have lower energy consumption during execution.
+- **Programming Language Choice**: Opt for compiled languages such as [Rust](/languages-and-frameworks/rust/) or [Go](/languages-and-frameworks/go-lang/) that have lower energy consumption during execution.
 - **Automation and Infrastructure-as-Code**: Automate resource management and shut down unused infrastructure during idle periods to decrease energy consumption.
 - **Demand Shaping**: Schedule energy-intensive workloads to align with the availability of renewable energy sources.
 - **Green Power**: Source electricity from sustainable and renewable sources.
