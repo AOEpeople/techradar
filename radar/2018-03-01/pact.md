@@ -11,6 +11,6 @@ Consumer Driven Contract testing is a pattern for testing interfaces/boundaries 
 It allows "consumers" to run tests against a defined Mock and record the defined interactions (=PACT).
 It puts "providers" in the position to run the PACT tests inside their Continuous Integration Pipelines, so that the provider knows if he might break any consumers.
 
-This approach makes sense in organisations where teams collaborate more closely (See [Strategic Domain Driven Design](/methods-and-patterns/strategic-domain-driven-design.html) ), e.g. to build [Microservice oriented architectures](/methods-and-patterns/microservices.html)
+This approach makes sense in organisations where teams collaborate more closely (See [Strategic Domain Driven Design](/methods-and-patterns/strategic-domain-driven-design/) ), e.g. to build [Microservice oriented architectures](/methods-and-patterns/microservices/)
 
 Consumer Driven Contract Testing and how it can be conducted with PACT is documented very nicely on the official PACT website: https://docs.pact.io/.

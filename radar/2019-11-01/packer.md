@@ -13,4 +13,4 @@ Another benefit is, that machine images can be tested to verify if they are work
 Packer supports multiple cloud providers like AWS, GCP, Digital Ocean etc.
 
 Machine images are important for modern deployment pipelines and fast ramp of new infrastructure. 
-We are using Packer to build so-called "Golden images" that are used in our [Infrastructure as Code](/methods-and-patterns/infrastructure-as-code.html) based provisionings.
+We are using Packer to build so-called "Golden images" that are used in our [Infrastructure as Code](/platforms-and-aoe-services/infrastructure-as-code/) based provisionings.

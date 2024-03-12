@@ -15,4 +15,4 @@ There are various descriptions of what Reactive Programming actually is - at the
 Under the term "Reactive Programming", we summarize the principles and implementations that underlie [ReactiveX](http://reactivex.io/) and the [Reactive Manifesto](https://www.reactivemanifesto.org/). 
 
 "Reactive Programming" is employed in many of our services – frontend and backend – but not always as an explicitly chosen pattern. 
-As different platforms have different means to tackle this style of programming, we choose to include "Reactive Programming" as a general Method and Patterns Item in addition to concrete libraries and APIs such as [Rx.JS](languages-and-frameworks/rxjs.html) or [Akka Streams](/languages-and-frameworks/akka-streams.html) to highlight the importance of the approach in general.
+As different platforms have different means to tackle this style of programming, we choose to include "Reactive Programming" as a general Method and Patterns Item in addition to concrete libraries and APIs such as [Rx.JS](/languages-and-frameworks/rxjs/) or [Akka Streams](/languages-and-frameworks/akka-streams/) to highlight the importance of the approach in general.

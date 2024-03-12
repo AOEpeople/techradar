@@ -4,7 +4,7 @@ ring:       adopt
 quadrant:   languages-and-frameworks
 ---
 
-The Play Framework is a lightweight (web)application framework for Java and [Scala](/languages-and-frameworks/scala-lang.html) programmers.
+The Play Framework is a lightweight (web)application framework for Java and [Scala](/languages-and-frameworks/scala-lang/) programmers.
 
 A developer can choose from different modules to include necessary functionality such s accessing http resources, databases, and so on. As a consequence, the developer can choose, and is not distracted by or clobbered with irrelevant things. This approach is considered as minimalistic, but it is easy to include necessary functionality.
 

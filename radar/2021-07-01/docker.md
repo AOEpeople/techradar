@@ -11,5 +11,5 @@ But Docker is also a complete production platform, where the capability to build
 At the same time numerous alternate runtimes for containers – like containerd and podman – as well as image builders – like Kaniko and Buildah – have evolved during the last years.
 Thanks to the standards established by the Open Container Initiative these tools are mostly interchangeable for the purposes of building and running containers.
 
-To be more distinct, we now recommend using [Containers and Runtimes as specified by the Open Container Initiative](/platforms-and-aoe-services/oci-container.html). 
+To be more distinct, we now recommend using [Containers and Runtimes as specified by the Open Container Initiative](/platforms-and-aoe-services/oci-container/). 
 Docker is one of many tools to achieve that.
