@@ -48,6 +48,3 @@ Typical implementations involve using standards and tools for IAM and SSO, such 
 While network segments and VPN connections may still be relevant in specific areas, AOE is increasingly implementing a Zero Trust approach in all solutions, components, and services.
 
 We are currently adopting best practices for Zero Trust, which align with the BeyondCorp framework and utilize the OAuth and OpenID Connect standards.
-
-## Additional References
-* [Keynote: "Zero Trust - The Hard Way", DevOpsCon Berlin 2023](https://www.youtube.com/watch?v=fCENO_Jt3QE)
