@@ -10,7 +10,7 @@ Anypoint provides tools to use Enterprise Integration Patterns (EAI) and has a h
 
 Anypoint Community Version is Open Source and contribution is possible.
 The platform is pluggable with own connectors.
-Mulesoft is also driving the [RAML](/tools/raml.html) specification and related Open Source tools.
+Mulesoft is also driving the [RAML](/languages-and-frameworks/raml/) specification and related Open Source tools.
 
 AOE is a Mulesoft Partner and we use both the Community and Enterprise Versions of Anypoint.
 We use Anypoint as an API Gateway to combine and transform data from multiple backends.

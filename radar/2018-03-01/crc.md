@@ -29,5 +29,5 @@ This is how we often conduct a CRC Session:
 * Closing:
     * We are often not too enthusiastic about adding a list of "collaborators" to the cards, since the sequence explains this very well.
     * So just take a picture and document the result somewhere, so that you can review the status for the next CRC session.
-    * Maybe some decisions are worth being documented in your [Architecture decision records](/methods-and-patterns/adr.html)
+    * Maybe some decisions are worth being documented in your [Architecture decision records](/methods-and-patterns/adr/)
   

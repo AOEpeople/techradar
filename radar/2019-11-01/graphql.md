@@ -18,8 +18,8 @@ Key advantages are:
 - the client (browser) controls what data should be sent (data reduction)
 - with one request you can fetch "all" required data
 
-Client side integration can be achieved using the [Apollo Client Framework](/tools/apollo-client.html) which easily
-integrates into [React.js](/languages-and-frameworks/react.html) based frontends.
+Client side integration can be achieved using the [Apollo Client Framework](/tools/apollo-client/) which easily
+integrates into [React.js](/languages-and-frameworks/react/) based frontends.
 
 The Flamingo framework [offers support for GraphQL](https://docs.flamingo.me/3.%20Flamingo%20Modules/graphql.html)
 while Flamingo Commerce provides a full-featured GraphQL API for e-commerce:

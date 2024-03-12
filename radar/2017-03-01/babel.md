@@ -32,4 +32,4 @@ The configuration is really simple due to the [plugin system](http://babeljs.io/
 
 To know what you need you can practice ECMAScript 6 by doing it with [es6katas](http://es6katas.org/) and ask [caniuse](http://caniuse.com/).
 
-If you are using [TypeScript](/languages-and-frameworks/typescript.html), Babel is not necessary since you already get the new features with TypeScript.
+If you are using [TypeScript](/languages-and-frameworks/typescript/), Babel is not necessary since you already get the new features with TypeScript.

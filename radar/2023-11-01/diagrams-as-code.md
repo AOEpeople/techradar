@@ -7,7 +7,7 @@ tags:       [architecture, quality assurance, documentation]
 
 Documenting concepts and software architecture as diagrams using code offers significant benefits over heavier solutions. Treating documentation and diagrams as code and checking them into version control increases transparency, collaboration, and productivity. The textual representation of diagrams is easy to write and read, and generating graphical representations as SVG or PNG images is also straightforward with the associated tools.
 
-We extensively use [PlantUML](/tools/plant-uml.html) in combination with [Asciidoc](/tools/asciidoc.html) and tools like [AsciiDoctor Diagram](https://asciidoctor.org/docs/asciidoctor-diagram/) to include and inline PlantUML diagrams in our documentation. The latter allows for a variety of other diagram formats, which can be easily mixed and matched.
+We extensively use [PlantUML](/tools/plant-uml/) in combination with [Asciidoc](/tools/asciidoc/) and tools like [AsciiDoctor Diagram](https://asciidoctor.org/docs/asciidoctor-diagram/) to include and inline PlantUML diagrams in our documentation. The latter allows for a variety of other diagram formats, which can be easily mixed and matched.
 
 Other tools worth mentioning include:
 - [Mermaid](https://mermaid.js.org/), a JavaScript-based diagramming tool natively supported by many common tools (e.g., GitHub, GitLab, Gitea, Notion, etc.).

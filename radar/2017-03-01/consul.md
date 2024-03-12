@@ -8,7 +8,7 @@ Consul is a lightweight service to provide a service discovery registry with fai
 The typical way to use it is that a consul master cluster takes care of the update and write processes and consul clients run locally on the apps host - data is shared across the complete Consul cluster.
 The data can be accessed by using DNS and HTTP APIs.
 
-At AOE, we use Consul for settings distribution with consul-template as a way to do [Settings Injection](/methods-and-patterns/settings-injection.html) during deployment.
-Consul is also used as service discovery between apps inside [microservice](/methods-and-patterns/microservices.html) environments.
+At AOE, we use Consul for settings distribution with consul-template as a way to do [Settings Injection](/methods-and-patterns/settings-injection/) during deployment.
+Consul is also used as service discovery between apps inside [microservice](/methods-and-patterns/microservices/) environments.
 
 With Vault there is another tool that can be used to manage and share secrets.

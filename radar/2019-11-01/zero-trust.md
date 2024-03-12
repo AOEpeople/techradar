@@ -42,7 +42,7 @@ It involves many **areas and aspects**, including:
 ## Implementations
 In 2009 Google implemented a zero trust architecture referred to as [BeyondCorp](https://cloud.google.com/beyondcorp). It utilizes OAuth and OpenID standards for implementing Authn and Authz, and has influenced the development of modern Zero Trust architectures.
 
-Typical implementations involve using standards and tools for IAM and SSO, such as [Keycloak](/tools/keycloak.html).
+Typical implementations involve using standards and tools for IAM and SSO, such as [Keycloak](/tools/keycloak/).
 
 ## Summary
 While network segments and VPN connections may still be relevant in specific areas, AOE is increasingly implementing a Zero Trust approach in all solutions, components, and services.

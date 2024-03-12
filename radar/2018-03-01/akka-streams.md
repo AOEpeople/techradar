@@ -16,5 +16,5 @@ It handles things such as message resending in failure cases and preventing mess
 
 Our first trials with Akka Streams were promising but we haven't yet implemented complex services with it.
 
-We will continue looking into it together with the [Alpakka](/languages-and-frameworks/alpakka.html) Connectors for integration
+We will continue looking into it together with the [Alpakka](/languages-and-frameworks/alpakka/) Connectors for integration
 work.

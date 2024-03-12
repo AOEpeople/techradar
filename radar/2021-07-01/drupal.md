@@ -10,4 +10,4 @@ It has a huge community, so it's no wonder it's among the top 10 CMS worldwide i
 
 At AOE we consume Drupal mainly headless via JSON API. We appreciate its large feature set and mature plugin system as well as the general ecosystem.
 
-In addition, the extensive documentation and setup with [DDEV](/tools/ddev.html) make it easy to get started.
+In addition, the extensive documentation and setup with [DDEV](/tools/ddev/) make it easy to get started.

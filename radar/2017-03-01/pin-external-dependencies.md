@@ -32,7 +32,7 @@ We suggest the following:
   dependent packages are used.
 * It's also suggested to use local or central caches for the retrieval of
   packages. (E.g.
-  [artifactory as composer and npm cache](/platforms-and-aoe-services/artifactory.html))
+  [artifactory as composer and npm cache](/platforms-and-aoe-services/artifactory/))
 
 For updating of dependencies define a process in the team. This can either be
 done on the dev-system or in a separate automated CI job - both resulting in
