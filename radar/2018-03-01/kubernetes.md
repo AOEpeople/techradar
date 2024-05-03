@@ -2,12 +2,13 @@
 title:      "Kubernetes"
 ring:       adopt
 quadrant:   platforms-and-aoe-services
-tags: [devops]
+tags:       [academy training, devops]
 ---
 
-Kubernetes has developed into the quasi-standard for container orchestration: Nearly every cloud provider provides managed Kubernetes, and even Docker Enterprise uses Kubernetes.
-We are running several production systems with Kubernetes and we are using it in concepts such as:
- * "secrets" and "configmaps" to manage configurations for the applications. By updating these resources with an automated configuration pipeline you have a great method for configuration management.
- * Autoscaling of Kubernetes nodes and the usage of "horizontal pod scaling" inside Kubernetes allows elastic scaling
- * The support of managing permissions with OAuth allows you to secure Kubernetes with [Keycloak](/tools/keycloak/) (SSO)
- * Kubernetes extensibility and API can be used for automation and customization. There is a growing ecosystem around extensions, which adds additional features.
+Kubernetes has evolved into the quasi-standard for container orchestration: Nearly every cloud provider offers managed Kubernetes, and even Docker Enterprise utilizes Kubernetes.
+
+We run several production systems with Kubernetes and employ it in concepts such as:
+- Utilizing "secrets" and "configmaps" to manage configurations for applications. By updating these resources with an automated configuration pipeline, you have an excellent method for configuration management.
+- Implementing autoscaling of Kubernetes nodes and utilizing "horizontal pod scaling" within Kubernetes allows for elastic scaling.
+- Leveraging support for managing permissions with OAuth, enabling you to secure Kubernetes with [Keycloak](/tools/keycloak/) (SSO).
+- Utilizing Kubernetes' extensibility and API for automation and customization. There is a growing ecosystem around extensions, which adds additional features.
