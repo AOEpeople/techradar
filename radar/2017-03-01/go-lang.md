@@ -2,16 +2,17 @@
 title:      "Go / Golang"
 ring:       assess
 quadrant:   languages-and-frameworks
+tags:       [academy training, coding]
 ---
 
-2016 was the year of Go, with a lot of Open Source projects gaining a lot of attention and many companies started to use it.
+2016 was the year of Go, with many open-source projects gaining significant attention, and numerous companies started to adopt it.
 
-Go went from #54 to #13 on the [TIOBE index](http://www.tiobe.com/tiobe-index/) in January 2017, and it became the TIOBE programming language of the year 2016.
+Go jumped from #54 to #13 on the [TIOBE index](http://www.tiobe.com/tiobe-index/) in January 2017, earning the title of TIOBE programming language of the year 2016.
 
-Here at AOE, we use several services written in Go on a daily basis, such as Mattermost, Docker, Consul and Kubernetes. Also, more and more applications, such as GitLab, incorporate Go-based services to "off load" heavy work.
+Here at AOE, we rely on several services written in Go on a daily basis, such as Mattermost, Docker, Consul, and Kubernetes. Moreover, more and more applications, like GitLab, are incorporating Go-based services to handle heavy workloads.
 
-Go, as a programming language, has some very interesting features such as native support for concurrency (go routines), static compiled binaries with a very small memory footprint, cross compiling and much more. A big advantage of Go is the very flat learning curve, which allows developers from more dynamic languages such as PHP to be proficient in a very short time.
+Go, as a programming language, offers several compelling features, including native support for concurrency (goroutines), statically compiled binaries with a minimal memory footprint, cross-compiling, and more. One significant advantage of Go is its shallow learning curve, enabling developers from more dynamic languages such as PHP to become proficient in a short time.
 
-If you want to get a feeling for Go, you should start with the [online tour](https://tour.golang.org/welcome/1), within a day you'll have a good understanding of the core concepts, syntax, etc. - that is also because the language often tries to provide only one simple way of doing things; an example for this is that code formatting and styling is defined (yet not enforced as in Python). Part of this is also that Go itself is very opinionated: So, for example, for object oriented programming in Go, composition is the preferred way of defining data structures, and some might miss advanced concepts such as inheritance.
+If you're interested in getting a feel for Go, you should start with the [online tour](https://tour.golang.org/welcome/1). Within a day, you'll gain a good understanding of the core concepts, syntax, etc. This is partly because the language often provides only one simple way of doing things; an example of this is the defined code formatting and styling (though not enforced as in Python). Additionally, Go itself is very opinionated; for instance, composition is the preferred way of defining data structures for object-oriented programming in Go, and some developers may miss advanced concepts such as inheritance.
 
-We currently use Go for projects and microservices where we need flexibility and performance.
+Currently, we use Go for projects and microservices where we require flexibility and performance.
