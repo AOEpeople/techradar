@@ -2,7 +2,7 @@
 title:      "Go / Golang"
 ring:       adopt
 quadrant:   languages-and-frameworks
-tags: [coding]
+tags:       [academy training, coding]
 ---
 
 We have moved Go to "adopt".

@@ -2,38 +2,34 @@
 title:      "Flamingo"
 ring:       adopt
 quadrant:   languages-and-frameworks
-tags: [coding]
+tags:       [academy training, coding]
 ---
 
-Flamingo is a high productivity go based framework for rapidly building fast and pluggable web projects.
-It is used to build scalable and maintainable (web)applications.
+Flamingo is a high productivity Go-based framework for rapidly building fast and pluggable web projects. It is used to construct scalable and maintainable (web) applications.
 
 Flamingo is:
 
-* open source
-* written in go
-* easy to learn
-* fast and flexible
+- Open source
+- Written in Go
+- Easy to learn
+- Fast and flexible
 
-Go as simple, powerful and typesafe language is great to implement and scale serverside logic.
-Flamingo has a clean architecture with clear dependencies in mind and offers a typical features and support for nowadays web applications:
+Go, as a simple, powerful, and typesafe language, is excellent for implementing and scaling server-side logic. Flamingo has a clean architecture with clear dependencies in mind and offers typical features and support for modern web applications:
 
-* Powerful Templating Engines, e.g. support for Pug templates with reusable mixins and lightweight scripting.
-* Configuration concepts using yml and support for multiple areas and contexts
-* Powerful Dependency Injection
-* A Module concept for building modular and pluggable applications
-* Authentication concepts and security middleware
-* Flexible routing with support for prefix routes and reverse routing
-* Web Controller Support with: Request / Response / Form Handling etc
-* Operational Readiness: Logging, (distributed) Tracing, Metrics and Healthchecks with separate endpoint
-* Localisation
-* Commands
-* Session Handling and Management
-* GraphQL support and therefore support to build nice SPA and PWAs on top of it
-* Resilience and Caching for external APIs calls.
+- Powerful templating engines, e.g., support for Pug templates with reusable mixins and lightweight scripting.
+- Configuration concepts using YAML and support for multiple areas and contexts.
+- Powerful dependency injection.
+- A module concept for building modular and pluggable applications.
+- Authentication concepts and security middleware.
+- Flexible routing with support for prefix routes and reverse routing.
+- Web controller support with Request/Response/Form Handling, etc.
+- Operational readiness: Logging, (distributed) Tracing, Metrics, and Healthchecks with separate endpoints.
+- Localization.
+- Commands.
+- Session handling and management.
+- GraphQL support and, therefore, support to build nice SPAs and PWAs on top of it.
+- Resilience and caching for external API calls.
 
-Flamingo itself does not contain ORM Mapper or libraries - instead it emphasizes ["ports and adapters"](/methods-and-patterns/ports-and-adapters/) architecture - so that you have a technology free (domain) model and any possible (and replaceable) persistence behind it.
-That makes Flamingo useful to build microservices and applications - especially to build "frontends" or portals that require interaction with other (micro) services in a distributed architecture. 
-When sticking to the architectural recommendation, you can build modular applications with replaceable adapters that gives you independent testability.
+Flamingo itself does not contain an ORM mapper or libraries. Instead, it emphasizes a "ports and adapters" architecture so that you have a technology-free (domain) model and any possible (and replaceable) persistence behind it. This makes Flamingo useful for building microservices and applications, especially for constructing "frontends" or portals that require interaction with other (micro)services in a distributed architecture. By adhering to the architectural recommendation, you can build modular applications with replaceable adapters that provide independent testability.
 
-With **"Flamingo Commerce"** there is an additional active projects that offer rich and flexible features to build modern e-commerce applications.
+With **"Flamingo Commerce,"** there is an additional active project that offers rich and flexible features to build modern e-commerce applications.
