@@ -5,9 +5,9 @@ quadrant: methods-and-patterns
 tags: [coding, frontend, quality assurance]
 ---
 
-In the realm of frontend development, ensuring that applications not only function correctly but also look as intended across various devices and browsers is paramount. This is where visual regression tests come into play, solving a critical problem faced by developers: detecting unintended visual changes. By automating the comparison of screenshots over time, these tests can identify differences between expected and actual UI appearances, down to the pixel level.
+In the realm of frontend development, ensuring that applications not only function correctly but also look as intended across various devices and browsers is paramount. This is where visual regression tests come into play, solving a critical problem faced by developers: detecting unintended visual changes. By automating the comparison of screenshots over time, these tests can identify differences between expected and actual UI appearances, down to the pixel level. In this respect, they exceed and replace some use cases of traditional unit tests, which focus on functional aspects of the code.
 
-Visual regression testing addresses several challenges. It ensures consistency in the user interface, a crucial aspect of user experience. It also significantly reduces the manual effort required to check visual aspects of an application across different environments. This automation speeds up the development process, allowing for quicker feedback and iterations.
+Visual regression tests address several challenges. They ensure consistency in the user interface, a crucial aspect of user experience. They also significantly reduce the manual effort required to check visual aspects of an application across different environments. This automation speeds up the development process, allowing for quicker feedback and iterations compared to debugging visual issues in the terminal.
 
 Moreover, integrating visual regression tests into development pipelines enhances the reliability of deployments. By catching visual discrepancies early, it prevents potential UI issues from reaching end-users. This not only saves time and resources but also maintains the application's quality and reputation.
 
