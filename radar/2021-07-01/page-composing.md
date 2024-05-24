@@ -6,7 +6,7 @@ tags: [architecture]
 ---
 
 Page composing is a way to aggregate multiple independent page fragments into one combined web page.
-As an implementation of [Micro Frontends](methods-and-patterns/micro-frontends.html), this approach supports to deploy and run services agnostic to the technologies used per team.
+As an implementation of [Micro Frontends](methods-and-patterns/microfrontends.html), this approach supports to deploy and run services agnostic to the technologies used per team.
 
 The concept builds upon the fact that all involved services deliver valid HTML as their output.
 Our solution is a small application which takes care of gathering the page fragments from all services and composing each into a defined HTML template.
