@@ -2,7 +2,7 @@
 title:      "AI Assisted Programming"
 ring:       assess
 quadrant:   "methods-and-patterns"
-tags:       [coding, architecture, ai]
+tags:       [ai, architecture, coding]
 ---
 
 In recent years, the field of Artificial Intelligence (AI) has made monumental strides, and AI has demonstrated its ability to augment human capabilities and enhance user experiences. One noteworthy facet of this evolution is Assisted AI—a paradigm that holds great promise for software development companies.
