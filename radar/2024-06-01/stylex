@@ -1,0 +1,12 @@
+---
+title:      "Bun"
+ring:       assess
+quadrant:   tools
+ags:       [frontend, coding]
+---
+
+Facebook has released the open source [StyleX] (https://stylexjs.com/). A new styling library that takes the developer experience of [CSS-in-JS](https://www.aoe.com/techradar/methods-and-patterns/css-in-js/)libraries and combines it with the performance and scalability of static CSS using compile-time tools. It is scalable, predictable, composable, fast, and type-safe.
+
+We are very excited to see whether StyleX is suitable for our projects 
+
+
