@@ -5,7 +5,7 @@ quadrant:   languages-and-frameworks
 tags:       [ai]
 ---
 
-[LangChain](https://github.com/langchain-ai/langchain) is a framework designed to enhance the development and deployment of applications leveraging natural language processing (NLP) models. It is particularly suited for applications such as "question-answering," "chatbots," or "conversational agents," often utilizing the Retrieval Augmented Generation (RAG) pattern.
+[LangChain](https://github.com/langchain-ai/langchain) is a framework designed to enhance the development and deployment of applications leveraging natural language processing (NLP) models. It is particularly suited for applications such as "question-answering," "chatbots," or "conversational agents," often utilizing the [Retrieval Augmented Generation (RAG)](../methods-and-patterns/retrieval-augmented-generation.html) pattern.
 
 ## Key Features
 
