@@ -1,15 +1,12 @@
 ---
-title: "Loki"
-ring: trial
-quadrant: tools
-featured: true
-tags: [devops]
+title:      "Loki"
+ring:       trial
+quadrant:   tools
+tags:       [devops]
 ---
 
-Archiving indexed log data with a system like Elasticsearch can be expensive and archiving it as simple text files makes it hard to query them.
-[Loki](https://grafana.com/oss/loki/) solves this issue by adding a reference database based on Kubernetes labels to each log line similar to Prometheus, but holding the log data inside a simple blob storage like S3.
-This allows the user to query the data by pre-defined labels and keeps the costs for indexing low.
+Archiving indexed log data with a system like [Elasticsearch](../platforms-and-aoe-services/elasticsearch.html) can be expensive, and archiving it as simple text files makes it hard to query. [Loki](https://grafana.com/oss/loki/) solves this issue by adding a reference database based on [Kubernetes](../platforms-and-aoe-services/kubernetes.html) labels to each log line, similar to [Prometheus](../platforms-and-aoe-services/prometheus.html), but storing the log data inside a simple blob storage like AWS S3. This allows the user to query the data by predefined labels and keeps the costs for indexing low.
 
-Another benefit is the fact that does not have an endpoint for mutating log data which makes the data immutable from a potential compromised system.
+Another benefit is that Loki does not have an endpoint for mutating log data, making the data immutable from a potentially compromised system.
 
-We at AOE are using it for longer term log archiving in several Kubernetes clusters.
+At AOE, we use Loki for long-term log archiving in several Kubernetes clusters.
