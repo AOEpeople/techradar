@@ -2,20 +2,18 @@
 title:      "ELK Stack"
 ring:       adopt
 quadrant:   platforms-and-aoe-services
+tags:       [devops]
 ---
 
-The company behind Elasticsearch offers a very nice solution for logging and analysis of distributed data such as logfiles.
+The [ELK Stack](https://www.elastic.co/de/elastic-stack) is a powerful trio of tools that work together to provide a comprehensive solution for logging, searching, visualizing, and analyzing data in real time:
 
-In today's increasingly distributed IT systems, it's very helpful to have a central view of what is going on in your systems - and of course nobody can and wants to look in different logfiles on different servers.
-A central logging solution provides the option to detect potential relationships between different events more easily.
-Also, also it can be used to extract useful KPIs or to visualize information on dashboards.
+- **[Elasticsearch](../platforms-and-aoe-services/elasticsearch.html)**: A search and analytics engine that indexes and stores data.
+- **Logstash**: A data processing pipeline that ingests and transforms various data formats.
+- **Kibana**: A visualization tool that creates interactive dashboards and reports.
 
-The abbreviation "[ELK](https://www.elastic.co/products) Stack" stands for the Tools <u>E</u>lasticsearch, <u>L</u>ogstash and <u>K</u>ibana:
-Together, they provide a solution for collecting data the ability to search, visualize and analyze data in real time.
+In today's complex IT environments, having a centralized logging solution is essential. It allows you to:
+- Gain a unified view of system activities.
+- Detect correlations between different events more easily.
+- Extract valuable KPIs and visualize them on customizable dashboards.
 
-Logstash is used to process and forward different data (or logfile) formats.
-Elasticsearch is used as a search index and together with the Kibana plugin you can configure highly individual dashboards.
-Recently, there are also the Beats Tools joining this toolstack to ship data to Elasticsearch.
-
-We have been using the ELK Stack for several years now in several projects and different infrastructure setups - we use it to visualize traffic, certain KPIs or just to analyze and search in application logs.
-We encourage all teams to use such a solution and take care to write useful logs in your applications.
+At AOE, we have been using the ELK Stack for years in various projects and infrastructure setups. It has proven invaluable for visualizing traffic, tracking KPIs, and analyzing application logs. We highly recommend that all teams adopt this solution and focus on generating meaningful logs in their applications.
