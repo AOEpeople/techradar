@@ -30,7 +30,6 @@ The 15-factor model builds upon the original principles by adding:
 14) **Telemetry**: Implement robust telemetry for monitoring and diagnostics.
 15) **Authentication and Authorization**: Incorporate strong, centralized authentication and authorization mechanisms.
 
-
 ### Relevance
 
 For us this rather old pattern is still very relevant and many methods, patterns and practices on our radar are related and enable these pattern in their core. To name a few [Kubernetes](/platforms-and-aoe-services/kubernetes/), [Prometheus](/platforms-and-aoe-services/prometheus/), [Self-Service Infrastructure](/platforms-and-aoe-services/self-service-infrastructure/) or the [API-First Design Approach](/methods-and-patterns/api-first-design-approach/) are very related, others like [Shared Responsibility Models](/methods-and-patterns/shared-responsibility/) are easier to implement based on this pattern.

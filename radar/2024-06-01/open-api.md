@@ -2,7 +2,7 @@
 title:      "Open API"
 ring:       adopt
 quadrant:   tools
-tags: [architecture]
+tags:       [architecture]
 ---
 
 The [OpenAPI Specification](https://www.openapis.org/) (OAS) is a broadly adopted industry standard for describing modern REST APIs.
@@ -12,7 +12,7 @@ Other initiatives like RAML have [joined](https://blogs.mulesoft.com/dev/api-dev
 
 The current version OpenAPI v3 added more features to the specification - for example the ability to describe APIs supporting request/callback pattern.
 
-There is a very good api designer https://www.apicur.io/ and a good mock generator http://microcks.github.io/index.html
+There is a very good api designer https://www.apicur.io/ and a good mock generator http://microcks.github.io/
 
 The general tool support is excellent. See https://openapi.tools/
 

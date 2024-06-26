@@ -23,4 +23,4 @@ tags:       [ai]
 - **Maintenance overhead**: Regular updates and maintenance of the retrieval system and data sources are required to ensure continued accuracy and relevance, adding to the operational burden.
 - **Potential for bias**: The retrieval process can introduce biases present in the external data, which can be propagated into the generated content, affecting the fairness and objectivity of the outputs.
 
-At AOE, we are evaluating [LangChain](../languages-and-frameworks/langchain.html) as a framework for implementing chatbots that allow users to better interact with existing knowledge and ensure that they deliver accurate, contextual, and reliable information.
+At AOE, we are evaluating [LangChain](/languages-and-frameworks/langchain/) as a framework for implementing chatbots that allow users to better interact with existing knowledge and ensure that they deliver accurate, contextual, and reliable information.

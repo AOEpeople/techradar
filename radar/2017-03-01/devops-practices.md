@@ -6,7 +6,7 @@ tags: [devops]
 ---
 
 DevOps is a term that has been around for some years now.
-We understand DevOps as a philosophy and culture with related practices and tools - all with the aim of bringing (IT) Operations closer to Development.  
+We understand DevOps as a philosophy and culture with related practices and tools - all with the aim of bringing (IT) Operations closer to Development.
 
 Jez Humble described the devops movement like this: "a cross-functional community of practice dedicated to the study of building, evolving and operating rapidly changing, secure, resilient systems at scale".
 
@@ -32,7 +32,7 @@ As always, we are establishing "community of interests" to improve and promote t
 
 Another important aspect and also enabler of DevOps practices is the increase of certain tool and methods - some of them are also represented in the Tech Radar. For example: Puppet Environments; Docker; Cloud Services, Terraform, Consul etc.
 
-**DevSetup = Prod Setup, [Infrastructure as a Code](methods-and-patterns/infrastructure-as-code.html)**
+**Dev Setup = Prod Setup, [Infrastructure as a Code](/methods-and-patterns/infrastructure-as-code/)**
 
 Keeping the development infrastructure setup close to production is also a commonly implemented practice and a direct result of the "Infrastructure as Code" method.
 Handling infrastructure and the required changes and innovations in ways similar to those used for applications is important; you can ready more about this here: Infrastructure as Code
