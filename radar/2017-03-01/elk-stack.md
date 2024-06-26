@@ -7,7 +7,7 @@ tags:       [devops]
 
 The [ELK Stack](https://www.elastic.co/de/elastic-stack) is a powerful trio of tools that work together to provide a comprehensive solution for logging, searching, visualizing, and analyzing data in real time:
 
-- **[Elasticsearch](../platforms-and-aoe-services/elasticsearch.html)**: A search and analytics engine that indexes and stores data.
+- **[Elasticsearch](/platforms-and-aoe-services/elasticsearch/)**: A search and analytics engine that indexes and stores data.
 - **Logstash**: A data processing pipeline that ingests and transforms various data formats.
 - **Kibana**: A visualization tool that creates interactive dashboards and reports.
 

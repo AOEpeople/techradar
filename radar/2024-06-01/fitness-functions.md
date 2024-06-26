@@ -16,7 +16,7 @@ tags:       [architecture, ci/cd, quality assurance]
 - **Alignment with Business Goals**: Ensures that technical decisions are aligned with business goals by making trade-offs explicit and measurable.
 - **Evolutionary Approach**: Encourages iterative improvement and adaptation, similar to natural selection processes in evolutionary biology.
 
-[DORA (DevOps Research and Assessment) Metrics](../methods-and-patterns/dora-metrics.html), such as deployment frequency, lead time for changes, mean time to recovery, and change failure rate, provide high-level insights into the overall health and effectiveness of an organization's software delivery practices. By integrating fitness functions into development workflows, teams receive detailed, actionable feedback on specific aspects of their systems, leading to continuous improvement in deployment speed, reliability, and quality.
+[DORA (DevOps Research and Assessment) Metrics](/methods-and-patterns/dora-metrics/), such as deployment frequency, lead time for changes, mean time to recovery, and change failure rate, provide high-level insights into the overall health and effectiveness of an organization's software delivery practices. By integrating fitness functions into development workflows, teams receive detailed, actionable feedback on specific aspects of their systems, leading to continuous improvement in deployment speed, reliability, and quality.
 
 By embedding fitness functions into the CI/CD pipeline, teams can ensure that their applications adhere to architectural standards and quality attributes. This proactive approach helps maintain a robust and scalable architecture that provides a solid foundation for the software as it evolves.
 

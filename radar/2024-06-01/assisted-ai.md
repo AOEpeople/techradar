@@ -7,11 +7,11 @@ tags:       [ai, architecture, coding]
 
 ### Adopting GitHub Copilot
 
-We've adopted AI Assisted Programming to enhance our overall efficiency and product quality, with [GitHub Copilot](../tools/github-copilot.html) serving as our primary tool for this purpose.
+We've adopted AI Assisted Programming to enhance our overall efficiency and product quality, with [GitHub Copilot](/tools/github-copilot/) serving as our primary tool for this purpose.
 
 Guidelines for its usage have been established, and we continuously refine our practices by sharing best practices and insights within our communities.
 
-The use of [GitHub Copilot](../tools/github-copilot.html) is currently project-based and requires customer consent. While utilizing it, we remain mindful of potential risks and actively work to mitigate them.
+The use of [GitHub Copilot](/tools/github-copilot/) is currently project-based and requires customer consent. While utilizing it, we remain mindful of potential risks and actively work to mitigate them.
 
 ### Potential Risks and Mitigation Strategies
 
