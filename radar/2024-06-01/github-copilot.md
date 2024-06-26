@@ -14,4 +14,4 @@ tags:       [ai, architecture, coding]
 - **Code Generation Across Languages**: Supports multiple programming languages and frameworks, making it versatile for different project requirements.
 - **Automated Documentation**: Generates documentation comments automatically, aiding in better code maintenance and readability.
 
-See [AI Assisted Programming](../methods-and-patterns/assisted-ai.html) for more information on our adoption of AI tools in our development workflows.
+See [AI Assisted Programming](/methods-and-patterns/assisted-ai/) for more information on our adoption of AI tools in our development workflows.

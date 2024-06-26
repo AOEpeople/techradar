@@ -5,4 +5,3 @@ ring:       adopt
 tags:       [architecture, documentation]
 featured:   false
 ---
-

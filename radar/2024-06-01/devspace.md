@@ -5,8 +5,6 @@ ring:       assess
 tags:       [coding, devops]
 ---
 
-## Introduction
-
 [DevSpace](https://www.devspace.sh/) is an open-source developer tool for Kubernetes that lets you develop and
 deploy cloud-native software faster. As a "client-only" development tool, it is very simple to develop kubernetes
 native applications in local or any remote cluster.
