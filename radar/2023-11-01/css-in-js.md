@@ -5,7 +5,7 @@ quadrant:   methods-and-patterns
 tags:       [coding, frontend]
 ---
 
-Since the release of React 18, many CSS-in-JS libraries like styled-components, emotion, and stitches have encountered a significant challenge. They generate CSS only at runtime, making them incompatible with streaming and [React Server Components](../methods-and-patterns/react-server-components.html). React developers have addressed this issue in an [article](https://github.com/reactwg/react-18/discussions/110), where they explicitly advise against using CSS-in-JS libraries that generate CSS at runtime.
+Since the release of React 18, many CSS-in-JS libraries like styled-components, emotion, and stitches have encountered a significant challenge. They generate CSS only at runtime, making them incompatible with streaming and [React Server Components](/methods-and-patterns/react-server-components/). React developers have addressed this issue in an [article](https://github.com/reactwg/react-18/discussions/110), where they explicitly advise against using CSS-in-JS libraries that generate CSS at runtime.
 
 This has created substantial uncertainty among developers and the communities of these affected libraries. The question arises: Is it possible to refactor these runtime libraries into buildtime libraries? To date, none of the libraries have announced any such plans, and, unfortunately, one of the most popular new libraries, stitches, is [no longer being maintained](https://github.com/stitchesjs/stitches/discussions/1149#discussioncomment-6223090).
 

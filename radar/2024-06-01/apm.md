@@ -5,4 +5,3 @@ quadrant:   methods-and-patterns
 tags:       [devops]
 featured:   false
 ---
-

@@ -13,11 +13,11 @@ Software libraries and other external dependencies are a major attack vector whe
 
 - Verify dependency artifact signatures and checksums to detect artifacts that were released or replaced by an attacker.
 - Raise developer awareness regarding malicious dependencies and issues such as typosquatting in dependency package managers.
-- Generate [Software Bills of Materials (SBOMs)](../platforms-and-aoe-services/sbom.html) for transparency regarding used software dependencies and to support the automated detection of known vulnerabilities.
+- Generate [Software Bills of Materials (SBOMs)](/platforms-and-aoe-services/sbom/) for transparency regarding used software dependencies and to support the automated detection of known vulnerabilities.
 - Evaluate and reduce the number of external dependencies to minimize the attack surface.
 
 We believe that supply chain security can only be achieved when taking every step of the supply chain into account. Therefore, we utilize the DevSecOps lifecycle and evaluate potential attack vectors and countermeasures for the complete software development and operation lifecycle. As a result, we use the following general measures to improve supply chain security:
 
-- Secure build, test, and deployment environments with [Zero Trust](../methods-and-patterns/zero-trust/).
+- Secure build, test, and deployment environments with [Zero Trust](/methods-and-patterns/zero-trust/).
 - Sign built software artifacts and verify the signature of artifacts before deploying them.
 - Use static application security testing (SAST) and dynamic application security testing (DAST) to scan for known vulnerabilities and logic flaws before deploying artifacts to production environments.

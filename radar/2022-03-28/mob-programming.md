@@ -5,7 +5,7 @@ quadrant:   methods-and-patterns
 tags:       [agile, coding]
 ---
 
-While practicing [pair working](../methods-and-patterns/pair-working.html) for several years now at AOE, we began to explore [remote mob programming](https://www.remotemobprogramming.org/) extensively when we switched to remote working during the COVID-19 pandemic.
+While practicing [pair working](/methods-and-patterns/pair-working/) for several years now at AOE, we began to explore [remote mob programming](https://www.remotemobprogramming.org/) extensively when we switched to remote working during the COVID-19 pandemic.
 
 Mob programming brings the driver/navigator pattern to another level by bringing a group of navigators into the game. With the entire development team focused on a single topic, a lot of common understanding and shared knowledge are generated during each session as everyone is involved in the development process. The result is less controversial code reviews (which might even be completely omitted) and the evolution of a team coding style in favor of individual ways of problem-solving.
 
