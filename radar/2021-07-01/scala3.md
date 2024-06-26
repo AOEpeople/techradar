@@ -1,8 +1,8 @@
 ---
-title: "Scala 3"
-ring: "trial"
-quadrant: "languages-and-frameworks"
-featured: true
+title:      "Scala 3"
+ring:       "trial"
+quadrant:   "languages-and-frameworks"
+tags:       [coding]
 ---
 
 [Scala 3](https://docs.scala-lang.org/scala3/) is the successor of the Scala 2.x series programming language.
@@ -18,7 +18,7 @@ It's not just a small iteration on Scala 2 but a complete overhaul of the langua
   * Providing type-class instances via `given`
   * direct extension method syntax `extension (s: String) def pirate: String = s"$s arr!"`
 * Type System improvements
-  * `enum`s 
+  * `enum`s
   * opaque types
   * intersection and union types
   * dependent function types
