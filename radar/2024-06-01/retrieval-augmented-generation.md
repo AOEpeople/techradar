@@ -18,8 +18,8 @@ tags:       [ai]
 ### Challenges
 
 - **Latency**: Retrieving and processing external data in real-time can introduce latency, potentially slowing down response times compared to purely generative models.
-- **Dependence on external data quality**: The accuracy and relevance of the generated content is highly dependent on the quality and reliability of the external data sources. Poor quality or outdated data can negatively impact the results.
-- **Security and privacy**: Accessing *external* data sources can expose the system to security vulnerabilities and privacy concerns. Mitigation strategies include careful data access management and robust security measures in the retrieval process.
+- **Dependence on external data quality**: The accuracy and relevance of the generated content are highly dependent on the quality and reliability of the external data sources. Poor quality or outdated data can negatively impact the results.
+- **Security and privacy**: Accessing external data sources can expose the system to security vulnerabilities and privacy concerns. Mitigation strategies include careful data access management and robust security measures in the retrieval process.
 - **Maintenance overhead**: Regular updates and maintenance of the retrieval system and data sources are required to ensure continued accuracy and relevance, adding to the operational burden.
 - **Potential for bias**: The retrieval process can introduce biases present in the external data, which can be propagated into the generated content, affecting the fairness and objectivity of the outputs.
 

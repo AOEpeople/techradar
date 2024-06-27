@@ -2,6 +2,6 @@
 title:      "Vistecture"
 ring:       assess
 quadrant:   tools
-tags:       [documentation, architecture]
+tags:       [architecture, documentation]
 featured:   false
 ---

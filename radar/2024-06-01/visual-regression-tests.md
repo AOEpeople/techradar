@@ -11,6 +11,6 @@ Visual regression tests address several challenges. They ensure consistency in t
 
 Moreover, integrating visual regression tests into development pipelines enhances the reliability of deployments. By catching visual discrepancies early, it prevents potential UI issues from reaching end-users. This not only saves time and resources but also maintains the application's quality and reputation.
 
-Currently there are several AOE teams that use visual regression tests with [Playwright](/tools/playwright/) in their daily operations, with more teams expected to adopt this practice in the future.
+Currently, several AOE teams use visual regression tests with [Playwright](/tools/playwright/) in their daily operations, with more teams expected to adopt this practice in the future.
 
 In summary, visual regression tests are an invaluable tool for frontend developers. They streamline the development process, ensure visual consistency, and maintain high-quality user interfaces, making them an essential part of modern web development workflows.

@@ -6,4 +6,4 @@ tags:       [devops]
 featured:   false
 ---
 
-Puppet works well for over 11 years for us.
+Puppet has worked well for us for over 11 years.
