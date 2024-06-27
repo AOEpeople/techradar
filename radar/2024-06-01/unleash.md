@@ -2,6 +2,6 @@
 title:      "Unleash"
 ring:       adopt
 quadrant:   tools
-tags:       [coding, frontend, devops]
+tags:       [coding, devops, frontend]
 featured:   false
 ---
