@@ -5,16 +5,15 @@ quadrant:   tools
 tags:       [architecture]
 ---
 
-The [OpenAPI Specification](https://www.openapis.org/) (OAS) is a broadly adopted industry standard for describing modern REST APIs.
-Other initiatives like RAML have [joined](https://blogs.mulesoft.com/dev/api-dev/open-api-raml-better-together/) the OpenAPI Initiative.
+The [OpenAPI Specification](https://www.openapis.org/) (OAS) is a broadly adopted industry standard for describing modern REST APIs. Other initiatives like RAML have [joined](https://blogs.mulesoft.com/dev/api-dev/open-api-raml-better-together/) the OpenAPI Initiative.
 
 **OpenAPI v3**
 
-The current version OpenAPI v3 added more features to the specification - for example the ability to describe APIs supporting request/callback pattern.
+The current version, OpenAPI v3, added more features to the specification, for example, the ability to describe APIs supporting request/callback patterns.
 
-There is a very good api designer https://www.apicur.io/ and a good mock generator http://microcks.github.io/
+There is a very good API designer: [Apicurio](https://www.apicur.io/) and a good mock generator: [Microcks](http://microcks.github.io/).
 
-The general tool support is excellent. See https://openapi.tools/
+The general tool support is excellent. See [OpenAPI Tools](https://openapi.tools/).
 
 **TM Forum Open API**
 

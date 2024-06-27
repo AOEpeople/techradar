@@ -11,6 +11,6 @@ In addition, new tools and techniques have emerged that support the practical ap
 
 * **Core Domain Charts**: Introduced by Eric Evans in 2019, these support the identification and prioritization of core business domains, ensuring that critical areas receive appropriate focus and resources.
 * **Event Storming**: A popular workshop format for collaboratively exploring complex domains, facilitating a shared understanding and uncovering domain insights.
-* **Wardley Maps**: Created by Simon Wardley, are a visualization tool that helps organizations understand their business landscape, anticipate change, and identify strategic opportunities.
+* **Wardley Maps**: Created by Simon Wardley, these are a visualization tool that helps organizations understand their business landscape, anticipate change, and identify strategic opportunities.
 
-The continuing relevance of Eric Evans' *Domain-Driven Design*, more than 20 years after after the book was first published, underscores its importance in modern software development.
+The continuing relevance of Eric Evans' *Domain-Driven Design*, more than 20 years after the book was first published, underscores its importance in modern software development.

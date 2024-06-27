@@ -9,7 +9,7 @@ Facebook has released [StyleX](https://stylexjs.com/), an open-source JavaScript
 
 It supports frameworks like [React](/languages-and-frameworks/react/) and [Angular](/languages-and-frameworks/angular/). Styles are defined using an object syntax and `create()` API, and can be conditionally applied within components.
 
-### Key Features:
+### Key Features
 - **Atomic CSS**: Minimizes CSS output
 - **Type-Safe**: Ensures reliability in large projects
 - **Composable**: Facilitates reusable components

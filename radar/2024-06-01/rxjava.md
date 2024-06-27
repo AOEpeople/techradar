@@ -2,6 +2,6 @@
 title:      "RxJava"
 ring:       trial
 quadrant:   tools
-tags:       [coding, architecture]
+tags:       [architecture, coding]
 featured:   false
 ---
