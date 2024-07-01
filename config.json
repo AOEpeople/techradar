@@ -3,7 +3,7 @@
   "baseUrl": "https://www.aoe.com/techradar",
   "editUrl": "https://github.dev/AOEpeople/techradar/blob/main/radar/{release}/{id}.md",
   "logoFile": "logo.svg",
-  "jsFile": "",
+  "jsFile": "custom.js",
   "toggles": {
     "showChart": true,
     "showTagFilter": true,
