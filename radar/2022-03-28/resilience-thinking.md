@@ -19,7 +19,7 @@ patterns and methods used are:
 * Detect errors explicitly: Check the response message format and configure proper timeouts for external communication
 * Handle errors in a smart way: Show a nice error message to your customer or, even better, graceful degrade features -
   e.g. by showing some fallback text
-* Use message-based communication where useful ([Decoupling Infrastructure via Messaging](/methods-and-patterns/decoupling-infrastructure-via-messaging/))
+* Use message-based communication where useful ([Decoupling via Messaging](/methods-and-patterns/decoupling-via-messaging/))
 * Use circuit breakers to isolate errors and allow systems to recover
 * Use short activation paths in your strategic architecture - so that there is only a minimal set of communications
   between your services required for certain features or business requests

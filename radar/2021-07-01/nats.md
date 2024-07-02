@@ -1,9 +1,8 @@
 ---
-title: "NATS"
-ring: assess
-quadrant: tools
-featured: true
-tags: [architecture, devops]
+title:      "NATS"
+ring:       assess
+quadrant:   tools
+tags:       [architecture, devops]
 ---
 
 [NATS](https://nats.io/) is a cloud native messaging and stream-data system for modern distributed software systems.

@@ -1,8 +1,8 @@
 ---
-title: "Rust"
-ring: "assess"
-quadrant: "languages-and-frameworks"
-featured: true
+title:      "Rust"
+ring:       "assess"
+quadrant:   "languages-and-frameworks"
+tags:       [coding]
 ---
 
 [Rust](https://www.rust-lang.org/) is a young and modern programming language initially developed by [Mozilla Research](https://research.mozilla.org/).
