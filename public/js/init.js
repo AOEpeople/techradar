@@ -40,8 +40,7 @@
 
   // initially load chatbot script
   const chatbot = document.createElement("script");
-  // TODO: add public source to js file
-  chatbot.src = "";
+  chatbot.src = "/chatbot-frontend/chatbot.umd.js";
   chatbot.type = "text/javascript";
   document.head.append(chatbot);
 
