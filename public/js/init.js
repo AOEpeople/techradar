@@ -47,7 +47,6 @@
   // load chatbot styles
   const chatbotStyles = document.createElement("link");
   chatbotStyles.rel = "stylesheet";
-  // TODO: add public source to css file
-  chatbotStyles.href = "";
+  chatbotStyles.href = "/chatbot-frontend/style.css";
   document.head.append(chatbot);
 })();
