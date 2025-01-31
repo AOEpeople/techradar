@@ -48,5 +48,5 @@
   const chatbotStyles = document.createElement("link");
   chatbotStyles.rel = "stylesheet";
   chatbotStyles.href = "/chatbot-frontend/style.css";
-  document.head.append(chatbot);
+  document.head.append(chatbotStyles);
 })();
