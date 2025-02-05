@@ -1,6 +1,6 @@
 # AOE Technology Radar - Content
 
-This is the location of AOE techradar content - published under: https://www.aoe.com/techradar/
+This is the location of AOE techradar content - published under: https://techradar.aoe.com/
 
 If you want to build your own techradar you may want to have a look at https://github.com/AOEpeople/aoe_technology_radar instead.
 
