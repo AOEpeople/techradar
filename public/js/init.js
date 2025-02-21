@@ -2,7 +2,7 @@
     const chatbotElement = document.createElement("div");
     chatbotElement.id = "chatbot";
     chatbotElement.style =
-        "position: fixed; bottom: 0; right: 0; z-index: 9999; margin-right: 0; margin-bottom: 20px";
+        "position: fixed; bottom: 0; right: 0; z-index: 9999; margin-right: 20px; margin-bottom: 20px";
     document.body.append(chatbotElement);
 
     // initially load chatbot script
