@@ -58,7 +58,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/aoepeople/techradar:latest
+          tags: ghcr.io/aoepeople/techradar:dev-${{ github.run_id }}
 
 #  deploy-test:
 #    needs: build
