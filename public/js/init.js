@@ -10,7 +10,7 @@
     chatbot.src = "/chatbot/chatbot.umd.js";
     chatbot.type = "text/javascript";
     chatbot.onload = function() {
-        Chatbot.init({height: 700, width: 400, botName: "TechScout"})
+        Chatbot.init({height: 700, width: 400, botName: "Theo"})
         Chatbot.show();
     }
     document.head.append(chatbot);
