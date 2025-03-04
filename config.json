@@ -2,7 +2,7 @@
   "basePath": "/",
   "baseUrl": "https://techradar.aoe.com",
   "editUrl": "https://github.dev/AOEpeople/techradar/blob/main/radar/{release}/{id}.md",
-  "logoFile": "logo.svg",
+  "logoFile": "/logo.svg",
   "jsFile": "/js/init.js",
   "toggles": {
     "showChart": true,
