@@ -1,6 +1,6 @@
 ---
 title:      "Panda CSS"
-ring:       assess
+ring:       adopt
 quadrant:   languages-and-frameworks
 tags:       [frontend, styling]
 ---
