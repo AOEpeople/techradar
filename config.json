@@ -7,7 +7,7 @@
   "toggles": {
     "showChart": true,
     "showTagFilter": true,
-    "showQuadrantList": true,
+    "showSegmentList": true,
     "showEmptyRings": false
   },
   "sections": ["radar", "tags", "list"],
@@ -21,30 +21,35 @@
     "border": "rgba(255, 255, 255, 0.1)",
     "tag": "rgba(255, 255, 255, 0.1)"
   },
-  "quadrants": [
-    {
-      "id": "languages-and-frameworks",
-      "title": "Languages & Frameworks",
-      "description": "This quadrant includes programming languages (e.g., Java and Golang) and frameworks (e.g., React and Spring Boot) that are at the core of custom software development.",
-      "color": "#84BFA4"
-    },
+  "segments": [
     {
       "id": "methods-and-patterns",
       "title": "Methods & Patterns",
       "description": "This quadrant covers methods and patterns related to software development, including architecture, security, testing, organizational methodologies, and more.",
+      "label": "Quadrant 2",
       "color": "#248EA6"
-    },
-    {
-      "id": "platforms-and-aoe-services",
-      "title": "Platforms & Operations",
-      "description": "This quadrant clusters technologies focused on the operation of software, related platforms, tools, infrastructure, and services.",
-      "color": "#F25244"
     },
     {
       "id": "tools",
       "title": "Tools",
       "description": "This quadrant features a variety of tools, from small utilities to large-scale software projects.",
+      "label": "Quadrant 4",
       "color": "#F2A25C"
+    },
+    {
+      "id": "platforms-and-aoe-services",
+      "title": "Platforms & Operations",
+      "description": "This quadrant clusters technologies focused on the operation of software, related platforms, tools, infrastructure, and services.",
+      "label": "Quadrant 3",
+      "color": "#F25244"
+    },
+
+    {
+      "id": "languages-and-frameworks",
+      "title": "Languages & Frameworks",
+      "description": "This quadrant includes programming languages (e.g., Java and Golang) and frameworks (e.g., React and Spring Boot) that are at the core of custom software development.",
+      "label": "Quadrant 1",
+      "color": "#84BFA4"
     }
   ],
   "rings": [
@@ -132,10 +137,18 @@
       "icon": "github"
     }
   ],
-  "imprint": "https://www.aoe.com/en/imprint.html",
+  "footerLinks": [
+    {
+      "url": "https://www.aoe.com/en/legal/imprint",
+      "label": "Legal Information"
+    },
+    {
+      "url": "https://www.aoe.com/en/legal/privacy-policy",
+      "label": "Privacy Policy"
+    }
+  ],
   "labels": {
     "title": "AOE Technology Radar",
-    "imprint": "Legal Information",
     "quadrant": "Quadrant",
     "quadrantOverview": "Quadrant Overview",
     "zoomIn": "Zoom in",
