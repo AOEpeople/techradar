@@ -1,14 +1,15 @@
 {
   "name": "aoe-techradar",
   "private": true,
-  "version": "4.3.0",
+  "version": "9.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
+    "dev": "techradar dev",
     "build": "techradar build",
     "serve": "techradar serve"
   },
   "dependencies": {
-    "aoe_technology_radar": "github:AOEpeople/aoe_technology_radar#main"
+    "aoe_technology_radar": "AOEpeople/aoe_technology_radar#d2357d5"
   }
 }
