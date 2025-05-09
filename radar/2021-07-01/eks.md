@@ -6,10 +6,10 @@ tags: [devops]
 ---
 
 [Amazon Elastic Kubernetes Service](https://aws.amazon.com/de/eks/) (Amazon EKS) is a managed service that makes it easy for you to run Kubernetes on AWS without needing to stand up or maintain your own Kubernetes control plane or workloads.
-Amazon EKS runs Kubernetes control plane instances across multiple Availability Zones to ensure high availability. 
+Amazon EKS runs Kubernetes control plane instances across multiple Availability Zones to ensure high availability.
 It also provides automated version upgrades and patching for them.
 
-Amazon EKS is fully supported by [Terraform](/platforms-and-aoe-services/terraform/) which brings the advantage that its configuration is written in code,
+Amazon EKS is fully supported by [Terraform](/tools/terraform/) which brings the advantage that its configuration is written in code,
 which fulfils the [infrastructure as code](/platforms-and-aoe-services/infrastructure-as-code/) philosophy.
 Amazon has also implemented important (security) features to their service to ensure that Amazon EKS is well integrated into the broader AWS landscape.
 Kubernetes version upgrades and security patches are provided in a reliable schedule and with proper documentation.
