@@ -3,7 +3,6 @@ title:      "Accessibility Tools"
 ring:       adopt
 quadrant:   tools
 tags:       [accessibility]
-featured:   false
 ---
 
 Accessibility testing tools help ensure that web applications are usable by everyone, including people with disabilities. 
