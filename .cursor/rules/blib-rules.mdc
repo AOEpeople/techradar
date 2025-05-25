@@ -1,0 +1,50 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# About
+This is a repository content for our AOE techradar.
+
+
+The Tech Radar provides an overview of different technologies, including languages, frameworks,
+tools, and patterns, as well as platforms, that we consider 'new or noteworthy.' The radar does not
+cover all established technologies; instead, it focuses on items that have recently gained
+significance or undergone changes. Items previously featured in the radar are not listed on the
+homepage but remain available in the complete overview and search.
+
+The audience are software engineers, developers and in general all people interested in technologies.
+
+The content is stored in the folder "radar" inside a folder with a certain date.
+
+# Adding Radar articles (items)
+
+You should not add a new date folder but use the latest folder.
+Create a new markdown file with the name of the item and fill it with the items content.
+
+## Radar article (item) content
+
+The file starts with this header part:
+
+```
+---
+title:      "Cypress"
+ring:       adopt
+quadrant:   tools
+tags:       [academy training, frontend, quality assurance]
+featured:   false
+---
+```
+
+As quadrant only use allowed values: languages-and-frameworks, methods-and-patterns, platforms-and-services, tools
+
+The content of the item is a markdown description of the item.
+is technical and wants quality content: Be precise and concise and add mentionable insides and recommendations. Do not use marketing language and avoid superlatives.
+Also link to other items using markdown links.
+Also add links to internet resources and the official pages (if any).
+
+## Linking between articles
+If appropriate, add links to other articles using markdown links.
+The link to an article is a path that combines <segment> and <filename>.
+
+For example an article "infrastructure-as-code.md" with the segment "methods-and-patterns" would be linked as "/methods-and-patterns/infrastructure-as-code/"
