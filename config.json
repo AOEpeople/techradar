@@ -1,6 +1,6 @@
 {
   "basePath": "/techradar",
-  "baseUrl": "https://www.aoe.com/techradar",
+  "baseUrl": "https://techradar.aoe.com/",
   "editUrl": "https://github.dev/AOEpeople/techradar/blob/main/radar/{release}/{id}.md",
   "logoFile": "logo.svg",
   "jsFile": "",
@@ -132,10 +132,18 @@
       "icon": "github"
     }
   ],
-  "imprint": "https://www.aoe.com/en/imprint.html",
+  "footerLinks": [
+    {
+      "url": "https://www.aoe.com/en/legal/imprint",
+      "label": "Legal Information"
+    },
+    {
+      "url": "https://www.aoe.com/en/legal/privacy-policy",
+      "label": "Privacy Policy"
+    }
+  ],
   "labels": {
     "title": "AOE Technology Radar",
-    "imprint": "Legal Information",
     "quadrant": "Quadrant",
     "quadrantOverview": "Quadrant Overview",
     "zoomIn": "Zoom in",
