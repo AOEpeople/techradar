@@ -2,34 +2,40 @@
 title:      "Green IT"
 ring:       assess
 quadrant:   methods-and-patterns
-tags:       [architecture, coding]
+tags:       [architecture, coding, devops]
 ---
 
-In an age of ever-increasing digitalization, the energy consumption of data centers and the Internet continues to rise, raising concerns about the environmental impact of our digital activities. In response, the concept of "Green IT" has emerged, emphasizing the need for eco-friendly software development and operational practices. By highlighting key architectural patterns, development practices, and operational strategies for reducing the carbon footprint of IT applications, it challenges software vendors and developers to explore how they can contribute to greater sustainability.
+As digitalization accelerates, the energy consumption of IT systems continues to increase. Data centers, network infrastructures, and client devices collectively account for a growing share of global electricity demand. In response, Green IT has emerged as a discipline focused on reducing the environmental impact of digital systems across architecture, development, and operations.
 
-### Sustainable Software Development Practices
-Well-architected software plays a pivotal role in reducing the environmental impact of digital systems. Sustainability in software development involves the consideration of various factors throughout the entire lifecycle:
-- **Agile and Modular Development**: Develop software iteratively, focusing on essential functionality and creating modular, reusable components.
-- **Programming Language Choice**: Opt for compiled languages such as [Rust](/languages-and-frameworks/rust/) or [Go](/languages-and-frameworks/go-lang/) that have lower energy consumption during execution.
-- **Automation and Infrastructure-as-Code**: Automate resource management and shut down unused infrastructure during idle periods to decrease energy consumption.
-- **Demand Shaping**: Schedule energy-intensive workloads to align with the availability of renewable energy sources.
-- **Green Power**: Source electricity from sustainable and renewable sources.
-- **Optimized Hardware and Software Lifespan**: Extend the life of hardware and software through thoughtful design and maintenance.
+### Sustainable Software Practices
+Sustainable software development requires consideration of environmental impacts throughout the entire lifecycle:
+- **Modular and lean design**: Build only what is needed. Modular architectures support reuse and allow for the independent deployment and scaling of components.
+- **Energy-aware programming**: Choose languages and runtimes with low resource overhead. For compute-bound workloads, compiled languages such as [Rust](/languages-and-frameworks/rust/) or [Go](/languages-and-frameworks/go-lang/) typically consume less energy during execution.
+- **Demand shaping and workload scheduling**: Align compute-intensive jobs with times of renewable energy availability, especially in non-interactive and batch-processing contexts.
+- **Avoid overprovisioning**: Shut down idle components. Use [infrastructure as code](/methods-and-patterns/infrastructure-as-code/) and autoscaling to allocate only the resources required.
+- **Green hosting**: Prefer cloud regions or providers powered by renewable energy, and prioritize those that provide CO₂ transparency.
+- **Hardware and software longevity**: Design systems that avoid unnecessary hardware churn, extending their lifespan through thoughtful design and maintenance.
 
 ### Metrics and Measurement
-Software applications, especially those hosted in data centers, have a substantial environmental footprint as they require significant amounts of energy to operate. In addition, their development and use often necessitate the production of hardware devices such as servers, laptops, and smartphones.
+Environmental metrics help teams identify hotspots and track progress over time:
+- **Operational energy consumption**: CPU time, memory usage, network I/O, and idle time
+- **Embodied carbon**: Emissions associated with the manufacturing and lifecycle of development and runtime hardware
+- **CO₂ emissions per unit of work**: Emissions per request, transaction, or user session
 
-Assessing the carbon emissions throughout an application's lifecycle enables developers and enterprises to make informed decisions that reduce emissions, lower costs, and ensure compliance with environmental regulations. Measuring energy consumption highlights areas where software can be optimized for improved efficiency. Environmental metrics support sustainability reporting, showcasing an organization's commitment to eco-friendly practices.
+### Architecture Patterns for Sustainable Systems
+Well-architected systems can significantly reduce environmental impact:
+- **Event-driven and reactive systems**: Enable on-demand processing and eliminate resource-intensive polling
+- **Serverless and FaaS**: Promote short-lived, minimal compute and better resource utilization
+- **Edge computing**: Reduces latency and data transfer, especially in IoT and real-time scenarios
 
-### Beware the Rebound Effect
-Efficiency improvements often lead to time and cost savings, which can paradoxically lead to more workload and less energy savings - a rebound effect. Finding a balance between efficiency gains and sustainable growth is critical to sustainable software development.
+### Avoiding the Rebound Effect
+Efficiency does not automatically lead to sustainability. Improvements can be offset by increased usage, a phenomenon known as the rebound effect. Reducing energy per request is only effective when combined with conscious decisions about system scale, feature scope, and usage patterns.
 
-### Digitalization's Environmental Impact
-The environmental impact of digitalization is a nuanced interplay between its potential for energy consumption and its ability to promote sustainability.
-
-Blockchain technology utilizing energy-intensive mining processes of proof-of-work consensus mechanisms demands immense computational power, resulting in substantial carbon emissions. Machine learning, a cornerstone of AI, requires vast amounts of data and computational resources.
-
-However, digitalization also emerges as a champion of environmental stewardship in several areas: Demand-driven production optimizes inventory, reduces waste, and curtails unnecessary production, ultimately minimizing energy consumption and emissions. The digital product passport introduces traceability and transparency throughout a product's lifecycle, promoting sustainability and empowering consumers to make eco-conscious choices.
+### Digitalization as Leverage for Sustainability
+When used deliberately, digitalization can reduce environmental impact:
+- **Demand-driven production**: Minimizes overproduction and waste using real-time data
+- **Digital product passports**: Improve transparency and traceability in supply chains
+- **Smart infrastructure**: Enables intelligent control and optimization of energy usage in buildings, logistics, and manufacturing
 
 ### A Greener Future for IT
-Sustainable software development is not only an ethical imperative but also a competitive advantage. However, achieving comprehensive sustainability is a complex task. More than just minimizing energy consumption, Green IT compels us to make conscientious choices at every stage of the software development lifecycle. By adopting architectural patterns that prioritize sustainability, optimizing code, and embracing best practices in operations, we can contribute to a more eco-friendly digital future.
+Green IT is not just a technical initiative, it is a design principle and strategic commitment. However, achieving comprehensive sustainability is a complex task. It compels us to make conscientious choices at every stage of the software development lifecycle. Long term, Green IT creates not only ecological but also economic value, positioning organizations to meet regulatory, customer, and societal expectations.
