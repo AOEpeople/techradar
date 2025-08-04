@@ -2,23 +2,13 @@
 title:      "Event Storming"
 ring:       assess
 quadrant:   methods-and-patterns
-tags: [architecture]
+tags:       [academy-training, agile, architecture]
 ---
 
-Event Storming is a method of modeling business processes using domain events.
+[Event Storming](https://www.eventstorming.com/) is a collaborative workshop method for exploring and modeling complex business domains through domain events.
 
-With complex business processes, people usually know their part of the process very well.
-Having people from different departments in one room, allows (and requires!) a conversation.
-Knowledge silos get opened up. All learnings can be directly visualized.
+Rather than starting with abstract requirements, Event Storming begins with concrete events and works backward to identify what triggered them and who was involved. This retrospective approach reveals cause-and-effect relationships, clarifies responsibilities, and highlights gaps or risks early in the process.
 
-We tried this method a couple of times with different sized scopes. We believe it can be of value and has potential.
+Event Storming supports the key principles of Domain-Driven Design. It helps teams establish a ubiquitous language, define aggregates and bounded contexts, and understand the interactions between actors, commands, and domain events. These insights inform service boundaries, technical design, and architectural decisions, especially in event-driven systems that use patterns such as CQRS and event sourcing.
 
-## Method Overview
-It's like brainstorming - with the goal to visualize a business line or process.
-
-Event Storming is done in a workshop format.
-
-To get a business process modeled quickly and complete, it's important to get domain experts, developers, UX and everybody else who is involved to some extent in the related business line into one room.
-With virtually unlimited space for modeling using big paper rolls put onto the walls, equipped with colored stickies and markers, the modeling workshop can start.
-
-During the workshop, the goal is to model the big picture, without limiting or focusing just on parts of a process.
+Workshops use a shared modeling surface, either physical or digital, to capture the timeline of a process. Participants identify domain events, commands, actors, aggregates, read models, policies, external systems, and areas of uncertainty (hot spots). This process accelerates shared understanding, improves collaboration, and helps teams navigate complexity with clarity and purpose.
