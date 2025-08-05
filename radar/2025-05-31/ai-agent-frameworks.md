@@ -5,7 +5,7 @@ quadrant:   languages-and-frameworks
 tags:       [ai]
 ---
 
-### AI & Agent Frameworks – Building Blocks for LLM-Driven Applications
+### Building Blocks for LLM-Driven Applications
 
 With the rise of generative AI and LLM-based systems, a new generation of **agent frameworks**, such as LlamaIndex, LangGraph and many more has emerged to support the development of complex, multi-step, tool-using AI applications.
 

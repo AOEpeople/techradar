@@ -5,7 +5,7 @@ quadrant:   platforms-and-aoe-services
 tags:       [ai, ci/cd, devops]
 ---
 
-### LLMOps & AgentOps – Operating LLM-Centric AI Systems
+### Operating LLM-Centric AI Systems
 
 As generative AI systems evolve from simple prompts to complex applications, **LLMOps** and **AgentOps** emerge as key disciplines for ensuring **production-readiness**, **reliability**, and **observability**.
 

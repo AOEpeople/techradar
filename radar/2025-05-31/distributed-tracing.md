@@ -1,6 +1,6 @@
 ---
 title:      "Distributed Tracing"
-ring:       trial
+ring:       adopt
 quadrant:   platforms-and-aoe-services
 tags:       [devops]
 ---
