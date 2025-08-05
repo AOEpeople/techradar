@@ -1,7 +1,7 @@
 ---
 title:      "Apicurio Studio"
 ring:       trial
-quadrant:   tools
+segment:    tools
 tags:       [architecture]
 featured:   false
 ---

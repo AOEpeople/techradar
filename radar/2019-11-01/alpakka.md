@@ -1,8 +1,8 @@
 ---
 title:      "Alpakka"
 ring:       adopt
-quadrant:   languages-and-frameworks
-tags: [coding]
+segment:    languages-and-frameworks
+tags:       [coding]
 ---
 
 Updated to "adopt"

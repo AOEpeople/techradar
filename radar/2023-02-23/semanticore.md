@@ -1,7 +1,7 @@
 ---
 title:      "Semanticore"
 ring:       adopt
-quadrant:   tools
+segment:    tools
 tags:       [ci/cd, documentation, quality assurance]
 ---
 

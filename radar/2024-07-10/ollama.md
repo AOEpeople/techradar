@@ -1,7 +1,7 @@
 ---
 title:      "Ollama"
 ring:       trial
-quadrant:   tools
+segment:    tools
 tags:       [ai, coding]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title:      "Socket.IO"
 ring:       assess
-quadrant:   tools
+segment:    tools
 tags:       [architecture, coding]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title:      "AI Assisted Programming"
 ring:       assess
-quadrant:   "methods-and-patterns"
+segment:    "methods-and-patterns"
 tags:       [ai, architecture, coding]
 ---
 

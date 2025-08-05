@@ -1,6 +1,6 @@
 ---
-title: "Rust"
-ring: "assess"
-quadrant: "languages-and-frameworks"
-featured: false
+title:      "Rust"
+ring:       "assess"
+segment:    "languages-and-frameworks"
+featured:   false
 ---

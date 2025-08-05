@@ -1,7 +1,7 @@
 ---
 title:      "Styled Components"
 ring:       hold
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 tags:       [frontend, styling]
 ---
 

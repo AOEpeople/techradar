@@ -1,7 +1,7 @@
 ---
 title:      "Appium"
 ring:       trial
-quadrant:   tools
+segment:    tools
 tags:       [academy training, quality assurance, ux/ui]
 ---
 

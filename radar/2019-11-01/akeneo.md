@@ -1,6 +1,6 @@
 ---
 title:      "Akeneo"
 ring:       assess
-quadrant:   tools
-featured: false
+segment:    tools
+featured:   false
 ---

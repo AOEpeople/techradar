@@ -1,6 +1,6 @@
 ---
 title:      "Sitespeed.io"
 ring:       assess
-quadrant:   tools
+segment:    tools
 featured:   false
 ---

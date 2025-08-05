@@ -1,7 +1,7 @@
 ---
 title:      "Drupal"
 ring:       trial
-quadrant:   tools
+segment:    tools
 ---
 
 [Drupal](https://www.drupal.org/) is an open source content management system and framework based on a PHP stack.

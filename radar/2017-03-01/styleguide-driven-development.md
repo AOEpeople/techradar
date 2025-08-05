@@ -1,7 +1,7 @@
 ---
 title:      "Styleguide Driven Development"
 ring:       trial
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 ---
 
 The goal of Styleguide Driven Development is to develop your application user Interface independently and reusable in a Pattern Library.\

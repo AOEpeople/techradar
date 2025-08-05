@@ -1,7 +1,7 @@
 ---
 title:      "RabbitMQ"
 ring:       trial
-quadrant:   tools
+segment:    tools
 ---
 
 RabbitMQ is an Open Source message broker - implementing the Advanced Message Queuing Protocol (AMQP) protocol. It provides a reliable and scalable way to transport data between loosely coupled applications, using different EAI patterns such as the Publish & Subscriber pattern. AMQP supports direct and fan-out exchanges (broadcasts) as well as topics. Queuing mechanisms allow for robust architectures, mitigating the risks of application downtimes. Typically, a RabbitMQ server can easily buffer millions of messages. RabbitMQ supports JMS in addition to AMQP. It is not intended to use JMS for new systems, but it makes RabbitMQ useful for integrating legacy systems.

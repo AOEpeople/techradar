@@ -1,7 +1,7 @@
 ---
 title:      "Blameless Post Mortems"
 ring:       adopt
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 tags:       [devops, documentation]
 featured:   false
 ---

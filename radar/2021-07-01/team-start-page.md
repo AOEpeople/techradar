@@ -1,11 +1,11 @@
 ---
 title:      "Team Start Page"
 ring:       adopt
-quadrant:   methods-and-patterns
-tags: [quality assurance, documentation]
+segment:    methods-and-patterns
+tags:       [documentation, quality assurance]
 ---
 
-A team start page helps (new) members to orientate themselves. 
+A team start page helps (new) members to orientate themselves.
 It normally displays all team members with their roles and contact data as well as a collection of links to the necessary tools, e.g.
 
 * Project environments (staging, prod, ...)

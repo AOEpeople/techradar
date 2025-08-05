@@ -1,6 +1,6 @@
 ---
 title:      "Protobuf"
 ring:       adopt
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 featured:   false
 ---

@@ -1,7 +1,7 @@
 ---
 title:      "DGS Framework"
 ring:       assess
-quadrant:   tools
-tags:       [frontend, architecture]
+segment:    tools
+tags:       [architecture, frontend]
 featured:   false
 ---

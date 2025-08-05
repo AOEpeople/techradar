@@ -1,7 +1,7 @@
 ---
 title:      "React.js"
 ring:       trial
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 ---
 
 React claims to be "the V in MVC". But for us it is much more than that. React

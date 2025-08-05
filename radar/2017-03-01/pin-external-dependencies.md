@@ -1,7 +1,7 @@
 ---
 title:      "Pin external dependencies"
 ring:       adopt
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 ---
 
 A lot of applications have dependencies on other modules or components. We have

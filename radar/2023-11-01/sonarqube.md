@@ -1,7 +1,7 @@
 ---
 title:      "SonarQube"
 ring:       adopt
-quadrant:   tools
+segment:    tools
 tags:       [ci/cd, quality assurance]
 featured:   false
 ---

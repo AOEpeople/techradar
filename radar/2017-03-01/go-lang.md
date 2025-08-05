@@ -1,7 +1,7 @@
 ---
 title:      "Go / Golang"
 ring:       assess
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 tags:       [academy training, coding]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title:      "CSS-in-JS"
 ring:       adopt
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 tags:       [coding, frontend]
 ---
 

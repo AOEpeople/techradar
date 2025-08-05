@@ -1,7 +1,7 @@
 ---
 title:      "Scala Lang"
 ring:       trial
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 ---
 
 Besides Java, Scala is the most mature language on the Java Virtual Machine. Its unique blend of object-oriented and functional language features and rich type system with advanced type inference enables one to write concise code.

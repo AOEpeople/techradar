@@ -1,8 +1,8 @@
 ---
 title:      "Gatling"
 ring:       adopt
-quadrant:   tools
-featured: false
+segment:    tools
+featured:   false
 ---
 
 Gatling is still a valid tool which is widely used in our teams.

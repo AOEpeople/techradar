@@ -1,7 +1,7 @@
 ---
 title:      "Retrieval Augmented Generation (RAG)"
 ring:       trial
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 tags:       [ai]
 ---
 

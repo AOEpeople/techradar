@@ -1,7 +1,7 @@
 ---
 title:      "Kubernetes Operators"
 ring:       trial
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 tags:       [devops]
 featured:   false
 ---

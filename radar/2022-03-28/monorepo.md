@@ -1,7 +1,7 @@
 ---
 title:      "Monorepo"
 ring:       trial
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 tags:       [coding]
 ---
 

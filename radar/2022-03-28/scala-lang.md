@@ -1,6 +1,6 @@
 ---
 title:      "Scala Lang"
 ring:       adopt
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 featured:   false
 ---

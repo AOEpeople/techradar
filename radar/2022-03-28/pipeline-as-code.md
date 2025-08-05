@@ -1,7 +1,7 @@
 ---
 title:      "Pipeline as Code"
 ring:       adopt
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 tags:       [devops]
 ---
 

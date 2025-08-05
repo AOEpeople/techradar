@@ -1,7 +1,7 @@
 ---
 title:      "Semantic Versioning 2.0"
 ring:       adopt
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 featured:   false
 ---
 

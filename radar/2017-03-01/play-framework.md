@@ -1,7 +1,7 @@
 ---
 title:      "Play Framework"
 ring:       adopt
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 ---
 
 The Play Framework is a lightweight (web)application framework for Java and [Scala](/languages-and-frameworks/scala-lang/) programmers.

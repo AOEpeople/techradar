@@ -1,7 +1,7 @@
 ---
 title:      "Testcontainers"
 ring:       assess
-quadrant:   tools
+segment:    tools
 tags:       [devops, quality assurance]
 ---
 

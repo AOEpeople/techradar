@@ -1,7 +1,7 @@
 ---
 title:      "Sass"
 ring:       hold
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 featured:   false
 ---
 

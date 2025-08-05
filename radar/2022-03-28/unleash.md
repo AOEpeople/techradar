@@ -1,8 +1,8 @@
 ---
 title:      "Unleash"
 ring:       adopt
-quadrant:   tools
-tags:       [coding, frontend, devops]
+segment:    tools
+tags:       [coding, devops, frontend]
 ---
 
 [Unleash](https://www.getunleash.io/) is a feature (toggle / flag) management service written in Node.js.

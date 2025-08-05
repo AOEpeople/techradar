@@ -1,7 +1,7 @@
 ---
 title:      "Strategic Domain-Driven Design"
 ring:       adopt
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 tags:       [academy training, architecture]
 ---
 

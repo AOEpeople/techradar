@@ -1,7 +1,7 @@
 ---
 title:      "RxJava"
 ring:       trial
-quadrant:   tools
+segment:    tools
 tags:       [architecture, coding]
 featured:   false
 ---

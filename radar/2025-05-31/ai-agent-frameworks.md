@@ -1,7 +1,7 @@
 ---
 title:      "AI & Agent Frameworks"
 ring:       adopt
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 tags:       [ai]
 ---
 

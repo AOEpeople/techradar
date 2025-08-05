@@ -1,7 +1,7 @@
 ---
 title:      "Grafana"
 ring:       assess
-quadrant:   platforms-and-aoe-services
+segment:    platforms-and-aoe-services
 ---
 
 [Grafana](https://grafana.com//) is an Open Source data visualization platform written in Go and NodeJS. It provides a vast choice of different graph types that can be easily combined into dashboards for displaying any kind of numerical or time-based data.

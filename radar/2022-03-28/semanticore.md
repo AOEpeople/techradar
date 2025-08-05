@@ -1,7 +1,7 @@
 ---
 title:      "Semanticore"
 ring:       trial
-quadrant:   tools
+segment:    tools
 tags:       [ci/cd, documentation, quality assurance]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title:      "Dependency Update Scan"
 ring:       adopt
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 tags:       [coding, security]
 featured:   false
 ---

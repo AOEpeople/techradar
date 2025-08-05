@@ -1,7 +1,7 @@
 ---
 title:      "Conventional Commits"
 ring:       adopt
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 ---
 
 Conventional commits are being widely used in our teams, therefore we're changing this to adopt. Using commit messages

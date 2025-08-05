@@ -1,7 +1,7 @@
 ---
 title:      "Maintain third party packages"
 ring:       hold
-quadrant:   platforms-and-aoe-services
+segment:    platforms-and-aoe-services
 ---
 
 Rebuilding and packaging software from "third parties" (e.g. PHP, MySQL, Redis, Nginx, Java,...) implies starting to maintain the packaging for the desired distribution.

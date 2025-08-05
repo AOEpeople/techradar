@@ -1,7 +1,7 @@
 ---
 title:      "Webpack"
 ring:       trial
-quadrant:   tools
+segment:    tools
 ---
 
 [Webpack](https://webpack.js.org/) is a web bundler for JavaScript applications. Instead of writing scripts to build and bundle your app like you would with [Gulp](/tools/gulp/), you just define what files you want to load into your bundle.

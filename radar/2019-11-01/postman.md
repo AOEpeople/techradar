@@ -1,7 +1,7 @@
 ---
 title:      "Postman"
 ring:       trial
-quadrant:   tools
+segment:    tools
 featured:   false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title:      "Gradle"
 ring:       adopt
-quadrant:   tools
+segment:    tools
 tags:       [ci/cd, coding]
 featured:   false
 ---

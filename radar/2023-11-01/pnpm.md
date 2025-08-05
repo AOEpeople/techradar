@@ -1,7 +1,7 @@
 ---
 title:      "pnpm"
 ring:       adopt
-quadrant:   tools
+segment:    tools
 tags:       [coding, frontend]
 featured:   false
 ---

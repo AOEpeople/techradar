@@ -1,7 +1,7 @@
 ---
 title:      "Apache APISIX"
 ring:       assess
-quadrant:   tools
+segment:    tools
 tags:       [devops]
 ---
 

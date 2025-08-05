@@ -1,7 +1,7 @@
 ---
 title:      "Jest"
 ring:       adopt
-quadrant:   tools
+segment:    tools
 tags:       [frontend, quality assurance]
 featured:   false
 ---

@@ -1,8 +1,8 @@
 ---
 title:      "backstage"
 ring:       assess
-quadrant:   tools
-tags: [documentation, agile]
+segment:    tools
+tags:       [agile, documentation]
 ---
 
 We see a lot of clustering in teams, microservices, libraries, and so on. We think a centralized software catalog

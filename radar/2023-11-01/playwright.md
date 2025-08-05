@@ -1,7 +1,7 @@
 ---
 title:      "Playwright"
 ring:       adopt
-quadrant:   tools
+segment:    tools
 tags:       [coding, frontend, quality assurance]
 ---
 

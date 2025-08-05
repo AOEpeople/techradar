@@ -1,8 +1,8 @@
 ---
-title: "TypeScript"
-ring: adopt
-quadrant: languages-and-frameworks
-tags: [coding, frontend]
+title:      "TypeScript"
+ring:       adopt
+segment:    languages-and-frameworks
+tags:       [coding, frontend]
 ---
 
 As writing frontend applications becomes more complex, [TypeScript](https://www.typescriptlang.org/) allows us to scale client side code easily, even with large code bases.

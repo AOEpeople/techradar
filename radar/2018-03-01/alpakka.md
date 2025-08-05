@@ -1,7 +1,7 @@
 ---
 title:      "Alpakka"
 ring:       assess
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 ---
 
 When using [Akka Streams](/languages-and-frameworks/akka-streams/) to build reactive data transformation services you usually need to connect to several services such as FTP, S3 buckets, AMQP brokers or different databases.

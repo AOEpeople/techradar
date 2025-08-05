@@ -1,7 +1,7 @@
 ---
 title:      "Sass"
 ring:       adopt
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 ---
 
 Sass (Syntactically Awesome Style-Sheets) is an extension to native CSS, which, as a preprocessor, simplifies the generation of CSS by offering features that enable developers to more efficiently write robust, better readable and maintainable CSS.

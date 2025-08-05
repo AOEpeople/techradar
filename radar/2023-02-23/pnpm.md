@@ -1,7 +1,7 @@
 ---
 title:      "pnpm"
 ring:       assess
-quadrant:   tools
+segment:    tools
 tags:       [coding, frontend]
 ---
 

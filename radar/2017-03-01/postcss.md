@@ -1,7 +1,7 @@
 ---
 title:      "PostCSS"
 ring:       adopt
-quadrant:   tools
+segment:    tools
 ---
 
 PostCSS is a tool for transforming stylesheets with JavaScript plugins. It comes with a parser that reads your CSS file into an AST, pipes it through the loaded plugins and finally stringifies it back into a (transformed) CSS output file.

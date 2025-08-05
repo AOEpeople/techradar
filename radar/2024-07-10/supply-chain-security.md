@@ -1,7 +1,7 @@
 ---
 title:      "Supply Chain Security"
 ring:       adopt
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 tags:       [devops, security]
 ---
 

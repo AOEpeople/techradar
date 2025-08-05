@@ -1,7 +1,7 @@
 ---
 title:      "Fitness Functions"
 ring:       assess
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 tags:       [architecture, ci/cd, quality assurance]
 ---
 

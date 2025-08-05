@@ -1,7 +1,7 @@
 ---
 title:      "SpecFlow"
 ring:       assess
-quadrant:   "languages-and-frameworks"
+segment:    languages-and-frameworks
 tags:       [coding, quality assurance]
 ---
 

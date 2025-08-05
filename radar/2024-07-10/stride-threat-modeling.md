@@ -1,7 +1,7 @@
 ---
 title:      "STRIDE Threat Modeling"
 ring:       trial
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 tags:       [security]
 featured:   false
 ---

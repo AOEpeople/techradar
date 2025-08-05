@@ -1,7 +1,7 @@
 ---
 title:      "Accessibility"
 ring:       adopt
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 tags:       [accessibility]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title:      "Sitespeed.io"
 ring:       assess
-quadrant:   tools
+segment:    tools
 ---
 
 Web Performance Monitoring is the process of measuring a Web service’s ability to respond efficiently to user interactions.

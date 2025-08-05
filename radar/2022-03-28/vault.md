@@ -1,8 +1,8 @@
 ---
 title:      "Vault"
 ring:       adopt
-quadrant:   platforms-and-aoe-services
-tags: [devops, security]
+segment:    platforms-and-aoe-services
+tags:       [devops, security]
 ---
 
 Secure handling of access tokens is key to provide secure applications and environments.

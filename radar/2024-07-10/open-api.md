@@ -1,7 +1,7 @@
 ---
 title:      "Open API"
 ring:       adopt
-quadrant:   tools
+segment:    tools
 tags:       [architecture]
 ---
 

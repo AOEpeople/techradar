@@ -1,7 +1,7 @@
 ---
 title:      "Artifactory"
 ring:       trial
-quadrant:   platforms-and-aoe-services
+segment:    platforms-and-aoe-services
 ---
 
 JFrog [Artifactory](https://www.jfrog.com/open-source/)is a software tool, which, in the end, manages and stores (binary) artifacts.
@@ -10,7 +10,7 @@ A fine grained security system enables easy management of which artifacts are av
 The artifacts are exposed via an HTTP(S)-Url Artifactory, which can generate package-manager compatible manifests for the repositories.
 AOE utilizes Artifactory to serve Maven, Apt, npm, Composer and Docker Repositories.
 
-In addition to storing own assets, Artifactory is able to proxy remote Repository for and cache resolved artifacts locally. 
+In addition to storing own assets, Artifactory is able to proxy remote Repository for and cache resolved artifacts locally.
 This results in an increased build performance and decouples builds from external service dependencies and ensures builds still work even if they utilize outdated dependencies that might not be publicly available anymore.
 
 Artifactory provides a powerful REST-API for managing Artifacts including a powerful search AQL.

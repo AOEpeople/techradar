@@ -1,7 +1,7 @@
 ---
 title:      "Gatling"
 ring:       adopt
-quadrant:   tools
+segment:    tools
 ---
 
 Gatling is now the de-facto tool of choice for load testing in all of our projects, having superseded JMeter completely.

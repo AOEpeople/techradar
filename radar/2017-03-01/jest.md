@@ -1,8 +1,8 @@
 ---
 title:      "Jest "
 ring:       assess
-quadrant:   tools
-tags: [frontend, quality assurance]
+segment:    tools
+tags:       [frontend, quality assurance]
 ---
 
 [Jest](https://facebook.github.io/jest/) is a JavaScript testing framework by facebook to test JavaScript code **and** React applications / components.

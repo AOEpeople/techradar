@@ -1,7 +1,7 @@
 ---
 title:      "GitLab CI"
 ring:       assess
-quadrant:   tools
+segment:    tools
 ---
 
 Until now, we have been using [Jenkins](https://jenkins.io/) for almost every single task that we have automated. With [GitLab CI](https://about.gitlab.com/features/gitlab-ci-cd/) on the market, we have a number of new possibilities.
@@ -13,4 +13,4 @@ Some highlights are:
 * Pipeline – you can define multiple jobs per stage and you can trigger other builds.
 * Autoscaling – you can automatically spin up and down VM's to make sure your builds get processed immediately and minimize costs.
 * Build artifacts – you can upload binaries and other build artifacts to GitLab and browse and download them.
-* Docker support – you can use custom Docker images, spin up services as part of testing, build new Docker images, even run on Kubernetes. 
+* Docker support – you can use custom Docker images, spin up services as part of testing, build new Docker images, even run on Kubernetes.

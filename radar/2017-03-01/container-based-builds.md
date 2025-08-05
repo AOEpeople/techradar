@@ -1,7 +1,7 @@
 ---
 title:      "Container-based builds"
 ring:       assess
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 ---
 
 Running your builds in isolated containers keeps your build servers clean.

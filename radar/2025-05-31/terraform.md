@@ -1,7 +1,7 @@
 ---
 title:      "Terraform"
 ring:       hold
-quadrant:   tools
+segment:    tools
 tags:       [academy training, devops]
 featured:   false
 ---

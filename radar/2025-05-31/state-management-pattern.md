@@ -1,7 +1,7 @@
 ---
 title:      "State Management Pattern"
 ring:       adopt
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 tags:       [architecture, coding, frontend]
 ---
 

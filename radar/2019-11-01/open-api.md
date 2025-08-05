@@ -1,8 +1,8 @@
 ---
 title:      "Open API"
 ring:       adopt
-quadrant:   tools
-tags: [architecture]
+segment:    tools
+tags:       [architecture]
 ---
 
 The OpenAPI Specification is becoming a broadly adopted industry standard for describing modern REST APIs.
@@ -11,8 +11,7 @@ Other initiatives like RAML have [joined](https://blogs.mulesoft.com/dev/api-dev
 OpenAPI v2 version is basically the former Swagger - and Swagger provides useful tools for OpenAPI like the online editor and viewer http://editor.swagger.io/
 We have also found that this version currently have a good tool support across languages, so you will find API client and server generation tools for a lot of languages, which makes it quite easy to connect to an API that is described in OpenAPI standard.
 
-
-**OpenAPI v3**
+### OpenAPI v3
 
 OpenAPI v3 adds more features to the specification - for example the ability to describe APIs supporting request/callback pattern.
 

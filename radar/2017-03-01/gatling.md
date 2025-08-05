@@ -1,7 +1,7 @@
 ---
 title:      "Gatling"
 ring:       trial
-quadrant:   tools
+segment:    tools
 ---
 
 [Gatling](http://gatling.io/) is a highly capable load testing tool. It is designed for ease of use, maintainability and high performance.

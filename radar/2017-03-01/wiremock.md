@@ -1,7 +1,7 @@
 ---
 title:      "WireMock"
 ring:       trial
-quadrant:   tools
+segment:    tools
 ---
 
 **[WireMock](http://wiremock.org/docs/)** is an HTTP mock server - it can be used to mock APIs for testing.

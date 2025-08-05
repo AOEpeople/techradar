@@ -1,6 +1,6 @@
 ---
 title:      "Ant"
 ring:       hold
-quadrant:   tools
+segment:    tools
 featured:   false
 ---

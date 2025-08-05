@@ -1,7 +1,7 @@
 ---
 title:      "Axure"
 ring:       trial
-quadrant:   tools
+segment:    tools
 tags:       [ux/ui]
 featured:   false
 ---

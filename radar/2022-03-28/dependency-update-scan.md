@@ -1,7 +1,7 @@
 ---
 title:      "Dependency Update Scan"
 ring:       adopt
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 ---
 
 Tools for automated dependency updates continue to offer a big productivity gain when integrated well into the build workflow.

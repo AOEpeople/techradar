@@ -1,7 +1,7 @@
 ---
 title:      "Flow"
 ring:       hold
-quadrant:   tools
+segment:    tools
 featured:   false
 ---
 

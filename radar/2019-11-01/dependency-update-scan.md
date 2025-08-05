@@ -1,7 +1,7 @@
 ---
 title:      "Dependency Update Scan"
 ring:       assess
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 ---
 
 Automated dependency scans are useful to remove the manual task of regularly checking for version updates.

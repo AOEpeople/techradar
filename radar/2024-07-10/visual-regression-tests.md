@@ -1,7 +1,7 @@
 ---
 title:      "Visual Regression Tests for Frontend Developers"
 ring:       adopt
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 tags:       [coding, frontend, quality assurance]
 ---
 

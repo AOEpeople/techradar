@@ -1,8 +1,8 @@
 ---
 title:      "Design System"
 ring:       trial
-quadrant:   "methods-and-patterns"
-tags:       [ux/ui, frontend, coding, architecture, documentation]
+segment:    methods-and-patterns
+tags:       [architecture, coding, documentation, frontend, ux/ui]
 ---
 
 A Design System is a collection of reusable design components, guidelines and standards that serve as the foundation for

@@ -1,7 +1,7 @@
 ---
 title:      "XMLUnit"
 ring:       assess
-quadrant:   tools
+segment:    tools
 ---
 
 [XMLUnit](http://www.xmlunit.org/) is a Java and .NET testing framework for XML documents. It is very useful for performing contract tests with SOAP interfaces or other XML-based message types.

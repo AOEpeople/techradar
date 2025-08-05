@@ -1,7 +1,7 @@
 ---
 title:      "GitLab"
 ring:       trial
-quadrant:   tools
+segment:    tools
 ---
 
 [GitLab](https://about.gitlab.com/) provides nearly the same feature set as [GitHub](https://github.com/), but at a lower price. It also provides the possibility of hosting internally, which is essential for us.

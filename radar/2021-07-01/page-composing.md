@@ -1,8 +1,8 @@
 ---
 title:      "Page Composing"
 ring:       trial
-quadrant:   methods-and-patterns
-tags: [architecture]
+segment:    methods-and-patterns
+tags:       [architecture]
 ---
 
 Page composing is a way to aggregate multiple independent page fragments into one combined web page.

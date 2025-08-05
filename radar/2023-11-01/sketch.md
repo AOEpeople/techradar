@@ -1,7 +1,7 @@
 ---
 title:      "Sketch"
 ring:       adopt
-quadrant:   tools
+segment:    tools
 tags:       [ux/ui]
 featured:   false
 ---

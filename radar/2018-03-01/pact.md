@@ -1,7 +1,7 @@
 ---
 title:      "PACT"
 ring:       trial
-quadrant:   tools
+segment:    tools
 ---
 
 PACT (http://pact.io/) is a family of frameworks that provides support for *Consumer Driven Contract testing* across different languages and frameworks.

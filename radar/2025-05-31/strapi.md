@@ -1,7 +1,7 @@
 ---
 title:      "Strapi"
 ring:       adopt
-quadrant:   tools
+segment:    tools
 tags:       [frontend]
 featured:   false
 ---

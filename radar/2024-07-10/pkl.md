@@ -1,7 +1,7 @@
 ---
 title:      "PKL"
 ring:       assess
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 tags:       [ci/cd, devops]
 ---
 

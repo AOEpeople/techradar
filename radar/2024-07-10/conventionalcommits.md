@@ -1,7 +1,7 @@
 ---
 title:      "Conventional Commits"
 ring:       adopt
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 tags:       [coding]
 featured:   false
 ---

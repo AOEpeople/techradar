@@ -1,7 +1,7 @@
 ---
 title:      "Neo4j"
 ring:       assess
-quadrant:   platforms-and-aoe-services
+segment:    platforms-and-aoe-services
 ---
 
 Neo4j is one of the oldest Open Source Graph Databases. It's one of the rare NoSQL databases that is fully ACID-compliant. We see two main advantages of graph databases:

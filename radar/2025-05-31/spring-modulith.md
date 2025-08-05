@@ -1,6 +1,6 @@
 ---
 title:      "Spring Modulith"
-quadrant:   tools
+segment:    tools
 ring:       trial
 tags:       [architecture, coding]
 ---

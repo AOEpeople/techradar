@@ -1,8 +1,8 @@
 ---
 title:      "WireMock"
 ring:       adopt
-quadrant:   tools
-featured: false
+segment:    tools
+featured:   false
 ---
 
 Updated to "adopt".

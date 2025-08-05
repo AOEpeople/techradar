@@ -1,8 +1,8 @@
 ---
 title:      "React Server Components"
 ring:       assess
-quadrant:   methods-and-patterns
-tags:       [frontend, coding]
+segment:    methods-and-patterns
+tags:       [coding, frontend]
 ---
 
 Shortly after releasing React 17 in October 2020, the team introduced React Server Components (RSC) as a working draft in December 2020. RSCs represent a new application architecture paradigm within React designed to reduce the amount of JavaScript sent to the client. The ultimate goal is to enhance performance, user experience, and maintainability.

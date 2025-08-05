@@ -1,7 +1,7 @@
 ---
 title:      "Mob Programming"
 ring:       assess
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 tags:       [agile, coding]
 ---
 

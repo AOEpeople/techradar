@@ -1,7 +1,7 @@
 ---
 title:      "Graal Native Image"
 ring:       trial
-quadrant:   tools
+segment:    tools
 tags:       [coding]
 featured:   false
 ---

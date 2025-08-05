@@ -1,6 +1,6 @@
 ---
 title:      "Job DSL (Jenkins)"
 ring:       trial
-quadrant:   tools
+segment:    tools
 featured:   false
 ---

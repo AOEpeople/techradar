@@ -1,6 +1,6 @@
 ---
-title: "Drupal"
-ring: trial
-quadrant: tools
-featured: false
+title:      "Drupal"
+ring:       trial
+segment:    tools
+featured:   false
 ---

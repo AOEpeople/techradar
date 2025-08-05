@@ -1,8 +1,8 @@
 ---
-title: "PACT"
-ring: trial
-quadrant: tools
-featured: false
+title:      "PACT"
+ring:       trial
+segment:    tools
+featured:   false
 ---
 
 At AOE we continue to use PACT but would like to use it even more.

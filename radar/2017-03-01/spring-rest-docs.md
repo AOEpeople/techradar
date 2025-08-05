@@ -1,7 +1,7 @@
 ---
 title:      "Spring REST Docs"
 ring:       assess
-quadrant:   tools
+segment:    tools
 ---
 
 [Spring REST Docs](https://projects.spring.io/spring-restdocs/) auto generates [Asciidoctor](http://asciidoctor.org/) snippets with the help of [Spring MVC Test](http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle#spring-mvc-test-framework) or [RestAssured](/tools/rest-assured/).

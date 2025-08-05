@@ -1,7 +1,7 @@
 ---
 title:      "Bower"
 ring:       hold
-quadrant:   tools
+segment:    tools
 ---
 
 [Bower](https://bower.io/) is a package manager for frontend resources such as JavaScript libraries and CSS frameworks. Compared to [npm](https://www.npmjs.com/), it has a somewhat different approach to loading and resolving the packages, resulting in a smaller and cleaner folder structure.

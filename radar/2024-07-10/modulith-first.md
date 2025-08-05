@@ -1,6 +1,6 @@
 ---
 title:      "Modulith First"
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 ring:       trial
 tags:       [architecture]
 ---

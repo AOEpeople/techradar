@@ -1,7 +1,7 @@
 ---
 title:      "Turborepo"
 ring:       trial
-quadrant:   tools
+segment:    tools
 tags:       [frontend]
 featured:   false
 ---

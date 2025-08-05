@@ -1,7 +1,7 @@
 ---
 title:      "Tailwind CSS"
 ring:       trial
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 ---
 
 Tailwind CSS is a framework that heavily utilizes CSS classes.

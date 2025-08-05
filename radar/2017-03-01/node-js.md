@@ -1,10 +1,10 @@
 ---
 title:      "node.js"
 ring:       trial
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 ---
 
-Node.js is a no- browser JavaScript execution runtime. Its basis is Google's V8 engine. [Node](https://nodejs.org/en/) is event-driven and follows a non-blocking I/O model.
+Node.js is a no-browser JavaScript execution runtime. Its basis is Google's V8 engine. [Node](https://nodejs.org/en/) is event-driven and follows a non-blocking I/O model.
 
 It’s a good choice for restful APIs, realtime purposes or situations where many concurrent connections are expected, where each connection has a lightweight memory footprint.
 
