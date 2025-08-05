@@ -33,4 +33,5 @@ Currently, Payload officially supports the following Database Adapters:
 
 To handle file upload you can connect payload for example to your AWS S3 via its payload adapter plugin.
 
-[Documentation](https://payloadcms.com/docs/getting-started/what-is-payload)
+### Further Reading
+- [Payload CMS Documentation](https://payloadcms.com/docs/getting-started/what-is-payload)
