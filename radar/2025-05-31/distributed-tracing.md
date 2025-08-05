@@ -9,9 +9,9 @@ Distributed Tracing creates visibility over processes spanning multiple applicat
 In a microservice world where a request or operation involves multiple applications it is helpful to have an overview of what system is involved, at what point.
 
 Also, visibility of communicated data and errors helps to quickly identify issues in a microservice environment.
-Platforms like  [Jaeger](/platforms-and-aoe-services/jaeger/)  are suitable to monitor and analyse the collected informations. Also [Prometheus](/platforms-and-aoe-services/prometheus/) supports ingesting data via the OpenTelemetry Protocol (OTLP).
+Platforms like [Jaeger](/platforms-and-aoe-services/jaeger/) are suitable to monitor and analyze the collected information. Also [Prometheus](/platforms-and-aoe-services/prometheus/) supports ingesting data via the OpenTelemetry Protocol (OTLP).
 
-## OpenTelemetry for Distributed Tracing
+### OpenTelemetry for Distributed Tracing
 
 [OpenTelemetry](https://opentelemetry.io/) (OTel) is an open-source observability framework that provides standardized APIs, SDKs, and tools to collect traces, metrics, and logs from distributed systems. It is vendor-neutral and widely supported by observability platforms like Prometheus, Grafana, Jaeger, Datadog, and more.
 
@@ -23,6 +23,6 @@ Platforms like  [Jaeger](/platforms-and-aoe-services/jaeger/)  are suitable to m
 
 We recommend to use OpenTelemetry as your default telemetry layer to future-proof your observability stack and reduce integration overhead.
 
-#### Further Reading
+### Further Reading
 - [OpenTelemetry Documentation](https://opentelemetry.io/docs/)
 - [OpenTelemetry Protocol (OTLP) Specification](https://opentelemetry.io/docs/specs/otlp/)

@@ -5,7 +5,7 @@ quadrant:   methods-and-patterns
 tags:       [ai, architecture]
 ---
 
-## From Prototypes to Production: Modular RAG & Agent Development
+### From Prototypes to Production: Modular RAG & Agent Development
 
 Advanced AI systems go far beyond prompt hacks and quick demos.
 **Modular Retrieval-Augmented Generation (RAG)** and **Agent-based architectures** are key patterns for building reliable, extensible, and context-aware AI applications.
@@ -17,7 +17,7 @@ Professional RAG and agent development means addressing:
 - Tool orchestration and memory
 - Testing, safety, and observability
 
-## The AOE AI Radar
+### The AOE AI Radar
 
 Moving from a working prototype to a production-grade AI system requires architectural thinking and reusable design. Tooling, context strategies, and evaluation must become part of your delivery pipeline.
 
