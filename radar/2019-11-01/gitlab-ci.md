@@ -1,7 +1,7 @@
 ---
 title:      "GitLab CI"
 ring:       adopt
-quadrant:   tools
+segment:    tools
 ---
 
 Moved to "adopt".

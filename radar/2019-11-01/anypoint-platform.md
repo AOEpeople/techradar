@@ -1,7 +1,7 @@
 ---
 title:      "Anypoint Platform"
 ring:       trial
-quadrant:   tools
+segment:    tools
 featured:   false
 ---
 

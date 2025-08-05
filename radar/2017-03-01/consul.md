@@ -1,7 +1,7 @@
 ---
 title:      "Consul"
 ring:       assess
-quadrant:   tools
+segment:    tools
 ---
 
 Consul is a lightweight service to provide a service discovery registry with failure detection (health checks) for circuit breakers. It also provides configuration management with key/value storage.\

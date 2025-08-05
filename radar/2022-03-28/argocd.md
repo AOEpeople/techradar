@@ -1,7 +1,7 @@
 ---
 title:      "Argo CD"
 ring:       trial
-quadrant:   tools
+segment:    tools
 tags:       [ci/cd]
 ---
 

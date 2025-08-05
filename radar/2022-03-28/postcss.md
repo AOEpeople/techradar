@@ -1,6 +1,6 @@
 ---
 title:      "PostCSS"
 ring:       adopt
-quadrant:   tools
+segment:    tools
 featured:   false
 ---

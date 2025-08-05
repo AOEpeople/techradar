@@ -1,7 +1,7 @@
 ---
 title:      "Team Start Page"
 ring:       adopt
-quadrant:   methods-and-patterns
-tags:       [quality assurance, documentation]
+segment:    methods-and-patterns
+tags:       [documentation, quality assurance]
 featured:   false
 ---

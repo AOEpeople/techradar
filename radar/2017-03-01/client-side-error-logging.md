@@ -1,8 +1,8 @@
 ---
 title:      "Client-Side Error Logging"
 ring:       trial
-quadrant:   methods-and-patterns
-tags: [architecture, frontend]
+segment:    methods-and-patterns
+tags:       [architecture, frontend]
 ---
 
 More and more business logic is done client-side with various web and app technologies.

@@ -1,7 +1,7 @@
 ---
 title:      "Storybook"
 ring:       assess
-quadrant:   tools
+segment:    tools
 ---
 
 [Storybook](https://storybook.js.org/) is a user interface development environment and playground for UI components.

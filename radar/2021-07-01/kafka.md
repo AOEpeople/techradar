@@ -1,6 +1,6 @@
 ---
 title:      "Kafka"
-quadrant:   tools
+segment:    tools
 ring:       trial
 featured:   false
 ---

@@ -1,7 +1,7 @@
 ---
 title:      "npm"
 ring:       adopt
-quadrant:   tools
+segment:    tools
 ---
 
 [npm](https://www.npmjs.com/) is one of, if not the most, popular package manager for JavaScript. Because of the big community, you can find nearly every dependency in npm.

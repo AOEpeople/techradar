@@ -1,7 +1,7 @@
 ---
 title:      "NX"
 ring:       assess
-quadrant:   tools
+segment:    tools
 ---
 
 [Nx](https://nx.dev/) is a suite of powerful, extensible dev tools to help you architect, test, and build at any scale.

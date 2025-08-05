@@ -1,7 +1,7 @@
 ---
 title:      "InVision"
 ring:       trial
-quadrant:   tools
+segment:    tools
 tags:       [ux/ui]
 ---
 

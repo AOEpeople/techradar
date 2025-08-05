@@ -1,7 +1,7 @@
 ---
 title:      "Spring REST Docs"
 ring:       hold
-quadrant:   tools
+segment:    tools
 tags:       [documentation]
 featured:   false
 ---

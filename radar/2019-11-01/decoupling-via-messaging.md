@@ -1,7 +1,7 @@
 ---
 title:      "Decoupling via Messaging"
 ring:       adopt
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 tags:       [architecture, devops]
 ---
 

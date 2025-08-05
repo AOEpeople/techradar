@@ -1,7 +1,7 @@
 ---
 title:      "Spock + Geb"
 ring:       hold
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 tags:       [coding, quality assurance]
 ---
 
@@ -14,5 +14,3 @@ community and regular updates and extension libraries of JUnit 5 cover everythin
 [gebish.org](http://www.gebish.org) - Geb is a browser automation solution.
 
 UI testing with Geb is replaced by Cypress or Playwright.
-
-<!--except-->

@@ -1,8 +1,8 @@
 ---
 title:      "Conventional Commits"
 ring:       trial
-quadrant:   methods-and-patterns
-tags: [coding, quality assurance, ci/cd]
+segment:    methods-and-patterns
+tags:       [ci/cd, coding, quality assurance]
 ---
 
 The Conventional Commits specification is a lightweight convention on top of commit messages.

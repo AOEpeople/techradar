@@ -1,7 +1,7 @@
 ---
 title:      "NATS"
 ring:       assess
-quadrant:   tools
+segment:    tools
 tags:       [architecture, devops]
 ---
 

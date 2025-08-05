@@ -1,7 +1,7 @@
 ---
 title:      "Anypoint platform"
 ring:       trial
-quadrant:   tools
+segment:    tools
 ---
 
 [Anypoint platform](https://www.mulesoft.com/integration-resources) (formerly known as Mule or Mule ESB) is an Enterprise Integration Platform written in Java.

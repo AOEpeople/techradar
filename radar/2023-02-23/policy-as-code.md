@@ -1,8 +1,8 @@
 ---
 title:      "Policy as Code"
 ring:       trial
-quadrant:   methods-and-patterns
-tags:       [devops, ci/cd]
+segment:    methods-and-patterns
+tags:       [ci/cd, devops]
 ---
 
 With the rise of cloud infrastructure and DevOps practices, traditional methods of policy enforcement such as manual

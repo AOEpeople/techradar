@@ -1,7 +1,7 @@
 ---
 title:      "Micro Frontends"
 ring:       trial
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 ---
 
 When deciding on a system architecture we are always striving for technology neutralism.

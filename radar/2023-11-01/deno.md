@@ -1,7 +1,7 @@
 ---
 title:      "Deno"
 ring:       assess
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 tags:       [coding]
 ---
 

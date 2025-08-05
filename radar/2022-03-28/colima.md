@@ -1,9 +1,9 @@
 ---
 title:      "Colima"
 ring:       assess
-quadrant:   tools
+segment:    tools
 featured:   false
---- 
+---
 
 [Colima](https://github.com/abiosoft/colima) provides container runtimes on macOS with minimal setup.
 

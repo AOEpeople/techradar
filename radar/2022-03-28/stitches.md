@@ -1,7 +1,7 @@
 ---
 title:      "Stitches"
 ring:       trial
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 tags:       [coding, frontend]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title:      "Flux"
 ring:       hold
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 tags:       [frontend]
 featured:   false
 ---

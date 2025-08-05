@@ -1,7 +1,7 @@
 ---
 title:      "Datadog"
 ring:       assess
-quadrant:   platforms-and-aoe-services
+segment:    platforms-and-aoe-services
 ---
 
 After realizing that AWS CloudWatch isn't flexible enough, and running our own metrics aggregation, monitoring and altering isn't something we want to do ourselves, we decided to give Datadog a try.

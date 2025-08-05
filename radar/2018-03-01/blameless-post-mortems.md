@@ -1,7 +1,7 @@
 ---
 title:      "Blameless Post Mortems"
 ring:       trial
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 ---
 
 > Failure and invention are inseparable twins.

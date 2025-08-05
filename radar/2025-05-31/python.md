@@ -1,7 +1,7 @@
 ---
 title:      "Python"
 ring:       adopt
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 tags:       [ai, coding, devops]
 featured:   false
 ---

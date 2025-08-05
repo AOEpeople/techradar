@@ -1,7 +1,7 @@
 ---
 title:      "12 / 15 factor apps"
 ring:       adopt
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 tags:       [architecture]
 ---
 

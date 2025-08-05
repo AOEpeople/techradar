@@ -1,6 +1,6 @@
 ---
 title:      "AsciiDoc"
 ring:       assess
-quadrant:   tools
+segment:    tools
 featured:   false
 ---

@@ -1,8 +1,8 @@
 ---
 title:      "ADR"
 ring:       assess
-quadrant:   methods-and-patterns
-tags: [architecture, documentation]
+segment:    methods-and-patterns
+tags:       [architecture, documentation]
 ---
 
 Architecture Decision Records
@@ -22,6 +22,3 @@ The main purpose of this documentation is to:
 * inform new team members about the previous architecture decisions and their purpose and backgrounds
 * inform the whole team (including all people who were absent)
 * create documentation that can be used to remember things (e.g. conventions, patterns, etc.)
-
-
-

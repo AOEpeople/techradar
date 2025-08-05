@@ -1,7 +1,7 @@
 ---
 title:      "InVision"
 ring:       hold
-quadrant:   tools
+segment:    tools
 tags:       [ux/ui]
 featured:   false
 ---

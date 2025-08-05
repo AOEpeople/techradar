@@ -1,7 +1,7 @@
 ---
 title:      "RxJs"
 ring:       adopt
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 
 ---
 RX/JS aka reactive streams

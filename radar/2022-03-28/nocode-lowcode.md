@@ -1,7 +1,7 @@
 ---
 title:      "No-Code / Low-Code"
 ring:       assess
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 tags:       [coding]
 ---
 

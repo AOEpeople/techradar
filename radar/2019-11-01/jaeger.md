@@ -1,7 +1,7 @@
 ---
 title:      "Jaeger"
 ring:       trial
-quadrant:   platforms-and-aoe-services
+segment:    platforms-and-aoe-services
 ---
 
 [Jaeger](https://www.jaegertracing.io/) is a tool for [Distributed Tracing](/platforms-and-aoe-services/distributed-tracing/).

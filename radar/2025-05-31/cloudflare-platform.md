@@ -1,6 +1,6 @@
 ---
 title:      "Cloudflare Platform"
-quadrant:   platforms-and-aoe-services
+segment:    platforms-and-aoe-services
 ring:       assess
 tags:       [devops, frontend]
 ---

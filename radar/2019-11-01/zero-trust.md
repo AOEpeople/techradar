@@ -1,7 +1,7 @@
 ---
 title:      "Zero Trust"
 ring:       trial
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 ---
 
 Zero Trust is a security model where no trust is assumed within a known network.

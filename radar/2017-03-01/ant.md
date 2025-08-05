@@ -1,7 +1,7 @@
 ---
 title:      "Ant"
 ring:       hold
-quadrant:   tools
+segment:    tools
 ---
 
 Apache Ant was build in 1997 to have something like Make in the C/C++ world for Java.

@@ -1,8 +1,8 @@
 ---
 title:      "Self-Service Infrastructure"
 ring:       trial
-quadrant:   platforms-and-aoe-services
-tags: [devops, agile]
+segment:    platforms-and-aoe-services
+tags:       [agile, devops]
 ---
 
 Moved to "trial".

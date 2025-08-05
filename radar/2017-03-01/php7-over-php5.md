@@ -1,7 +1,7 @@
 ---
 title:      "PHP7 over PHP5"
 ring:       adopt
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 ---
 
 PHP 5 has been around for a very long time, and can be considered as the PHP version that defined where PHP wants to go in the future.

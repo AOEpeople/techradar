@@ -1,7 +1,7 @@
 ---
 title:      "Fluentd"
 ring:       assess
-quadrant:   tools
+segment:    tools
 tags:       [devops]
 ---
 

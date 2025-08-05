@@ -1,7 +1,7 @@
 ---
 title:      "Renovate"
 ring:       trial
-quadrant:   tools
+segment:    tools
 ---
 
 [Renovate](https://github.com/renovatebot/renovate/) is an automated dependency update tool.

@@ -1,7 +1,7 @@
 ---
 title:      "GitFlow"
 ring:       hold
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 tags:       [agile, coding, devops]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title:      "Grunt"
 ring:       hold
-quadrant:   tools
+segment:    tools
 featured:   false
 ---

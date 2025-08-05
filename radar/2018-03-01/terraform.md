@@ -1,7 +1,7 @@
 ---
 title:      "Terraform"
 ring:       trial
-quadrant:   tools
+segment:    tools
 tags:       [academy training, devops]
 ---
 

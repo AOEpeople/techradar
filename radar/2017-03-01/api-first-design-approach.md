@@ -1,7 +1,7 @@
 ---
 title:      "API-First Design Approach"
 ring:       trial
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 ---
 
 The API-First Design Approach puts the API design at the beginning of the implementation without any constraints, for example, from the current IT infrastructure or the implementation itself.

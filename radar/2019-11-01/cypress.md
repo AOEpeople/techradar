@@ -1,7 +1,7 @@
 ---
 title:      "Cypress"
 ring:       assess
-quadrant:   tools
+segment:    tools
 tags:       [academy training, frontend, quality assurance]
 ---
 

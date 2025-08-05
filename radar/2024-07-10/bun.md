@@ -1,7 +1,7 @@
 ---
 title:      "Bun"
 ring:       assess
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 tags:       [coding, frontend]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title:      "Oro Platform"
 ring:       assess
-quadrant:   tools
+segment:    tools
 featured:   false
 ---

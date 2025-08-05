@@ -1,8 +1,8 @@
 ---
 title:      "Ports and Adapters"
 ring:       adopt
-quadrant:   methods-and-patterns
-tags: [architecture]
+segment:    methods-and-patterns
+tags:       [architecture]
 ---
 
 Updated to "adopt"

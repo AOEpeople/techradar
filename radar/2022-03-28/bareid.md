@@ -1,8 +1,8 @@
 ---
 title:      "Bare.ID"
 ring:       adopt
-quadrant:   platforms-and-aoe-services
-tags: [devops, security]
+segment:    platforms-and-aoe-services
+tags:       [devops, security]
 ---
 
 [Bare.ID](https://bare.id) is our solution to the problem of operating and maintaining a [Keycloak](https://keycloak.org) cluster: a SaaS offering for a managed Keycloak cluster.

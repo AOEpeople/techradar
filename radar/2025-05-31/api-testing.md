@@ -1,7 +1,7 @@
 ---
 title:      "API Testing"
 ring:       adopt
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 tags:       [ci/cd, documentation, quality assurance]
 ---
 

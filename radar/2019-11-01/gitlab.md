@@ -1,7 +1,7 @@
 ---
 title:      "GitLab"
 ring:       adopt
-quadrant:   tools
+segment:    tools
 ---
 
 Moved to "adopt": GitLab has proven to be a very useful tool for code and the collaboration around it.

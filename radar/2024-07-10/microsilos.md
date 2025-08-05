@@ -1,6 +1,6 @@
 ---
 title:      "Microsilos"
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 ring:       hold
 tags:       [agile, architecture]
 ---

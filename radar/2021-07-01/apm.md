@@ -1,8 +1,8 @@
 ---
 title:      "Application Performance Management"
 ring:       adopt
-quadrant:   methods-and-patterns
-tags: [devops]
+segment:    methods-and-patterns
+tags:       [devops]
 ---
 
 Application performance management (APM) enables to predict and prevent performance issues before they impact your users or your business.

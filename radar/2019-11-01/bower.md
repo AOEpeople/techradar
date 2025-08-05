@@ -1,6 +1,6 @@
 ---
 title:      "Bower"
 ring:       hold
-quadrant:   tools
+segment:    tools
 featured:   false
 ---

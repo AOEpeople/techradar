@@ -1,7 +1,7 @@
 ---
 title:      "Adobe Creative Cloud"
 ring:       adopt
-quadrant:   tools
+segment:    tools
 tags:       [ux/ui]
 ---
 

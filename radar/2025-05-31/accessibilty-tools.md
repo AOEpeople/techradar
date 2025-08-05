@@ -1,7 +1,7 @@
 ---
 title:      "Accessibility Tools"
 ring:       adopt
-quadrant:   tools
+segment:    tools
 tags:       [accessibility, frontend, quality assurance]
 ---
 

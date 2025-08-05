@@ -1,7 +1,7 @@
 ---
 title:      "CRC Games"
 ring:       assess
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 ---
 
 Class Responsibility Collaboration Card Games are a method to discuss and align the software design - especially useful for object-oriented software.
@@ -30,4 +30,3 @@ This is how we often conduct a CRC Session:
     * We are often not too enthusiastic about adding a list of "collaborators" to the cards, since the sequence explains this very well.
     * So just take a picture and document the result somewhere, so that you can review the status for the next CRC session.
     * Maybe some decisions are worth being documented in your [Architecture decision records](/methods-and-patterns/adr/)
-  

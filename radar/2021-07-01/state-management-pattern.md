@@ -1,8 +1,8 @@
 ---
 title:      "State Management Pattern"
 ring:       adopt
-quadrant:   methods-and-patterns
-tags: [architecture, coding]
+segment:    methods-and-patterns
+tags:       [architecture, coding]
 ---
 
 State Management is a design pattern with the goal of properly sharing state data across components and separating domain representation from state management.

@@ -1,8 +1,8 @@
 ---
 title:      "Frontend Package Manager"
 ring:       adopt
-quadrant:   methods-and-patterns
-tags:       [frontend,ci/cd]
+segment:    methods-and-patterns
+tags:       [ci/cd, frontend]
 ---
 
 Package managers keep track of dependencies used throughout your project and their respective versions. The second of which is usually achieved with a lock-file. A file which you include in the versioning of your project to ensure any developer who installs your project to use the same versions of the necessary dependencies as you are. Apart from these features, package managers also provide a way to install, update and remove dependencies from your project. How they achieve this can affect the developer experience and the performance of your project. Finally, at least in the frontend world, package managers often offer some quality of life features such as running scripts, managing environment variables, and more. The selection of a package manager for a frontend project is often a matter of preference, but there are some key differences between the most popular ones.

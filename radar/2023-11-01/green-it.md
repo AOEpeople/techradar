@@ -1,7 +1,7 @@
 ---
 title:      "Green IT"
 ring:       assess
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 tags:       [architecture, coding, devops]
 ---
 

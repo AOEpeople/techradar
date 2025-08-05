@@ -1,8 +1,8 @@
 ---
 title:      "Akka"
 ring:       trial
-quadrant:   languages-and-frameworks
-tags: [coding]
+segment:    languages-and-frameworks
+tags:       [coding]
 ---
 
 With the growing adoption of microservice-based architectures, the interest in frameworks and tools that make building systems that follow the reactive manifesto possible has increased.

@@ -1,7 +1,7 @@
 ---
 title:      "GRPC"
 ring:       assess
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 ---
 
 gRPC, "A high-performance, Open Source, universal RPC framework," is a framework to easily connect clients and servers in an RPC setup.

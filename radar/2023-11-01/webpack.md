@@ -1,8 +1,8 @@
 ---
 title:      "Webpack"
 ring:       adopt
-quadrant:   tools
-tags:       [frontend, coding]
+segment:    tools
+tags:       [coding, frontend]
 featured:   false
 ---
 

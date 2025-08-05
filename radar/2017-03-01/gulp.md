@@ -1,7 +1,7 @@
 ---
 title:      "Gulp"
 ring:       adopt
-quadrant:   tools
+segment:   tools
 ---
 
 Gulp is a JavaScript task runner much like Grunt. The tasks are written in JavaScript code.

@@ -1,8 +1,8 @@
 ---
 title:      "Helm"
 ring:       adopt
-quadrant:   platforms-and-aoe-services
-tags: [devops]
+segment:    platforms-and-aoe-services
+tags:       [devops]
 ---
 
 Helm has a fast growing community and is used in more and more projects.

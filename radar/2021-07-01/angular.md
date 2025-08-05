@@ -1,7 +1,7 @@
 ---
 title:      "Angular"
-ring:       adopt 
-quadrant:   languages-and-frameworks
+ring:       adopt
+segment:    languages-and-frameworks
 ---
 
 Actually in version 11 Angular has become an adult SPA framework with much faster build time and significant smaller production builds.

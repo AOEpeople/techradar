@@ -1,6 +1,6 @@
 ---
 title:      "Blameless Post Mortems"
 ring:       assess
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 featured:   false
 ---

@@ -1,7 +1,7 @@
 ---
 title:      "Flutter"
 ring:       trial
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 tags:       [coding, frontend, ux/ui]
 ---
 
@@ -29,4 +29,4 @@ than, React Native by building an identical Prototype application with both Fram
 
 In addition to the Framework itself, Flutter does a lot to improve the developer experience (DX) due to its hot reload
 and various debugging tools which are very handy and missing in other Frameworks like React Native. There are also a lot
-of plugins for WebStorm and Visual Studio Code which also improves the DX a lot. 
+of plugins for WebStorm and Visual Studio Code which also improves the DX a lot.

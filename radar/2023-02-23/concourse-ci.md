@@ -1,7 +1,7 @@
 ---
 title:      "Concourse"
 ring:       trial
-quadrant:   tools
+segment:    tools
 tags:       [ci/cd]
 featured:   false
 ---

@@ -1,7 +1,7 @@
 ---
 title:      "Settings Injection"
 ring:       adopt
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 ---
 
 While deploying applications to an environment, the application typically needs to be configured for that specific environment. Typical settings include domain names, database credentials and the location of other dependent services such as cache backends, queues or session storages.

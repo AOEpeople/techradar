@@ -1,7 +1,7 @@
 ---
 title:      "Scala 3"
 ring:       "trial"
-quadrant:   "languages-and-frameworks"
+segment:    "languages-and-frameworks"
 tags:       [coding]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title:      "Spock + Geb"
 ring:       hold
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 tags:       [coding, quality assurance]
 featured:   false
 ---

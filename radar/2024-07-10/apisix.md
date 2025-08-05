@@ -1,7 +1,7 @@
 ---
 title:      "Apache APISIX"
 ring:       trial
-quadrant:   tools
+segment:    tools
 tags:       [devops]
 ---
 

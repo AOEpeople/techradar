@@ -1,8 +1,8 @@
 ---
 title:      "Trivy"
 ring:       adopt
-quadrant:   tools
-tags:       [ci/cd,devops,security]
+segment:    tools
+tags:       [ci/cd, devops, security]
 ---
 
 [Trivy](https://trivy.dev/) is an open-source vulnerability scanner for containers and other targets. It utilizes

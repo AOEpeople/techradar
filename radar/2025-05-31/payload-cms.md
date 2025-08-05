@@ -1,7 +1,7 @@
 ---
 title:      "Payload CMS"
 ring:       assess
-quadrant:   tools
+segment:    tools
 tags:       [cms, headless]
 ---
 

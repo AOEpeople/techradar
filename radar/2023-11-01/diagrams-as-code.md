@@ -1,8 +1,8 @@
 ---
 title:      "Diagrams as Code"
 ring:       adopt
-quadrant:   methods-and-patterns
-tags:       [architecture, quality assurance, documentation]
+segment:    methods-and-patterns
+tags:       [architecture, documentation, quality assurance]
 ---
 
 Documenting concepts and software architecture as diagrams using code offers significant benefits over heavier solutions. Treating documentation and diagrams as code and checking them into version control increases transparency, collaboration, and productivity. The textual representation of diagrams is easy to write and read, and generating graphical representations as SVG or PNG images is also straightforward with the associated tools.

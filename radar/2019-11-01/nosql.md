@@ -1,7 +1,7 @@
 ---
 title:      "NoSQL"
 ring:       trial
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 featured: false
 ---
 

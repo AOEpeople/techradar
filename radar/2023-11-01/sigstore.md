@@ -1,7 +1,7 @@
 ---
 title:      "Sigstore"
 ring:       trial
-quadrant:   platforms-and-aoe-services
+segment:    platforms-and-aoe-services
 tags:       [devops, security]
 ---
 

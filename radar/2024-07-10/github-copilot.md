@@ -1,7 +1,7 @@
 ---
 title:      "GitHub Copilot"
 ring:       adopt
-quadrant:   tools
+segment:    tools
 tags:       [ai, architecture, coding]
 ---
 

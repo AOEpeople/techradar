@@ -1,7 +1,7 @@
 ---
 title:      "SonarQube"
 ring:       trial
-quadrant:   tools
+segment:    tools
 ---
 
 At AOE, we are using SonarQube to get a historical overview of the code quality in our Projects.

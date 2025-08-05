@@ -1,7 +1,7 @@
 ---
 title:      "Falco"
 ring:       assess
-quadrant:   tools
+segment:    tools
 tags:       [security]
 featured:   false
 ---

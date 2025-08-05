@@ -1,7 +1,7 @@
 ---
 title:      "Service Mesh"
 ring:       adopt
-quadrant:   platforms-and-aoe-services
+segment:    platforms-and-aoe-services
 tags:       [architecture, devops, security]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title:      "Spring Boot"
 ring:       assess
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 ---
 
 With Spring Boot you create standalone Spring Applications with minimum configuration. [Spring Boot](https://projects.spring.io/spring-boot/) rapidly gets you up and running for production.

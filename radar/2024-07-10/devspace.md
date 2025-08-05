@@ -1,6 +1,6 @@
 ---
 title:      "DevSpace"
-quadrant:   tools
+segment:    tools
 ring:       assess
 tags:       [coding, devops]
 ---

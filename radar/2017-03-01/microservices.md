@@ -1,7 +1,7 @@
 ---
 title:      "Microservices"
 ring:       trial
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 ---
 
 Microservices as an architecture style is getting very popular recently. At AOE, more and more teams are adding microservices to their existing application architecture or designing applications with microservices.

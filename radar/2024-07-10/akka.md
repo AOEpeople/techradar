@@ -1,7 +1,7 @@
 ---
 title:      "Akka"
 ring:       hold
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 tags:       [coding]
 featured:   false
 ---

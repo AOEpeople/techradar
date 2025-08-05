@@ -1,7 +1,7 @@
 ---
 title:      "Loki"
 ring:       trial
-quadrant:   tools
+segment:    tools
 tags:       [devops]
 ---
 

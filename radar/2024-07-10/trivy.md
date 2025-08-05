@@ -1,7 +1,7 @@
 ---
 title:      "Trivy"
 ring:       adopt
-quadrant:   tools
+segment:    tools
 tags:       [ci/cd, devops, security]
 featured:   false
 ---

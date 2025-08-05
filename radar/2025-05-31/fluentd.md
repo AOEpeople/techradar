@@ -1,7 +1,7 @@
 ---
 title:      "Fluentd"
 ring:       hold
-quadrant:   tools
+segment:    tools
 tags:       [devops]
 featured:   false
 ---

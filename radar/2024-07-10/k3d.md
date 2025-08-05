@@ -1,7 +1,7 @@
 ---
 title:      "K3D"
 ring:       trial
-quadrant:   tools
+segment:    tools
 tags:       [devops]
 ---
 

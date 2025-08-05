@@ -1,6 +1,6 @@
 ---
 title:      "Neo4j"
 ring:       assess
-quadrant:   platforms-and-aoe-services
+segment:    platforms-and-aoe-services
 featured:   false
 ---

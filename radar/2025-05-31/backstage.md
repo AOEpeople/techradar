@@ -1,7 +1,7 @@
 ---
 title:      "Backstage"
 ring:       trial
-quadrant:   tools
+segment:    tools
 tags:       [agile, documentation]
 featured:   false
 ---

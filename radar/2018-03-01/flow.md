@@ -1,6 +1,6 @@
 ---
 title:      "Flow"
 ring:       hold
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 featured:   false
 ---

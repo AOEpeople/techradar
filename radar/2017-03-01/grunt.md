@@ -1,7 +1,7 @@
 ---
 title:      "Grunt"
 ring:       hold
-quadrant:   tools
+segment:    tools
 ---
 
 Grunt is a JavaScript task runner that automates repetitive tasks. While Grunt served us well for a good amount of projects,

@@ -1,6 +1,6 @@
 ---
 title:      "NPM"
 ring:       adopt
-quadrant:   tools
+segment:    tools
 featured:   false
 ---

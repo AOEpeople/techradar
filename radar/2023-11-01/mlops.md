@@ -1,7 +1,7 @@
 ---
 title:      "MLOps"
 ring:       assess
-quadrant:   methods-and-patterns
-tags:       [devops, ai]
+segment:    methods-and-patterns
+tags:       [ai, devops]
 featured:   false
 ---

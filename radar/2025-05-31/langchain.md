@@ -1,7 +1,7 @@
 ---
 title:      "LangChain"
 ring:       trial
-quadrant:   languages-and-frameworks
+segment:    languages-and-frameworks
 tags:       [ai]
 featured:   false
 ---

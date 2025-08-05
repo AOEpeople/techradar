@@ -1,7 +1,7 @@
 ---
 title:      "Client-Side Error Logging"
 ring:       adopt
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 tags:       [architecture, frontend]
 ---
 

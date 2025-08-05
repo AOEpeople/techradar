@@ -1,7 +1,7 @@
 ---
 title:      "Reactive Programming"
 ring:       adopt
-quadrant:   methods-and-patterns
+segment:    methods-and-patterns
 ---
 
 The reactive style of programming promotes event-based thinking and modeling - and by that assists in creating more decoupled solutions.

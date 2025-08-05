@@ -1,8 +1,8 @@
 ---
 title:      "DORA Metrics for DevOps"
 ring:       trial
-quadrant:   methods-and-patterns
-tags:       [devops, documentation, agile]
+segment:    methods-and-patterns
+tags:       [agile, devops, documentation]
 ---
 
 A primary goal of software development organizations is to enhance the performance of software delivery and operations.

@@ -1,8 +1,8 @@
 ---
 title:      "Open Policy Agent"
 ring:       assess
-quadrant:   tools
-tags:       [security, architecture]
+segment:    tools
+tags:       [architecture, security]
 featured:   false
 ---
 

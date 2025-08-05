@@ -1,8 +1,8 @@
 ---
 title:      "Tailwind CSS"
 ring:       adopt
-quadrant:   languages-and-frameworks
-tags: [coding, frontend]
+segment:    languages-and-frameworks
+tags:       [coding, frontend]
 ---
 
 Tailwind CSS has continued to be a vital part of our frontend development toolkit. The recent update to version 4.0 has moved all of the theme configuration into CSS variables. We appreciate this update since it further increases the reusability of design tokens, can allow for theme changes during runtime and fully moves Tailwind into CSS.
