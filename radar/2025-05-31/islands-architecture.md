@@ -5,4 +5,10 @@ quadrant:   methods-and-patterns
 tags:       [frontend]
 ---
 
-Islands architecture is a modern web development pattern that focuses on optimizing the performance of web applications by breaking them down into smaller, self-contained components. Allowing for component which don't allow any interaction to be statically rendered on the server before being sent to the client. Interactive components, even ones contained in the static components, can then be hydrated to enable interactivity when needed, all without being dependent on any components higher up in the hierarchy. The point in time hydration occurs can also be deferred until it becomes necessary. This can be done on **a per by per basis** for each interactive component. This greatly reduces the initial amount of JavaScript that needs to be loaded compared to traditional single-page applications (SPAs).
+Islands architecture is a modern web development pattern focused on optimizing performance by decomposing pages into self-contained, interactive components—so-called "islands"—within an otherwise static layout.
+
+Non-interactive content is fully rendered on the server and sent to the client as static HTML. Interactive components, including those nested within static content, are hydrated individually and only when needed. Hydration can be deferred until a specific condition is met, such as user interaction or viewport visibility.
+
+This approach allows JavaScript to be loaded only for components that require it, significantly reducing the initial bundle size compared to traditional single-page applications.
+
+Islands architecture promotes fast load times and scalability, but requires a more deliberate design process to determine when and how each component should be hydrated.

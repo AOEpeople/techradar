@@ -5,9 +5,11 @@ quadrant:   languages-and-frameworks
 tags:       [coding, frontend]
 ---
 
-Astro is an agnostic frontend framework targeted at static websites with moderate amounts of interactivity.
+[Astro](https://astro.build/) is an agnostic frontend framework targeted at static websites with moderate amounts of interactivity.
 
-Fundamentally, Astro is based on the concept of [islands architecture](/methods-and-patterns/islands-architecture/), where interactive components act similar to isolated applications within a static page. The JavaScript to make these components interactive is supplied only when needed, with developers being able to define the exact point when hydration occurs by using [Astro's directives](https://docs.astro.build/en/reference/directives-reference/). This allows for very granular control over when JavaScript needs to be fetched, which can lead to very small initial load times. However, this comes at the cost of a more complex design process, since developers must carefully consider which components require interactivity and when. For example, if a client to **misconfigured** only hydrate on mobile for example, the component will not be interactive on desktop, which can lead to a confusing user experience.
+Fundamentally, Astro is based on the concept of [islands architecture](/methods-and-patterns/islands-architecture/), where interactive components behave like isolated applications within an otherwise static page. JavaScript is only loaded when needed, and developers can define exactly when hydration occurs using Astro's [directives](https://docs.astro.build/en/reference/directives-reference/). This enables fine-grained control over JavaScript loading and can significantly reduce initial load times.
+
+However, this approach increases design complexity, as developers must deliberately decide which components require interactivity and under what conditions. For instance, if a component is configured to hydrate only on mobile, it will remain non-interactive on desktop—potentially resulting in a confusing user experience.
 
 For static components, i.e., components which will not require any JS during runtime, Astro supports its own component-based templating syntax, which also allows fetching data and fully statically rendering components during build time. Components which do require client-side interactivity can be written in any of the popular frontend frameworks including React, Vue, Svelte, or Preact. These dynamic components will receive the necessary framework-specific JavaScript at the point of hydration individually.
 
