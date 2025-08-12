@@ -11,6 +11,6 @@ In light of this, we recommend **adopting accessibility as a core design and dev
 
 Adopting accessibility improves usability for all users, reduces legal risks, and supports ethical and inclusive product development. Teams should familiarize themselves with WCAG 2.2 criteria, such as using semantic HTML, providing alternative text for images, and ensuring keyboard navigability.
 
-The use of [Accessibility Tools](/tools/accessibility-tools) also helps to understand and build more inclusive websites.
+The use of [Accessibility Testing Tools](/tools/accessibility-testing-tools) also helps to understand and build more inclusive websites.
 
 This is not merely about fulfilling legal requirements; it’s about designing technology that is better and more inclusive for everyone.
