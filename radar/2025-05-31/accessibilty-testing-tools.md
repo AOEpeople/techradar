@@ -1,5 +1,5 @@
 ---
-title:      "Accessibility Tools"
+title:      "Accessibility Testing Tools"
 ring:       adopt
 segment:    tools
 tags:       [accessibility, frontend, quality assurance]
