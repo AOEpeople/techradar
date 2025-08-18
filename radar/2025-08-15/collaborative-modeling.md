@@ -2,7 +2,7 @@
 title:      "Collaborative Modeling"
 ring:       adopt
 segment:    methods-and-patterns
-tags:       [academy-training, agile, architecture]
+tags:       [academy training, agile, architecture]
 ---
 
 Collaborative modeling refers to a set of workshop-based techniques that support shared understanding and alignment between domain experts, developers, UI/UX designers, and other stakeholders. These lightweight, visual, and accessible methods accelerate domain exploration and reduce misalignment between business and IT.

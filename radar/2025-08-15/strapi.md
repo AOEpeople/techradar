@@ -2,7 +2,7 @@
 title:      "Strapi"
 ring:       adopt
 segment:    tools
-tags:       [frontend]
+tags:       [cms, frontend]
 featured:   false
 ---
 

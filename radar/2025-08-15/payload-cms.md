@@ -2,7 +2,7 @@
 title:      "Payload CMS"
 ring:       assess
 segment:    tools
-tags:       [cms, headless]
+tags:       [cms, frontend]
 ---
 
 [Payload CMS](https://payloadcms.com/) has recently released version 3, bringing significant improvements in performance, flexibility, and developer experience. As a self-hosted, headless CMS built with Node.js and TypeScript, Payload offers full control over data models, access control, and API behavior—making it a strong candidate for custom content-heavy applications.

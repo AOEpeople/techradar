@@ -2,7 +2,7 @@
 title:      "Event Storming"
 ring:       assess
 segment:    methods-and-patterns
-tags:       [academy-training, agile, architecture]
+tags:       [academy training, agile, architecture]
 ---
 
 [Event Storming](https://www.eventstorming.com/) is a collaborative workshop method for exploring and modeling complex business domains through domain events.
