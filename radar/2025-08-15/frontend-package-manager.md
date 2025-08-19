@@ -23,7 +23,7 @@ Both package managers have broad support and are widely used in the frontend com
 
 ### bun
 
-Apart from aiming to be a drop-in replacement for the Node.js runtime itself, [`bun`](/tools/bun/) also comes with its own package manager. It also provide faster install times and more efficient disk usage like `pnpm` and `yarn`. Bun can also replace your test runner and bundler, and also ships with TypeScript support out of the box.
+Apart from aiming to be a drop-in replacement for the Node.js runtime itself, [`bun`](/languages-and-frameworks/bun/) also comes with its own package manager. It also provide faster install times and more efficient disk usage like `pnpm` and `yarn`. Bun can also replace your test runner and bundler, and also ships with TypeScript support out of the box.
 
 Sadly, `bun` is still relatively new and some features are still under development. Therefore, it is not yet viable for enterprise level applications. However, it is worth keeping an eye on as it continues to mature.
 
