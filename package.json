@@ -10,6 +10,6 @@
     "serve": "techradar serve"
   },
   "dependencies": {
-    "aoe_technology_radar": "AOEpeople/aoe_technology_radar#d2357d5"
+    "aoe_technology_radar": "github:AOEpeople/aoe_technology_radar#v5"
   }
 }
