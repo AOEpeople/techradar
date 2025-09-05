@@ -23,32 +23,27 @@
   },
   "segments": [
     {
-      "id": "methods-and-patterns",
-      "title": "Methods & Patterns",
-      "description": "This quadrant covers methods and patterns related to software development, including architecture, security, testing, organizational methodologies, and more.",
-      "label": "Quadrant 2",
+      "id": "languages-and-frameworks",
+      "title": "Languages & Frameworks",
+      "description": "This quadrant includes programming languages (e.g., Java and Golang) and frameworks (e.g., React and Spring Boot) that are at the core of custom software development.",
       "color": "#248EA6"
     },
     {
-      "id": "tools",
-      "title": "Tools",
-      "description": "This quadrant features a variety of tools, from small utilities to large-scale software projects.",
-      "label": "Quadrant 4",
+      "id": "methods-and-patterns",
+      "title": "Methods & Patterns",
+      "description": "This quadrant covers methods and patterns related to software development, including architecture, security, testing, organizational methodologies, and more.",
       "color": "#F2A25C"
     },
     {
       "id": "platforms-and-aoe-services",
       "title": "Platforms & Operations",
       "description": "This quadrant clusters technologies focused on the operation of software, related platforms, tools, infrastructure, and services.",
-      "label": "Quadrant 3",
       "color": "#F25244"
     },
-
     {
-      "id": "languages-and-frameworks",
-      "title": "Languages & Frameworks",
-      "description": "This quadrant includes programming languages (e.g., Java and Golang) and frameworks (e.g., React and Spring Boot) that are at the core of custom software development.",
-      "label": "Quadrant 1",
+      "id": "tools",
+      "title": "Tools",
+      "description": "This quadrant features a variety of tools, from small utilities to large-scale software projects.",
       "color": "#84BFA4"
     }
   ],
@@ -149,8 +144,8 @@
   ],
   "labels": {
     "title": "AOE Technology Radar",
-    "quadrant": "Quadrant",
-    "quadrantOverview": "Quadrant Overview",
+    "segment": "Quadrant",
+    "segmentOverview": "Quadrant Overview",
     "zoomIn": "Zoom in",
     "filterByTag": "Filter by Tag",
     "footer": "AOE is a leading global provider of services for digital transformation and digital business models. AOE relies exclusively on established Enterprise Open Source technologies. This leads to innovative solutions, digital products and portals in agile software projects, and helps build long-lasting, strategic partnerships with our customers.",
